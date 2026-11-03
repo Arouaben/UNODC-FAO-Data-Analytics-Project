@@ -1,0 +1,801 @@
+Parcelle_ID,Filiere_Fruit,Effectif_Recolte_Manuelle,Production_Attendue_Tonnes,Taux_Perte_Criminalite_Pct,Volume_Perdu_Tonnes,Cluster_Agri,Profil_Vulnerabilite,Volume_Perdu_Predit_Tonnes
+PRC-0001,Olives,34,45.61,2.6,1.19,1,Exploitation Sous Menace Élevée,6.89
+PRC-0002,Grenades,21,67.84,10.37,7.04,0,Exploitation Résiliente,10.11
+PRC-0003,Dattes Deglet Nour,24,57.29,18.55,10.63,2,Petite Exploitation Ciblée,8.8
+PRC-0004,Olives,29,95.26,5.87,5.59,0,Exploitation Résiliente,13.99
+PRC-0005,Olives,26,65.36,20.08,13.12,2,Petite Exploitation Ciblée,9.62
+PRC-0006,Grenades,17,46.29,21.39,9.9,2,Petite Exploitation Ciblée,6.93
+PRC-0007,Dattes Deglet Nour,23,56.37,27.53,15.52,2,Petite Exploitation Ciblée,8.66
+PRC-0008,Dattes Deglet Nour,16,51.01,7.46,3.81,1,Exploitation Sous Menace Élevée,7.77
+PRC-0009,Olives,23,66.42,23.45,15.58,2,Petite Exploitation Ciblée,9.72
+PRC-0010,Agrumes,16,38.38,15.53,5.96,2,Petite Exploitation Ciblée,5.68
+PRC-0011,Olives,13,41.56,11.71,4.87,1,Exploitation Sous Menace Élevée,5.96
+PRC-0012,Olives,11,19.41,5.18,1.01,1,Exploitation Sous Menace Élevée,2.73
+PRC-0013,Olives,32,49.98,21.12,10.56,2,Petite Exploitation Ciblée,7.49
+PRC-0014,Olives,18,28.24,8.13,2.3,1,Exploitation Sous Menace Élevée,4.12
+PRC-0015,Grenades,35,68.89,11.66,8.03,0,Exploitation Résiliente,10.49
+PRC-0016,Dattes Deglet Nour,23,40.23,3.63,1.46,1,Exploitation Sous Menace Élevée,6.32
+PRC-0017,Grenades,20,66.78,22.84,15.25,2,Petite Exploitation Ciblée,9.94
+PRC-0018,Grenades,9,12.99,21.93,2.85,2,Petite Exploitation Ciblée,1.99
+PRC-0019,Grenades,39,109.5,21.07,23.07,0,Exploitation Résiliente,16.43
+PRC-0020,Olives,16,26.16,9.79,2.56,1,Exploitation Sous Menace Élevée,3.79
+PRC-0021,Agrumes,29,93.61,6.51,6.09,0,Exploitation Résiliente,13.88
+PRC-0022,Dattes Deglet Nour,25,85.28,18.58,15.85,0,Exploitation Résiliente,12.87
+PRC-0023,Agrumes,27,61.31,14.9,9.14,0,Exploitation Résiliente,9.18
+PRC-0024,Grenades,20,64.44,6.63,4.27,1,Exploitation Sous Menace Élevée,9.61
+PRC-0025,Grenades,18,21.81,19.83,4.32,2,Petite Exploitation Ciblée,3.41
+PRC-0026,Agrumes,35,108.01,27.77,29.99,0,Exploitation Résiliente,16.06
+PRC-0027,Agrumes,9,15.53,21.43,3.33,2,Petite Exploitation Ciblée,2.26
+PRC-0028,Agrumes,39,128.31,21.24,27.25,0,Exploitation Résiliente,19.06
+PRC-0029,Grenades,27,32.47,26.71,8.67,2,Petite Exploitation Ciblée,5.1
+PRC-0030,Grenades,33,81.81,7.28,5.96,0,Exploitation Résiliente,12.33
+PRC-0031,Dattes Deglet Nour,15,44.1,16.7,7.36,2,Petite Exploitation Ciblée,6.75
+PRC-0032,Dattes Deglet Nour,22,39.49,27.47,10.85,2,Petite Exploitation Ciblée,6.2
+PRC-0033,Grenades,16,26.31,6.3,1.66,1,Exploitation Sous Menace Élevée,4.03
+PRC-0034,Agrumes,13,18.11,20.21,3.66,2,Petite Exploitation Ciblée,2.7
+PRC-0035,Agrumes,14,27.31,17.23,4.71,2,Petite Exploitation Ciblée,4.05
+PRC-0036,Dattes Deglet Nour,21,52.24,17.25,9.01,2,Petite Exploitation Ciblée,8.03
+PRC-0037,Grenades,11,16.13,20.14,3.25,2,Petite Exploitation Ciblée,2.48
+PRC-0038,Dattes Deglet Nour,17,35.13,26.17,9.19,2,Petite Exploitation Ciblée,5.49
+PRC-0039,Dattes Deglet Nour,13,15.87,22.35,3.55,2,Petite Exploitation Ciblée,2.64
+PRC-0040,Olives,31,95.57,3.46,3.31,0,Exploitation Résiliente,14.06
+PRC-0041,Olives,6,8.97,24.17,2.17,2,Petite Exploitation Ciblée,1.14
+PRC-0042,Olives,9,16.67,7.86,1.31,1,Exploitation Sous Menace Élevée,2.3
+PRC-0043,Agrumes,33,41.0,11.8,4.84,1,Exploitation Sous Menace Élevée,6.34
+PRC-0044,Grenades,23,50.47,14.01,7.07,1,Exploitation Sous Menace Élevée,7.64
+PRC-0045,Grenades,12,37.59,14.5,5.45,1,Exploitation Sous Menace Élevée,5.59
+PRC-0046,Grenades,5,10.51,13.31,1.4,1,Exploitation Sous Menace Élevée,1.56
+PRC-0047,Grenades,26,41.93,26.37,11.06,2,Petite Exploitation Ciblée,6.45
+PRC-0048,Olives,21,61.6,20.36,12.54,2,Petite Exploitation Ciblée,8.99
+PRC-0049,Agrumes,11,33.16,18.41,6.1,2,Petite Exploitation Ciblée,4.85
+PRC-0050,Agrumes,29,46.39,3.3,1.53,1,Exploitation Sous Menace Élevée,7.05
+PRC-0051,Olives,8,23.78,25.5,6.06,2,Petite Exploitation Ciblée,3.31
+PRC-0052,Agrumes,10,33.79,25.64,8.66,2,Petite Exploitation Ciblée,4.92
+PRC-0053,Olives,35,55.39,22.29,12.35,2,Petite Exploitation Ciblée,8.32
+PRC-0054,Grenades,23,68.39,2.18,1.49,1,Exploitation Sous Menace Élevée,10.23
+PRC-0055,Olives,31,87.72,3.49,3.06,0,Exploitation Résiliente,12.93
+PRC-0056,Grenades,14,32.05,7.86,2.52,1,Exploitation Sous Menace Élevée,4.83
+PRC-0057,Grenades,30,40.0,5.42,2.17,1,Exploitation Sous Menace Élevée,6.24
+PRC-0058,Dattes Deglet Nour,23,31.55,12.37,3.9,1,Exploitation Sous Menace Élevée,5.07
+PRC-0059,Olives,7,22.12,25.99,5.75,2,Petite Exploitation Ciblée,3.05
+PRC-0060,Dattes Deglet Nour,17,59.11,14.27,8.43,0,Exploitation Résiliente,8.95
+PRC-0061,Olives,32,88.16,2.35,2.07,0,Exploitation Résiliente,13.01
+PRC-0062,Olives,24,53.42,9.35,4.99,1,Exploitation Sous Menace Élevée,7.86
+PRC-0063,Dattes Deglet Nour,32,86.06,3.16,2.72,0,Exploitation Résiliente,13.09
+PRC-0064,Dattes Deglet Nour,12,30.81,2.94,0.91,1,Exploitation Sous Menace Élevée,4.78
+PRC-0065,Olives,5,10.41,9.17,0.95,1,Exploitation Sous Menace Élevée,1.33
+PRC-0066,Agrumes,7,9.46,9.17,0.87,1,Exploitation Sous Menace Élevée,1.35
+PRC-0067,Grenades,17,52.52,22.47,11.8,2,Petite Exploitation Ciblée,7.83
+PRC-0068,Dattes Deglet Nour,32,65.77,27.35,17.99,2,Petite Exploitation Ciblée,10.16
+PRC-0069,Grenades,29,89.41,11.65,10.42,0,Exploitation Résiliente,13.36
+PRC-0070,Agrumes,37,65.89,13.15,8.66,0,Exploitation Résiliente,10.0
+PRC-0071,Agrumes,10,12.02,23.96,2.88,2,Petite Exploitation Ciblée,1.77
+PRC-0072,Agrumes,36,56.36,8.97,5.06,1,Exploitation Sous Menace Élevée,8.61
+PRC-0073,Dattes Deglet Nour,25,56.94,6.07,3.46,1,Exploitation Sous Menace Élevée,8.77
+PRC-0074,Agrumes,20,67.44,24.18,16.31,2,Petite Exploitation Ciblée,9.95
+PRC-0075,Dattes Deglet Nour,25,35.88,3.21,1.15,1,Exploitation Sous Menace Élevée,5.73
+PRC-0076,Agrumes,15,47.47,18.11,8.6,2,Petite Exploitation Ciblée,6.98
+PRC-0077,Grenades,39,94.07,16.61,15.63,0,Exploitation Résiliente,14.2
+PRC-0078,Grenades,23,71.29,10.99,7.83,0,Exploitation Résiliente,10.65
+PRC-0079,Olives,24,45.27,10.19,4.61,1,Exploitation Sous Menace Élevée,6.68
+PRC-0080,Grenades,22,68.9,22.07,15.21,2,Petite Exploitation Ciblée,10.28
+PRC-0081,Olives,18,53.59,4.25,2.28,1,Exploitation Sous Menace Élevée,7.78
+PRC-0082,Grenades,19,32.85,8.16,2.68,1,Exploitation Sous Menace Élevée,5.02
+PRC-0083,Dattes Deglet Nour,35,52.57,21.04,11.06,2,Petite Exploitation Ciblée,8.3
+PRC-0084,Grenades,5,15.98,16.26,2.6,2,Petite Exploitation Ciblée,2.36
+PRC-0085,Olives,7,23.91,5.33,1.27,1,Exploitation Sous Menace Élevée,3.31
+PRC-0086,Olives,20,25.44,24.94,6.34,2,Petite Exploitation Ciblée,3.75
+PRC-0087,Agrumes,27,77.81,12.23,9.52,0,Exploitation Résiliente,11.56
+PRC-0088,Dattes Deglet Nour,15,49.38,23.52,11.61,2,Petite Exploitation Ciblée,7.51
+PRC-0089,Grenades,16,50.75,22.48,11.41,2,Petite Exploitation Ciblée,7.56
+PRC-0090,Agrumes,14,47.86,18.24,8.73,2,Petite Exploitation Ciblée,7.02
+PRC-0091,Grenades,36,106.14,14.86,15.77,0,Exploitation Résiliente,15.9
+PRC-0092,Grenades,20,44.35,27.47,12.18,2,Petite Exploitation Ciblée,6.7
+PRC-0093,Agrumes,12,23.01,5.77,1.33,1,Exploitation Sous Menace Élevée,3.39
+PRC-0094,Agrumes,16,31.0,20.85,6.46,2,Petite Exploitation Ciblée,4.61
+PRC-0095,Agrumes,28,80.25,6.97,5.59,0,Exploitation Résiliente,11.93
+PRC-0096,Agrumes,32,93.29,10.79,10.07,0,Exploitation Résiliente,13.88
+PRC-0097,Agrumes,12,19.93,10.03,2.0,1,Exploitation Sous Menace Élevée,2.95
+PRC-0098,Grenades,32,102.29,26.62,27.23,0,Exploitation Résiliente,15.27
+PRC-0099,Agrumes,30,85.33,27.15,23.17,0,Exploitation Résiliente,12.7
+PRC-0100,Dattes Deglet Nour,12,29.93,6.76,2.02,1,Exploitation Sous Menace Élevée,4.65
+PRC-0101,Olives,32,73.1,2.57,1.88,1,Exploitation Sous Menace Élevée,10.83
+PRC-0102,Agrumes,32,78.38,20.72,16.24,0,Exploitation Résiliente,11.73
+PRC-0103,Agrumes,31,48.55,12.87,6.25,1,Exploitation Sous Menace Élevée,7.4
+PRC-0104,Grenades,21,35.04,4.31,1.51,1,Exploitation Sous Menace Élevée,5.37
+PRC-0105,Agrumes,13,18.33,19.78,3.63,2,Petite Exploitation Ciblée,2.73
+PRC-0106,Agrumes,37,57.48,16.17,9.29,2,Petite Exploitation Ciblée,8.78
+PRC-0107,Agrumes,24,53.84,27.49,14.8,2,Petite Exploitation Ciblée,8.05
+PRC-0108,Grenades,17,41.14,7.91,3.25,1,Exploitation Sous Menace Élevée,6.19
+PRC-0109,Agrumes,32,39.71,12.5,4.96,1,Exploitation Sous Menace Élevée,6.13
+PRC-0110,Olives,33,100.08,16.11,16.12,0,Exploitation Résiliente,14.75
+PRC-0111,Grenades,17,31.9,22.58,7.2,2,Petite Exploitation Ciblée,4.85
+PRC-0112,Olives,39,128.59,16.27,20.92,0,Exploitation Résiliente,18.97
+PRC-0113,Grenades,10,34.25,17.94,6.14,2,Petite Exploitation Ciblée,5.08
+PRC-0114,Agrumes,22,35.78,7.88,2.82,1,Exploitation Sous Menace Élevée,5.4
+PRC-0115,Olives,9,20.37,24.02,4.89,2,Petite Exploitation Ciblée,2.83
+PRC-0116,Grenades,29,34.88,13.14,4.58,1,Exploitation Sous Menace Élevée,5.48
+PRC-0117,Dattes Deglet Nour,6,15.46,5.66,0.88,1,Exploitation Sous Menace Élevée,2.46
+PRC-0118,Agrumes,14,36.36,19.27,7.01,2,Petite Exploitation Ciblée,5.36
+PRC-0119,Grenades,34,60.16,7.62,4.58,1,Exploitation Sous Menace Élevée,9.22
+PRC-0120,Dattes Deglet Nour,9,22.36,4.54,1.02,1,Exploitation Sous Menace Élevée,3.51
+PRC-0121,Grenades,37,63.59,24.41,15.52,2,Petite Exploitation Ciblée,9.76
+PRC-0122,Dattes Deglet Nour,5,7.85,13.96,1.1,1,Exploitation Sous Menace Élevée,1.35
+PRC-0123,Agrumes,22,59.37,21.48,12.75,2,Petite Exploitation Ciblée,8.81
+PRC-0124,Olives,36,70.19,9.56,6.71,0,Exploitation Résiliente,10.48
+PRC-0125,Dattes Deglet Nour,15,38.36,22.46,8.62,2,Petite Exploitation Ciblée,5.92
+PRC-0126,Grenades,25,54.91,4.91,2.7,1,Exploitation Sous Menace Élevée,8.31
+PRC-0127,Agrumes,30,103.92,11.26,11.7,0,Exploitation Résiliente,15.39
+PRC-0128,Dattes Deglet Nour,29,44.78,27.43,12.28,2,Petite Exploitation Ciblée,7.08
+PRC-0129,Grenades,26,58.98,22.64,13.35,2,Petite Exploitation Ciblée,8.91
+PRC-0130,Grenades,31,85.72,14.93,12.8,0,Exploitation Résiliente,12.86
+PRC-0131,Grenades,17,35.87,10.83,3.88,1,Exploitation Sous Menace Élevée,5.43
+PRC-0132,Dattes Deglet Nour,37,127.35,24.68,31.43,0,Exploitation Résiliente,19.15
+PRC-0133,Dattes Deglet Nour,38,108.69,16.17,17.58,0,Exploitation Résiliente,16.46
+PRC-0134,Dattes Deglet Nour,39,105.73,21.72,22.96,0,Exploitation Résiliente,16.05
+PRC-0135,Olives,5,14.71,21.61,3.18,2,Petite Exploitation Ciblée,1.95
+PRC-0136,Dattes Deglet Nour,25,84.78,2.47,2.09,0,Exploitation Résiliente,12.8
+PRC-0137,Dattes Deglet Nour,10,32.88,5.28,1.74,1,Exploitation Sous Menace Élevée,5.05
+PRC-0138,Dattes Deglet Nour,32,91.71,19.15,17.56,0,Exploitation Résiliente,13.91
+PRC-0139,Olives,21,61.38,6.2,3.81,1,Exploitation Sous Menace Élevée,8.96
+PRC-0140,Dattes Deglet Nour,9,13.82,8.64,1.19,1,Exploitation Sous Menace Élevée,2.28
+PRC-0141,Grenades,35,50.27,26.61,13.38,2,Petite Exploitation Ciblée,7.8
+PRC-0142,Dattes Deglet Nour,9,22.62,16.56,3.75,2,Petite Exploitation Ciblée,3.55
+PRC-0143,Grenades,7,8.7,21.52,1.87,2,Petite Exploitation Ciblée,1.34
+PRC-0144,Grenades,27,62.35,16.51,10.29,0,Exploitation Résiliente,9.42
+PRC-0145,Grenades,14,23.57,16.37,3.86,2,Petite Exploitation Ciblée,3.6
+PRC-0146,Olives,14,27.94,4.45,1.24,1,Exploitation Sous Menace Élevée,4.01
+PRC-0147,Olives,23,68.64,10.94,7.51,0,Exploitation Résiliente,10.04
+PRC-0148,Olives,21,70.66,9.34,6.6,0,Exploitation Résiliente,10.3
+PRC-0149,Dattes Deglet Nour,25,34.16,12.16,4.15,1,Exploitation Sous Menace Élevée,5.48
+PRC-0150,Grenades,18,43.72,22.76,9.95,2,Petite Exploitation Ciblée,6.58
+PRC-0151,Olives,13,41.99,11.67,4.9,1,Exploitation Sous Menace Élevée,6.03
+PRC-0152,Olives,5,6.95,13.74,0.95,1,Exploitation Sous Menace Élevée,0.83
+PRC-0153,Dattes Deglet Nour,17,52.64,12.33,6.49,1,Exploitation Sous Menace Élevée,8.02
+PRC-0154,Olives,8,16.18,4.43,0.72,1,Exploitation Sous Menace Élevée,2.21
+PRC-0155,Dattes Deglet Nour,5,9.7,13.47,1.31,1,Exploitation Sous Menace Élevée,1.61
+PRC-0156,Agrumes,36,124.13,7.09,8.8,0,Exploitation Résiliente,18.41
+PRC-0157,Olives,38,63.16,6.85,4.33,1,Exploitation Sous Menace Élevée,9.49
+PRC-0158,Agrumes,32,89.42,4.44,3.97,0,Exploitation Résiliente,13.32
+PRC-0159,Dattes Deglet Nour,35,108.13,11.27,12.19,0,Exploitation Résiliente,16.33
+PRC-0160,Grenades,12,15.54,21.69,3.37,2,Petite Exploitation Ciblée,2.41
+PRC-0161,Olives,30,82.26,9.19,7.56,0,Exploitation Résiliente,12.12
+PRC-0162,Dattes Deglet Nour,38,128.77,10.12,13.03,0,Exploitation Résiliente,19.37
+PRC-0163,Grenades,7,10.4,18.71,1.95,2,Petite Exploitation Ciblée,1.58
+PRC-0164,Grenades,16,52.18,7.09,3.7,1,Exploitation Sous Menace Élevée,7.77
+PRC-0165,Agrumes,5,12.84,25.32,3.25,2,Petite Exploitation Ciblée,1.81
+PRC-0166,Dattes Deglet Nour,9,23.56,15.52,3.66,2,Petite Exploitation Ciblée,3.68
+PRC-0167,Grenades,34,88.73,13.64,12.1,0,Exploitation Résiliente,13.35
+PRC-0168,Olives,34,64.17,16.5,10.59,0,Exploitation Résiliente,9.57
+PRC-0169,Olives,21,70.37,6.32,4.45,1,Exploitation Sous Menace Élevée,10.26
+PRC-0170,Agrumes,27,91.23,17.95,16.38,0,Exploitation Résiliente,13.5
+PRC-0171,Grenades,19,50.13,11.44,5.73,1,Exploitation Sous Menace Élevée,7.52
+PRC-0172,Dattes Deglet Nour,25,75.05,25.33,19.01,2,Petite Exploitation Ciblée,11.39
+PRC-0173,Olives,18,46.95,6.39,3.0,1,Exploitation Sous Menace Élevée,6.82
+PRC-0174,Grenades,6,13.88,15.18,2.11,1,Exploitation Sous Menace Élevée,2.07
+PRC-0175,Grenades,15,40.8,17.55,7.16,2,Petite Exploitation Ciblée,6.11
+PRC-0176,Agrumes,38,93.93,2.87,2.7,0,Exploitation Résiliente,14.07
+PRC-0177,Olives,38,97.82,11.46,11.21,0,Exploitation Résiliente,14.5
+PRC-0178,Olives,22,66.06,21.05,13.91,2,Petite Exploitation Ciblée,9.65
+PRC-0179,Dattes Deglet Nour,34,78.41,23.33,18.29,0,Exploitation Résiliente,12.02
+PRC-0180,Olives,19,24.58,10.14,2.49,1,Exploitation Sous Menace Élevée,3.61
+PRC-0181,Dattes Deglet Nour,31,48.89,22.76,11.13,2,Petite Exploitation Ciblée,7.7
+PRC-0182,Olives,38,83.93,27.16,22.8,0,Exploitation Résiliente,12.5
+PRC-0183,Agrumes,37,106.08,24.28,25.76,0,Exploitation Résiliente,15.81
+PRC-0184,Olives,28,71.81,5.06,3.63,1,Exploitation Sous Menace Élevée,10.58
+PRC-0185,Dattes Deglet Nour,19,51.22,21.23,10.87,2,Petite Exploitation Ciblée,7.85
+PRC-0186,Dattes Deglet Nour,34,78.28,10.31,8.07,0,Exploitation Résiliente,12.0
+PRC-0187,Agrumes,21,54.94,27.7,15.22,2,Petite Exploitation Ciblée,8.16
+PRC-0188,Olives,9,17.61,14.62,2.57,1,Exploitation Sous Menace Élevée,2.44
+PRC-0189,Olives,33,75.29,5.18,3.9,0,Exploitation Résiliente,11.17
+PRC-0190,Agrumes,8,23.29,20.85,4.86,2,Petite Exploitation Ciblée,3.37
+PRC-0191,Olives,14,44.87,10.4,4.67,1,Exploitation Sous Menace Élevée,6.46
+PRC-0192,Olives,21,46.15,27.92,12.89,2,Petite Exploitation Ciblée,6.76
+PRC-0193,Dattes Deglet Nour,14,18.21,27.47,5.0,2,Petite Exploitation Ciblée,2.99
+PRC-0194,Olives,21,33.01,19.06,6.29,2,Petite Exploitation Ciblée,4.86
+PRC-0195,Olives,24,29.95,5.38,1.61,1,Exploitation Sous Menace Élevée,4.46
+PRC-0196,Agrumes,28,75.67,19.86,15.03,0,Exploitation Résiliente,11.27
+PRC-0197,Agrumes,9,17.68,4.42,0.78,1,Exploitation Sous Menace Élevée,2.57
+PRC-0198,Grenades,38,93.01,2.76,2.57,0,Exploitation Résiliente,14.03
+PRC-0199,Dattes Deglet Nour,10,23.35,23.4,5.46,2,Petite Exploitation Ciblée,3.67
+PRC-0200,Olives,6,8.33,7.45,0.62,1,Exploitation Sous Menace Élevée,1.04
+PRC-0201,Olives,17,36.17,11.85,4.29,1,Exploitation Sous Menace Élevée,5.25
+PRC-0202,Grenades,15,25.61,27.31,6.99,2,Petite Exploitation Ciblée,3.91
+PRC-0203,Olives,27,58.38,10.76,6.28,1,Exploitation Sous Menace Élevée,8.62
+PRC-0204,Dattes Deglet Nour,20,33.36,9.71,3.24,1,Exploitation Sous Menace Élevée,5.28
+PRC-0205,Grenades,35,109.66,25.87,28.37,0,Exploitation Résiliente,16.39
+PRC-0206,Dattes Deglet Nour,15,24.01,4.88,1.17,1,Exploitation Sous Menace Élevée,3.85
+PRC-0207,Grenades,20,68.2,21.75,14.83,2,Petite Exploitation Ciblée,10.15
+PRC-0208,Grenades,12,25.88,27.69,7.17,2,Petite Exploitation Ciblée,3.9
+PRC-0209,Agrumes,8,25.17,25.43,6.4,2,Petite Exploitation Ciblée,3.64
+PRC-0210,Dattes Deglet Nour,8,21.17,18.94,4.01,2,Petite Exploitation Ciblée,3.32
+PRC-0211,Olives,29,83.85,10.17,8.53,0,Exploitation Résiliente,12.34
+PRC-0212,Olives,7,20.76,8.61,1.79,1,Exploitation Sous Menace Élevée,2.86
+PRC-0213,Dattes Deglet Nour,36,85.0,23.3,19.8,0,Exploitation Résiliente,13.01
+PRC-0214,Olives,7,17.15,24.88,4.27,2,Petite Exploitation Ciblée,2.34
+PRC-0215,Olives,31,73.85,15.66,11.56,0,Exploitation Résiliente,10.92
+PRC-0216,Dattes Deglet Nour,33,84.23,8.35,7.03,0,Exploitation Résiliente,12.85
+PRC-0217,Grenades,36,45.63,4.94,2.25,1,Exploitation Sous Menace Élevée,7.15
+PRC-0218,Dattes Deglet Nour,23,48.52,4.27,2.07,1,Exploitation Sous Menace Élevée,7.52
+PRC-0219,Grenades,25,64.86,20.7,13.43,2,Petite Exploitation Ciblée,9.75
+PRC-0220,Olives,9,23.17,12.92,2.99,1,Exploitation Sous Menace Élevée,3.24
+PRC-0221,Olives,22,66.52,25.54,16.99,2,Petite Exploitation Ciblée,9.72
+PRC-0222,Olives,32,86.61,21.23,18.39,0,Exploitation Résiliente,12.79
+PRC-0223,Agrumes,26,90.53,6.97,6.31,0,Exploitation Résiliente,13.38
+PRC-0224,Grenades,25,46.32,17.96,8.32,2,Petite Exploitation Ciblée,7.07
+PRC-0225,Agrumes,10,20.26,13.32,2.7,1,Exploitation Sous Menace Élevée,2.96
+PRC-0226,Agrumes,5,10.41,17.01,1.77,2,Petite Exploitation Ciblée,1.46
+PRC-0227,Dattes Deglet Nour,9,20.44,21.19,4.33,2,Petite Exploitation Ciblée,3.23
+PRC-0228,Agrumes,16,49.96,22.96,11.47,2,Petite Exploitation Ciblée,7.36
+PRC-0229,Dattes Deglet Nour,30,52.27,23.94,12.51,2,Petite Exploitation Ciblée,8.18
+PRC-0230,Dattes Deglet Nour,38,113.42,8.6,9.75,0,Exploitation Résiliente,17.15
+PRC-0231,Agrumes,18,38.38,2.81,1.08,1,Exploitation Sous Menace Élevée,5.71
+PRC-0232,Grenades,30,77.53,21.22,16.45,0,Exploitation Résiliente,11.66
+PRC-0233,Grenades,31,82.3,4.76,3.92,0,Exploitation Résiliente,12.37
+PRC-0234,Grenades,13,26.75,10.19,2.73,1,Exploitation Sous Menace Élevée,4.04
+PRC-0235,Grenades,30,71.37,2.1,1.5,1,Exploitation Sous Menace Élevée,10.77
+PRC-0236,Grenades,26,55.9,19.72,11.02,2,Petite Exploitation Ciblée,8.47
+PRC-0237,Agrumes,34,46.21,6.35,2.93,1,Exploitation Sous Menace Élevée,7.11
+PRC-0238,Agrumes,21,46.32,19.04,8.82,2,Petite Exploitation Ciblée,6.91
+PRC-0239,Olives,30,42.72,27.79,11.87,2,Petite Exploitation Ciblée,6.41
+PRC-0240,Grenades,5,10.66,3.89,0.41,1,Exploitation Sous Menace Élevée,1.59
+PRC-0241,Agrumes,12,30.76,4.0,1.23,1,Exploitation Sous Menace Élevée,4.51
+PRC-0242,Olives,39,98.77,10.85,10.72,0,Exploitation Résiliente,14.66
+PRC-0243,Grenades,19,51.76,24.53,12.7,2,Petite Exploitation Ciblée,7.76
+PRC-0244,Dattes Deglet Nour,26,36.9,7.6,2.8,1,Exploitation Sous Menace Élevée,5.89
+PRC-0245,Olives,18,48.6,11.37,5.53,1,Exploitation Sous Menace Élevée,7.06
+PRC-0246,Agrumes,30,57.54,3.78,2.18,1,Exploitation Sous Menace Élevée,8.68
+PRC-0247,Dattes Deglet Nour,32,67.77,21.84,14.8,2,Petite Exploitation Ciblée,10.45
+PRC-0248,Dattes Deglet Nour,27,85.68,12.62,10.81,0,Exploitation Résiliente,12.96
+PRC-0249,Dattes Deglet Nour,18,21.97,21.74,4.78,2,Petite Exploitation Ciblée,3.6
+PRC-0250,Olives,28,71.49,25.49,18.22,2,Petite Exploitation Ciblée,10.53
+PRC-0251,Agrumes,6,15.46,8.05,1.24,1,Exploitation Sous Menace Élevée,2.2
+PRC-0252,Dattes Deglet Nour,30,63.37,22.99,14.57,2,Petite Exploitation Ciblée,9.78
+PRC-0253,Grenades,18,31.41,3.54,1.11,1,Exploitation Sous Menace Élevée,4.8
+PRC-0254,Dattes Deglet Nour,11,19.14,25.37,4.86,2,Petite Exploitation Ciblée,3.08
+PRC-0255,Dattes Deglet Nour,7,22.63,18.92,4.28,2,Petite Exploitation Ciblée,3.52
+PRC-0256,Olives,27,59.85,24.73,14.8,2,Petite Exploitation Ciblée,8.84
+PRC-0257,Olives,22,43.14,2.0,0.86,1,Exploitation Sous Menace Élevée,6.34
+PRC-0258,Agrumes,39,87.06,6.4,5.57,0,Exploitation Résiliente,13.09
+PRC-0259,Grenades,19,52.05,12.13,6.31,1,Exploitation Sous Menace Élevée,7.8
+PRC-0260,Olives,29,44.52,11.87,5.28,1,Exploitation Sous Menace Élevée,6.65
+PRC-0261,Dattes Deglet Nour,32,71.48,7.89,5.64,0,Exploitation Résiliente,10.99
+PRC-0262,Agrumes,14,35.73,11.92,4.26,1,Exploitation Sous Menace Élevée,5.27
+PRC-0263,Dattes Deglet Nour,21,71.02,5.35,3.8,1,Exploitation Sous Menace Élevée,10.74
+PRC-0264,Dattes Deglet Nour,26,46.3,12.73,5.89,1,Exploitation Sous Menace Élevée,7.25
+PRC-0265,Olives,30,60.79,22.86,13.9,2,Petite Exploitation Ciblée,9.02
+PRC-0266,Agrumes,29,60.1,14.46,8.69,0,Exploitation Résiliente,9.03
+PRC-0267,Grenades,21,54.45,2.47,1.34,1,Exploitation Sous Menace Élevée,8.18
+PRC-0268,Grenades,17,34.35,12.96,4.45,1,Exploitation Sous Menace Élevée,5.21
+PRC-0269,Olives,24,58.25,2.71,1.58,1,Exploitation Sous Menace Élevée,8.56
+PRC-0270,Olives,29,86.95,27.12,23.58,0,Exploitation Résiliente,12.79
+PRC-0271,Agrumes,8,22.58,5.31,1.2,1,Exploitation Sous Menace Élevée,3.27
+PRC-0272,Grenades,14,31.17,20.4,6.36,2,Petite Exploitation Ciblée,4.7
+PRC-0273,Grenades,7,22.31,27.29,6.09,2,Petite Exploitation Ciblée,3.3
+PRC-0274,Grenades,22,54.64,23.48,12.83,2,Petite Exploitation Ciblée,8.22
+PRC-0275,Dattes Deglet Nour,26,63.49,20.18,12.81,2,Petite Exploitation Ciblée,9.73
+PRC-0276,Grenades,38,48.59,23.83,11.58,2,Petite Exploitation Ciblée,7.61
+PRC-0277,Dattes Deglet Nour,12,41.63,27.53,11.46,2,Petite Exploitation Ciblée,6.35
+PRC-0278,Agrumes,23,34.11,18.15,6.19,2,Petite Exploitation Ciblée,5.18
+PRC-0279,Dattes Deglet Nour,10,17.32,16.54,2.86,2,Petite Exploitation Ciblée,2.8
+PRC-0280,Agrumes,30,39.57,18.33,7.25,2,Petite Exploitation Ciblée,6.08
+PRC-0281,Grenades,38,101.54,15.85,16.09,0,Exploitation Résiliente,15.26
+PRC-0282,Grenades,10,17.17,18.51,3.18,2,Petite Exploitation Ciblée,2.61
+PRC-0283,Agrumes,37,59.72,13.7,8.18,0,Exploitation Résiliente,9.11
+PRC-0284,Olives,26,36.5,7.68,2.8,1,Exploitation Sous Menace Élevée,5.44
+PRC-0285,Agrumes,25,35.94,5.13,1.84,1,Exploitation Sous Menace Élevée,5.47
+PRC-0286,Olives,10,25.45,3.78,0.96,1,Exploitation Sous Menace Élevée,3.58
+PRC-0287,Dattes Deglet Nour,10,27.83,8.85,2.46,1,Exploitation Sous Menace Élevée,4.32
+PRC-0288,Dattes Deglet Nour,8,16.91,3.2,0.54,1,Exploitation Sous Menace Élevée,2.71
+PRC-0289,Dattes Deglet Nour,34,78.33,16.75,13.12,0,Exploitation Résiliente,12.01
+PRC-0290,Grenades,15,41.67,9.38,3.91,1,Exploitation Sous Menace Élevée,6.23
+PRC-0291,Dattes Deglet Nour,34,42.16,23.44,9.88,2,Petite Exploitation Ciblée,6.78
+PRC-0292,Olives,35,68.01,3.93,2.67,1,Exploitation Sous Menace Élevée,10.15
+PRC-0293,Dattes Deglet Nour,28,96.27,7.89,7.6,0,Exploitation Résiliente,14.51
+PRC-0294,Agrumes,13,32.95,20.99,6.92,2,Petite Exploitation Ciblée,4.85
+PRC-0295,Agrumes,7,12.49,17.57,2.19,2,Petite Exploitation Ciblée,1.79
+PRC-0296,Grenades,35,84.0,3.68,3.09,0,Exploitation Résiliente,12.68
+PRC-0297,Agrumes,28,55.67,24.81,13.81,2,Petite Exploitation Ciblée,8.38
+PRC-0298,Olives,35,84.85,24.81,21.05,0,Exploitation Résiliente,12.58
+PRC-0299,Dattes Deglet Nour,10,14.89,10.59,1.58,1,Exploitation Sous Menace Élevée,2.45
+PRC-0300,Grenades,6,9.03,10.85,0.98,1,Exploitation Sous Menace Élevée,1.37
+PRC-0301,Dattes Deglet Nour,24,36.72,27.71,10.18,2,Petite Exploitation Ciblée,5.83
+PRC-0302,Dattes Deglet Nour,32,107.57,18.28,19.66,0,Exploitation Résiliente,16.2
+PRC-0303,Olives,15,43.29,15.81,6.84,2,Petite Exploitation Ciblée,6.25
+PRC-0304,Agrumes,8,12.59,23.79,3.0,2,Petite Exploitation Ciblée,1.82
+PRC-0305,Agrumes,19,31.03,9.42,2.92,1,Exploitation Sous Menace Élevée,4.67
+PRC-0306,Dattes Deglet Nour,10,28.81,13.16,3.79,1,Exploitation Sous Menace Élevée,4.46
+PRC-0307,Grenades,34,53.01,8.96,4.75,1,Exploitation Sous Menace Élevée,8.18
+PRC-0308,Agrumes,6,10.44,22.52,2.35,2,Petite Exploitation Ciblée,1.48
+PRC-0309,Grenades,19,64.9,16.91,10.97,0,Exploitation Résiliente,9.66
+PRC-0310,Agrumes,15,26.81,19.13,5.13,2,Petite Exploitation Ciblée,3.99
+PRC-0311,Grenades,12,32.66,8.56,2.8,1,Exploitation Sous Menace Élevée,4.88
+PRC-0312,Olives,30,103.53,7.73,8.0,0,Exploitation Résiliente,15.2
+PRC-0313,Grenades,9,18.55,14.7,2.73,1,Exploitation Sous Menace Élevée,2.79
+PRC-0314,Olives,10,12.4,21.18,2.63,2,Petite Exploitation Ciblée,1.7
+PRC-0315,Olives,30,52.85,15.66,8.28,2,Petite Exploitation Ciblée,7.87
+PRC-0316,Grenades,8,24.89,2.85,0.71,1,Exploitation Sous Menace Élevée,3.69
+PRC-0317,Olives,23,73.34,24.58,18.03,2,Petite Exploitation Ciblée,10.72
+PRC-0318,Dattes Deglet Nour,24,71.22,3.68,2.62,1,Exploitation Sous Menace Élevée,10.82
+PRC-0319,Olives,37,54.03,26.85,14.51,2,Petite Exploitation Ciblée,8.16
+PRC-0320,Agrumes,24,72.71,2.65,1.93,1,Exploitation Sous Menace Élevée,10.78
+PRC-0321,Grenades,16,53.01,20.06,10.63,2,Petite Exploitation Ciblée,7.89
+PRC-0322,Dattes Deglet Nour,5,12.91,4.14,0.53,1,Exploitation Sous Menace Élevée,2.08
+PRC-0323,Grenades,30,100.92,25.68,25.92,0,Exploitation Résiliente,15.04
+PRC-0324,Agrumes,18,55.83,14.08,7.86,1,Exploitation Sous Menace Élevée,8.24
+PRC-0325,Agrumes,15,41.01,5.58,2.29,1,Exploitation Sous Menace Élevée,6.05
+PRC-0326,Agrumes,17,42.97,10.86,4.67,1,Exploitation Sous Menace Élevée,6.36
+PRC-0327,Olives,7,14.01,6.29,0.88,1,Exploitation Sous Menace Élevée,1.88
+PRC-0328,Olives,37,57.96,6.44,3.73,1,Exploitation Sous Menace Élevée,8.72
+PRC-0329,Grenades,10,25.91,26.65,6.91,2,Petite Exploitation Ciblée,3.87
+PRC-0330,Grenades,14,27.04,13.58,3.67,1,Exploitation Sous Menace Élevée,4.1
+PRC-0331,Dattes Deglet Nour,9,28.74,22.51,6.47,2,Petite Exploitation Ciblée,4.43
+PRC-0332,Dattes Deglet Nour,27,94.09,18.63,17.53,0,Exploitation Résiliente,14.17
+PRC-0333,Grenades,14,41.03,19.59,8.04,2,Petite Exploitation Ciblée,6.12
+PRC-0334,Olives,6,8.45,5.42,0.46,1,Exploitation Sous Menace Élevée,1.06
+PRC-0335,Agrumes,17,31.69,8.09,2.56,1,Exploitation Sous Menace Élevée,4.73
+PRC-0336,Grenades,6,8.71,22.46,1.96,2,Petite Exploitation Ciblée,1.32
+PRC-0337,Dattes Deglet Nour,24,64.71,27.24,17.63,2,Petite Exploitation Ciblée,9.88
+PRC-0338,Olives,5,14.8,8.83,1.31,1,Exploitation Sous Menace Élevée,1.96
+PRC-0339,Grenades,13,43.28,9.06,3.92,1,Exploitation Sous Menace Élevée,6.43
+PRC-0340,Grenades,21,46.36,14.3,6.63,1,Exploitation Sous Menace Élevée,7.01
+PRC-0341,Olives,13,42.55,27.58,11.74,2,Petite Exploitation Ciblée,6.11
+PRC-0342,Grenades,15,48.29,8.99,4.34,1,Exploitation Sous Menace Élevée,7.19
+PRC-0343,Olives,19,36.66,12.58,4.61,1,Exploitation Sous Menace Élevée,5.35
+PRC-0344,Agrumes,28,89.56,25.18,22.55,0,Exploitation Résiliente,13.28
+PRC-0345,Olives,39,80.5,2.08,1.67,0,Exploitation Résiliente,12.02
+PRC-0346,Olives,34,64.02,3.03,1.94,1,Exploitation Sous Menace Élevée,9.55
+PRC-0347,Olives,35,94.25,17.71,16.69,0,Exploitation Résiliente,13.94
+PRC-0348,Grenades,9,17.6,25.59,4.5,2,Petite Exploitation Ciblée,2.66
+PRC-0349,Grenades,18,47.69,8.21,3.92,1,Exploitation Sous Menace Élevée,7.15
+PRC-0350,Olives,15,39.04,14.21,5.55,1,Exploitation Sous Menace Élevée,5.63
+PRC-0351,Grenades,13,32.45,13.71,4.45,1,Exploitation Sous Menace Élevée,4.87
+PRC-0352,Dattes Deglet Nour,38,78.85,14.3,11.28,0,Exploitation Résiliente,12.15
+PRC-0353,Dattes Deglet Nour,16,39.38,18.19,7.16,2,Petite Exploitation Ciblée,6.09
+PRC-0354,Grenades,39,100.3,14.21,14.25,0,Exploitation Résiliente,15.1
+PRC-0355,Grenades,39,95.75,13.63,13.05,0,Exploitation Résiliente,14.44
+PRC-0356,Olives,5,11.11,14.33,1.59,1,Exploitation Sous Menace Élevée,1.43
+PRC-0357,Agrumes,26,32.08,17.36,5.57,2,Petite Exploitation Ciblée,4.93
+PRC-0358,Grenades,33,84.16,15.96,13.43,0,Exploitation Résiliente,12.67
+PRC-0359,Dattes Deglet Nour,12,19.05,24.21,4.61,2,Petite Exploitation Ciblée,3.08
+PRC-0360,Olives,15,40.17,3.29,1.32,1,Exploitation Sous Menace Élevée,5.79
+PRC-0361,Grenades,18,53.04,23.67,12.55,2,Petite Exploitation Ciblée,7.93
+PRC-0362,Dattes Deglet Nour,34,79.93,23.94,19.14,0,Exploitation Résiliente,12.24
+PRC-0363,Dattes Deglet Nour,39,95.45,9.41,8.98,0,Exploitation Résiliente,14.57
+PRC-0364,Agrumes,25,84.71,14.03,11.88,0,Exploitation Résiliente,12.53
+PRC-0365,Olives,9,28.34,13.4,3.8,1,Exploitation Sous Menace Élevée,3.99
+PRC-0366,Olives,23,75.96,7.68,5.83,0,Exploitation Résiliente,11.1
+PRC-0367,Agrumes,18,55.29,12.32,6.81,1,Exploitation Sous Menace Élevée,8.16
+PRC-0368,Agrumes,30,43.52,3.15,1.37,1,Exploitation Sous Menace Élevée,6.65
+PRC-0369,Olives,8,12.34,9.22,1.14,1,Exploitation Sous Menace Élevée,1.66
+PRC-0370,Olives,29,69.93,23.23,16.24,2,Petite Exploitation Ciblée,10.33
+PRC-0371,Grenades,29,51.21,9.4,4.81,1,Exploitation Sous Menace Élevée,7.84
+PRC-0372,Grenades,22,50.52,23.27,11.76,2,Petite Exploitation Ciblée,7.63
+PRC-0373,Agrumes,12,25.28,15.82,4.0,2,Petite Exploitation Ciblée,3.72
+PRC-0374,Grenades,18,44.35,24.88,11.03,2,Petite Exploitation Ciblée,6.67
+PRC-0375,Dattes Deglet Nour,36,105.04,16.94,17.79,0,Exploitation Résiliente,15.9
+PRC-0376,Grenades,37,105.29,2.77,2.92,0,Exploitation Résiliente,15.79
+PRC-0377,Grenades,27,64.77,19.56,12.67,2,Petite Exploitation Ciblée,9.77
+PRC-0378,Dattes Deglet Nour,19,58.74,3.17,1.86,1,Exploitation Sous Menace Élevée,8.93
+PRC-0379,Agrumes,37,81.07,13.72,11.12,0,Exploitation Résiliente,12.2
+PRC-0380,Dattes Deglet Nour,29,94.61,26.17,24.76,0,Exploitation Résiliente,14.28
+PRC-0381,Grenades,21,28.64,6.3,1.8,1,Exploitation Sous Menace Élevée,4.45
+PRC-0382,Agrumes,37,125.64,12.14,15.25,0,Exploitation Résiliente,18.64
+PRC-0383,Grenades,6,16.23,20.98,3.41,2,Petite Exploitation Ciblée,2.41
+PRC-0384,Dattes Deglet Nour,18,37.34,24.94,9.31,2,Petite Exploitation Ciblée,5.82
+PRC-0385,Dattes Deglet Nour,10,16.53,19.44,3.21,2,Petite Exploitation Ciblée,2.68
+PRC-0386,Grenades,10,23.02,8.71,2.01,1,Exploitation Sous Menace Élevée,3.46
+PRC-0387,Olives,7,11.53,19.54,2.25,2,Petite Exploitation Ciblée,1.52
+PRC-0388,Olives,11,17.41,9.71,1.69,1,Exploitation Sous Menace Élevée,2.44
+PRC-0389,Dattes Deglet Nour,12,31.44,20.68,6.5,2,Petite Exploitation Ciblée,4.87
+PRC-0390,Dattes Deglet Nour,19,45.66,26.8,12.24,2,Petite Exploitation Ciblée,7.04
+PRC-0391,Olives,33,90.46,20.76,18.78,0,Exploitation Résiliente,13.36
+PRC-0392,Olives,37,123.51,24.43,30.17,0,Exploitation Résiliente,18.2
+PRC-0393,Grenades,34,82.42,2.05,1.69,0,Exploitation Résiliente,12.43
+PRC-0394,Grenades,31,78.62,20.66,16.24,0,Exploitation Résiliente,11.84
+PRC-0395,Olives,33,46.4,23.57,10.94,2,Petite Exploitation Ciblée,6.99
+PRC-0396,Grenades,37,105.47,3.05,3.22,0,Exploitation Résiliente,15.82
+PRC-0397,Grenades,31,65.71,24.66,16.2,2,Petite Exploitation Ciblée,9.97
+PRC-0398,Agrumes,37,127.52,8.67,11.06,0,Exploitation Résiliente,18.91
+PRC-0399,Grenades,8,24.75,19.3,4.78,2,Petite Exploitation Ciblée,3.67
+PRC-0400,Dattes Deglet Nour,26,62.44,22.81,14.24,2,Petite Exploitation Ciblée,9.58
+PRC-0401,Grenades,6,8.9,19.23,1.71,2,Petite Exploitation Ciblée,1.35
+PRC-0402,Grenades,14,44.47,4.4,1.96,1,Exploitation Sous Menace Élevée,6.62
+PRC-0403,Olives,9,27.36,17.5,4.79,2,Petite Exploitation Ciblée,3.84
+PRC-0404,Dattes Deglet Nour,14,22.74,16.29,3.7,2,Petite Exploitation Ciblée,3.65
+PRC-0405,Grenades,37,69.53,25.41,17.67,2,Petite Exploitation Ciblée,10.62
+PRC-0406,Grenades,17,51.42,12.51,6.43,1,Exploitation Sous Menace Élevée,7.68
+PRC-0407,Agrumes,35,56.91,10.35,5.89,1,Exploitation Sous Menace Élevée,8.67
+PRC-0408,Grenades,28,92.7,21.5,19.93,0,Exploitation Résiliente,13.82
+PRC-0409,Grenades,19,41.35,12.73,5.26,1,Exploitation Sous Menace Élevée,6.25
+PRC-0410,Agrumes,33,46.21,18.8,8.69,2,Petite Exploitation Ciblée,7.09
+PRC-0411,Olives,12,36.91,18.81,6.94,2,Petite Exploitation Ciblée,5.27
+PRC-0412,Grenades,9,18.53,25.09,4.65,2,Petite Exploitation Ciblée,2.79
+PRC-0413,Agrumes,33,79.56,17.57,13.98,0,Exploitation Résiliente,11.91
+PRC-0414,Dattes Deglet Nour,8,11.67,15.06,1.76,1,Exploitation Sous Menace Élevée,1.95
+PRC-0415,Olives,16,19.3,5.61,1.08,1,Exploitation Sous Menace Élevée,2.79
+PRC-0416,Dattes Deglet Nour,6,16.0,5.01,0.8,1,Exploitation Sous Menace Élevée,2.54
+PRC-0417,Dattes Deglet Nour,31,73.93,6.01,4.44,0,Exploitation Résiliente,11.32
+PRC-0418,Agrumes,35,89.78,6.47,5.81,0,Exploitation Résiliente,13.42
+PRC-0419,Grenades,30,90.77,18.58,16.87,0,Exploitation Résiliente,13.58
+PRC-0420,Agrumes,31,83.3,21.27,17.72,0,Exploitation Résiliente,12.42
+PRC-0421,Agrumes,9,14.42,15.78,2.28,2,Petite Exploitation Ciblée,2.1
+PRC-0422,Agrumes,24,48.71,23.55,11.47,2,Petite Exploitation Ciblée,7.31
+PRC-0423,Agrumes,15,49.25,27.77,13.68,2,Petite Exploitation Ciblée,7.24
+PRC-0424,Olives,14,41.59,23.32,9.7,2,Petite Exploitation Ciblée,5.98
+PRC-0425,Grenades,10,24.8,20.07,4.98,2,Petite Exploitation Ciblée,3.71
+PRC-0426,Dattes Deglet Nour,12,21.46,15.84,3.4,2,Petite Exploitation Ciblée,3.43
+PRC-0427,Dattes Deglet Nour,27,51.16,13.67,6.99,1,Exploitation Sous Menace Élevée,7.97
+PRC-0428,Grenades,30,86.51,4.19,3.62,0,Exploitation Résiliente,12.96
+PRC-0429,Dattes Deglet Nour,16,50.52,12.38,6.25,1,Exploitation Sous Menace Élevée,7.7
+PRC-0430,Grenades,30,82.33,25.66,21.13,0,Exploitation Résiliente,12.36
+PRC-0431,Dattes Deglet Nour,17,52.05,23.01,11.98,2,Petite Exploitation Ciblée,7.93
+PRC-0432,Agrumes,22,65.19,7.62,4.97,1,Exploitation Sous Menace Élevée,9.66
+PRC-0433,Dattes Deglet Nour,29,44.79,14.13,6.33,1,Exploitation Sous Menace Élevée,7.08
+PRC-0434,Grenades,37,80.48,23.23,18.7,0,Exploitation Résiliente,12.2
+PRC-0435,Grenades,16,24.83,3.75,0.93,1,Exploitation Sous Menace Élevée,3.81
+PRC-0436,Grenades,8,13.93,12.07,1.68,1,Exploitation Sous Menace Élevée,2.11
+PRC-0437,Grenades,9,28.79,24.15,6.95,2,Petite Exploitation Ciblée,4.27
+PRC-0438,Grenades,12,27.45,12.5,3.43,1,Exploitation Sous Menace Élevée,4.13
+PRC-0439,Olives,32,77.8,4.02,3.13,0,Exploitation Résiliente,11.51
+PRC-0440,Olives,35,56.36,16.11,9.08,2,Petite Exploitation Ciblée,8.46
+PRC-0441,Dattes Deglet Nour,13,24.94,24.41,6.09,2,Petite Exploitation Ciblée,3.95
+PRC-0442,Grenades,33,57.08,17.35,9.9,2,Petite Exploitation Ciblée,8.75
+PRC-0443,Dattes Deglet Nour,18,30.14,7.88,2.38,1,Exploitation Sous Menace Élevée,4.78
+PRC-0444,Grenades,26,69.35,11.99,8.32,0,Exploitation Résiliente,10.41
+PRC-0445,Grenades,15,26.86,13.7,3.68,1,Exploitation Sous Menace Élevée,4.09
+PRC-0446,Olives,27,71.65,17.06,12.22,0,Exploitation Résiliente,10.54
+PRC-0447,Olives,5,6.67,21.74,1.45,2,Petite Exploitation Ciblée,0.79
+PRC-0448,Agrumes,25,38.15,4.57,1.74,1,Exploitation Sous Menace Élevée,5.79
+PRC-0449,Olives,30,54.94,25.13,13.81,2,Petite Exploitation Ciblée,8.17
+PRC-0450,Agrumes,27,69.48,2.32,1.61,1,Exploitation Sous Menace Élevée,10.36
+PRC-0451,Agrumes,5,13.77,11.62,1.6,1,Exploitation Sous Menace Élevée,1.94
+PRC-0452,Agrumes,19,42.15,2.71,1.14,1,Exploitation Sous Menace Élevée,6.28
+PRC-0453,Agrumes,25,55.63,12.22,6.8,1,Exploitation Sous Menace Élevée,8.32
+PRC-0454,Agrumes,13,37.26,15.67,5.84,2,Petite Exploitation Ciblée,5.47
+PRC-0455,Dattes Deglet Nour,13,16.07,15.3,2.46,2,Petite Exploitation Ciblée,2.67
+PRC-0456,Olives,14,27.78,6.31,1.75,1,Exploitation Sous Menace Élevée,3.99
+PRC-0457,Agrumes,30,92.49,18.79,17.38,0,Exploitation Résiliente,13.73
+PRC-0458,Grenades,39,100.91,3.16,3.19,0,Exploitation Résiliente,15.19
+PRC-0459,Olives,29,57.29,21.81,12.49,2,Petite Exploitation Ciblée,8.5
+PRC-0460,Olives,30,98.48,26.61,26.21,0,Exploitation Résiliente,14.47
+PRC-0461,Agrumes,15,44.66,10.83,4.84,1,Exploitation Sous Menace Élevée,6.57
+PRC-0462,Dattes Deglet Nour,6,10.86,15.45,1.68,2,Petite Exploitation Ciblée,1.8
+PRC-0463,Agrumes,11,29.53,11.85,3.5,1,Exploitation Sous Menace Élevée,4.32
+PRC-0464,Dattes Deglet Nour,22,56.54,2.17,1.23,1,Exploitation Sous Menace Élevée,8.66
+PRC-0465,Grenades,31,65.8,12.03,7.92,0,Exploitation Résiliente,9.98
+PRC-0466,Olives,38,77.67,22.58,17.54,0,Exploitation Résiliente,11.59
+PRC-0467,Grenades,31,61.7,17.5,10.8,2,Petite Exploitation Ciblée,9.39
+PRC-0468,Dattes Deglet Nour,21,55.01,4.63,2.55,1,Exploitation Sous Menace Élevée,8.43
+PRC-0469,Dattes Deglet Nour,28,62.09,24.03,14.92,2,Petite Exploitation Ciblée,9.56
+PRC-0470,Grenades,29,90.29,15.81,14.27,0,Exploitation Résiliente,13.49
+PRC-0471,Dattes Deglet Nour,11,30.14,23.88,7.2,2,Petite Exploitation Ciblée,4.67
+PRC-0472,Grenades,10,13.61,17.09,2.33,2,Petite Exploitation Ciblée,2.09
+PRC-0473,Olives,28,74.83,16.55,12.38,0,Exploitation Résiliente,11.02
+PRC-0474,Grenades,37,67.47,4.74,3.2,1,Exploitation Sous Menace Élevée,10.32
+PRC-0475,Olives,33,84.59,6.35,5.37,0,Exploitation Résiliente,12.51
+PRC-0476,Grenades,26,71.87,27.27,19.6,2,Petite Exploitation Ciblée,10.78
+PRC-0477,Dattes Deglet Nour,30,51.93,7.94,4.12,1,Exploitation Sous Menace Élevée,8.13
+PRC-0478,Grenades,32,72.02,27.41,19.74,2,Petite Exploitation Ciblée,10.9
+PRC-0479,Dattes Deglet Nour,25,40.94,15.83,6.48,2,Petite Exploitation Ciblée,6.46
+PRC-0480,Grenades,11,14.52,5.53,0.8,1,Exploitation Sous Menace Élevée,2.24
+PRC-0481,Grenades,21,43.48,4.58,1.99,1,Exploitation Sous Menace Élevée,6.59
+PRC-0482,Agrumes,24,48.83,7.43,3.63,1,Exploitation Sous Menace Élevée,7.32
+PRC-0483,Dattes Deglet Nour,24,83.75,26.07,21.83,0,Exploitation Résiliente,12.63
+PRC-0484,Agrumes,26,57.89,12.77,7.39,1,Exploitation Sous Menace Élevée,8.66
+PRC-0485,Dattes Deglet Nour,32,62.95,12.28,7.73,0,Exploitation Résiliente,9.75
+PRC-0486,Agrumes,11,27.89,10.14,2.83,1,Exploitation Sous Menace Élevée,4.08
+PRC-0487,Olives,5,7.02,5.82,0.41,1,Exploitation Sous Menace Élevée,0.84
+PRC-0488,Grenades,36,122.83,14.68,18.03,0,Exploitation Résiliente,18.31
+PRC-0489,Dattes Deglet Nour,17,45.23,5.38,2.43,1,Exploitation Sous Menace Élevée,6.95
+PRC-0490,Dattes Deglet Nour,34,99.83,23.72,23.68,0,Exploitation Résiliente,15.12
+PRC-0491,Grenades,27,42.99,11.63,5.0,1,Exploitation Sous Menace Élevée,6.62
+PRC-0492,Dattes Deglet Nour,23,49.26,11.74,5.78,1,Exploitation Sous Menace Élevée,7.63
+PRC-0493,Dattes Deglet Nour,36,78.2,14.32,11.2,0,Exploitation Résiliente,12.02
+PRC-0494,Agrumes,34,105.07,13.55,14.24,0,Exploitation Résiliente,15.62
+PRC-0495,Dattes Deglet Nour,33,39.69,27.87,11.06,2,Petite Exploitation Ciblée,6.41
+PRC-0496,Olives,33,62.43,16.18,10.1,0,Exploitation Résiliente,9.31
+PRC-0497,Olives,34,117.53,4.29,5.04,0,Exploitation Résiliente,17.29
+PRC-0498,Grenades,20,45.84,17.78,8.15,2,Petite Exploitation Ciblée,6.92
+PRC-0499,Dattes Deglet Nour,23,47.84,5.94,2.84,1,Exploitation Sous Menace Élevée,7.42
+PRC-0500,Grenades,22,32.46,2.8,0.91,1,Exploitation Sous Menace Élevée,5.02
+PRC-0501,Olives,5,17.2,27.24,4.69,2,Petite Exploitation Ciblée,2.31
+PRC-0502,Dattes Deglet Nour,18,22.43,22.11,4.96,2,Petite Exploitation Ciblée,3.67
+PRC-0503,Dattes Deglet Nour,6,17.37,27.48,4.77,2,Petite Exploitation Ciblée,2.74
+PRC-0504,Grenades,32,94.97,14.42,13.69,0,Exploitation Résiliente,14.22
+PRC-0505,Olives,34,59.85,15.84,9.48,0,Exploitation Résiliente,8.95
+PRC-0506,Dattes Deglet Nour,8,21.96,6.38,1.4,1,Exploitation Sous Menace Élevée,3.44
+PRC-0507,Grenades,5,7.07,8.42,0.6,1,Exploitation Sous Menace Élevée,1.07
+PRC-0508,Olives,12,21.49,23.8,5.11,2,Petite Exploitation Ciblée,3.04
+PRC-0509,Grenades,33,99.4,11.26,11.19,0,Exploitation Résiliente,14.87
+PRC-0510,Agrumes,7,22.32,23.5,5.25,2,Petite Exploitation Ciblée,3.21
+PRC-0511,Dattes Deglet Nour,36,93.58,20.43,19.12,0,Exploitation Résiliente,14.25
+PRC-0512,Agrumes,14,33.12,6.61,2.19,1,Exploitation Sous Menace Élevée,4.89
+PRC-0513,Olives,14,21.93,15.19,3.33,2,Petite Exploitation Ciblée,3.14
+PRC-0514,Agrumes,23,30.94,19.61,6.07,2,Petite Exploitation Ciblée,4.72
+PRC-0515,Agrumes,38,55.88,8.11,4.53,1,Exploitation Sous Menace Élevée,8.57
+PRC-0516,Olives,37,63.75,23.6,15.04,2,Petite Exploitation Ciblée,9.56
+PRC-0517,Grenades,27,53.62,16.17,8.67,2,Petite Exploitation Ciblée,8.16
+PRC-0518,Agrumes,32,66.43,6.3,4.19,1,Exploitation Sous Menace Élevée,10.0
+PRC-0519,Grenades,36,71.88,17.16,12.33,0,Exploitation Résiliente,10.94
+PRC-0520,Agrumes,11,19.25,27.99,5.39,2,Petite Exploitation Ciblée,2.83
+PRC-0521,Grenades,33,78.29,5.91,4.63,0,Exploitation Résiliente,11.82
+PRC-0522,Olives,12,37.18,23.24,8.64,2,Petite Exploitation Ciblée,5.31
+PRC-0523,Agrumes,5,9.22,7.39,0.68,1,Exploitation Sous Menace Élevée,1.29
+PRC-0524,Olives,7,23.57,22.34,5.27,2,Petite Exploitation Ciblée,3.26
+PRC-0525,Agrumes,28,89.84,21.1,18.96,0,Exploitation Résiliente,13.32
+PRC-0526,Olives,27,42.45,9.81,4.16,1,Exploitation Sous Menace Élevée,6.32
+PRC-0527,Olives,12,36.1,10.47,3.78,1,Exploitation Sous Menace Élevée,5.16
+PRC-0528,Agrumes,7,17.65,22.61,3.99,2,Petite Exploitation Ciblée,2.54
+PRC-0529,Agrumes,37,92.62,14.0,12.97,0,Exploitation Résiliente,13.87
+PRC-0530,Agrumes,32,67.18,21.0,14.11,2,Petite Exploitation Ciblée,10.11
+PRC-0531,Dattes Deglet Nour,12,28.23,5.85,1.65,1,Exploitation Sous Menace Élevée,4.41
+PRC-0532,Grenades,38,80.31,24.17,19.41,0,Exploitation Résiliente,12.19
+PRC-0533,Dattes Deglet Nour,39,95.21,20.48,19.5,0,Exploitation Résiliente,14.53
+PRC-0534,Dattes Deglet Nour,36,95.19,25.58,24.35,0,Exploitation Résiliente,14.48
+PRC-0535,Olives,28,77.03,5.44,4.19,0,Exploitation Résiliente,11.34
+PRC-0536,Agrumes,18,43.64,17.42,7.6,2,Petite Exploitation Ciblée,6.47
+PRC-0537,Grenades,36,102.93,17.58,18.1,0,Exploitation Résiliente,15.43
+PRC-0538,Olives,20,30.5,11.19,3.41,1,Exploitation Sous Menace Élevée,4.48
+PRC-0539,Dattes Deglet Nour,8,13.5,13.92,1.88,1,Exploitation Sous Menace Élevée,2.21
+PRC-0540,Agrumes,25,77.08,2.99,2.3,1,Exploitation Sous Menace Élevée,11.42
+PRC-0541,Olives,18,34.95,21.39,7.48,2,Petite Exploitation Ciblée,5.09
+PRC-0542,Agrumes,35,43.84,16.28,7.14,2,Petite Exploitation Ciblée,6.78
+PRC-0543,Olives,22,34.18,3.5,1.2,1,Exploitation Sous Menace Élevée,5.04
+PRC-0544,Agrumes,11,18.86,19.7,3.72,2,Petite Exploitation Ciblée,2.78
+PRC-0545,Dattes Deglet Nour,14,47.63,14.14,6.73,1,Exploitation Sous Menace Élevée,7.25
+PRC-0546,Grenades,11,27.7,2.9,0.8,1,Exploitation Sous Menace Élevée,4.15
+PRC-0547,Dattes Deglet Nour,37,123.78,27.21,33.68,0,Exploitation Résiliente,18.63
+PRC-0548,Grenades,27,68.12,26.68,18.17,2,Petite Exploitation Ciblée,10.25
+PRC-0549,Agrumes,25,57.56,15.34,8.83,2,Petite Exploitation Ciblée,8.6
+PRC-0550,Olives,23,44.2,4.44,1.96,1,Exploitation Sous Menace Élevée,6.51
+PRC-0551,Dattes Deglet Nour,23,59.68,21.62,12.9,2,Petite Exploitation Ciblée,9.13
+PRC-0552,Grenades,33,50.17,14.79,7.42,1,Exploitation Sous Menace Élevée,7.75
+PRC-0553,Dattes Deglet Nour,22,71.85,9.86,7.08,0,Exploitation Résiliente,10.88
+PRC-0554,Grenades,6,18.64,14.78,2.75,1,Exploitation Sous Menace Élevée,2.76
+PRC-0555,Dattes Deglet Nour,5,9.65,15.58,1.5,2,Petite Exploitation Ciblée,1.61
+PRC-0556,Grenades,9,30.52,16.63,5.08,2,Petite Exploitation Ciblée,4.52
+PRC-0557,Grenades,24,74.35,13.47,10.01,0,Exploitation Résiliente,11.1
+PRC-0558,Agrumes,15,40.99,17.75,7.28,2,Petite Exploitation Ciblée,6.04
+PRC-0559,Grenades,6,8.88,25.89,2.3,2,Petite Exploitation Ciblée,1.35
+PRC-0560,Agrumes,7,16.1,11.42,1.84,1,Exploitation Sous Menace Élevée,2.31
+PRC-0561,Grenades,27,63.83,20.87,13.32,2,Petite Exploitation Ciblée,9.63
+PRC-0562,Olives,16,27.76,25.26,7.01,2,Petite Exploitation Ciblée,4.02
+PRC-0563,Olives,24,33.21,13.86,4.6,1,Exploitation Sous Menace Élevée,4.93
+PRC-0564,Olives,9,26.88,13.53,3.64,1,Exploitation Sous Menace Élevée,3.78
+PRC-0565,Grenades,34,50.34,17.66,8.89,2,Petite Exploitation Ciblée,7.8
+PRC-0566,Agrumes,13,33.37,17.38,5.8,2,Petite Exploitation Ciblée,4.91
+PRC-0567,Agrumes,38,127.45,22.97,29.28,0,Exploitation Résiliente,18.92
+PRC-0568,Grenades,39,125.39,14.39,18.04,0,Exploitation Résiliente,18.73
+PRC-0569,Olives,26,47.81,27.9,13.34,2,Petite Exploitation Ciblée,7.08
+PRC-0570,Olives,28,88.43,3.55,3.14,0,Exploitation Résiliente,12.98
+PRC-0571,Agrumes,21,25.22,2.08,0.52,1,Exploitation Sous Menace Élevée,3.86
+PRC-0572,Olives,14,17.37,18.65,3.24,2,Petite Exploitation Ciblée,2.48
+PRC-0573,Dattes Deglet Nour,34,87.92,9.76,8.58,0,Exploitation Résiliente,13.4
+PRC-0574,Agrumes,27,55.05,8.25,4.54,1,Exploitation Sous Menace Élevée,8.27
+PRC-0575,Olives,36,75.2,10.11,7.6,0,Exploitation Résiliente,11.2
+PRC-0576,Agrumes,21,52.46,8.66,4.54,1,Exploitation Sous Menace Élevée,7.8
+PRC-0577,Dattes Deglet Nour,21,34.46,2.8,0.96,1,Exploitation Sous Menace Élevée,5.46
+PRC-0578,Agrumes,18,30.37,27.26,8.28,2,Petite Exploitation Ciblée,4.56
+PRC-0579,Agrumes,13,30.09,7.74,2.33,1,Exploitation Sous Menace Élevée,4.43
+PRC-0580,Agrumes,6,17.61,21.08,3.71,2,Petite Exploitation Ciblée,2.52
+PRC-0581,Agrumes,29,76.12,21.83,16.62,0,Exploitation Résiliente,11.35
+PRC-0582,Dattes Deglet Nour,13,24.49,26.16,6.41,2,Petite Exploitation Ciblée,3.88
+PRC-0583,Grenades,26,56.93,2.79,1.59,1,Exploitation Sous Menace Élevée,8.62
+PRC-0584,Agrumes,8,12.74,24.67,3.14,2,Petite Exploitation Ciblée,1.84
+PRC-0585,Agrumes,30,41.15,15.71,6.46,2,Petite Exploitation Ciblée,6.31
+PRC-0586,Olives,33,99.01,18.45,18.27,0,Exploitation Résiliente,14.59
+PRC-0587,Agrumes,38,68.79,18.76,12.91,0,Exploitation Résiliente,10.44
+PRC-0588,Olives,27,43.44,23.31,10.13,2,Petite Exploitation Ciblée,6.46
+PRC-0589,Grenades,15,41.86,10.67,4.47,1,Exploitation Sous Menace Élevée,6.26
+PRC-0590,Dattes Deglet Nour,10,26.22,21.06,5.52,2,Petite Exploitation Ciblée,4.08
+PRC-0591,Dattes Deglet Nour,22,58.44,15.74,9.2,2,Petite Exploitation Ciblée,8.94
+PRC-0592,Grenades,25,43.16,22.63,9.77,2,Petite Exploitation Ciblée,6.61
+PRC-0593,Dattes Deglet Nour,38,65.93,27.75,18.3,2,Petite Exploitation Ciblée,10.28
+PRC-0594,Grenades,21,35.86,7.22,2.59,1,Exploitation Sous Menace Élevée,5.49
+PRC-0595,Grenades,29,46.39,27.86,12.92,2,Petite Exploitation Ciblée,7.14
+PRC-0596,Grenades,16,43.33,4.34,1.88,1,Exploitation Sous Menace Élevée,6.49
+PRC-0597,Dattes Deglet Nour,27,85.06,2.06,1.75,0,Exploitation Résiliente,12.87
+PRC-0598,Olives,26,74.51,3.15,2.35,1,Exploitation Sous Menace Élevée,10.94
+PRC-0599,Grenades,25,75.55,10.89,8.23,0,Exploitation Résiliente,11.29
+PRC-0600,Agrumes,31,66.06,18.46,12.19,0,Exploitation Résiliente,9.93
+PRC-0601,Dattes Deglet Nour,35,94.65,3.79,3.59,0,Exploitation Résiliente,14.39
+PRC-0602,Grenades,10,20.15,2.15,0.43,1,Exploitation Sous Menace Élevée,3.04
+PRC-0603,Grenades,31,74.67,26.36,19.68,2,Petite Exploitation Ciblée,11.26
+PRC-0604,Agrumes,38,87.69,23.37,20.49,0,Exploitation Résiliente,13.17
+PRC-0605,Olives,16,25.71,23.04,5.92,2,Petite Exploitation Ciblée,3.72
+PRC-0606,Olives,11,22.99,25.0,5.75,2,Petite Exploitation Ciblée,3.25
+PRC-0607,Olives,14,47.84,20.2,9.66,2,Petite Exploitation Ciblée,6.89
+PRC-0608,Grenades,21,37.21,4.71,1.75,1,Exploitation Sous Menace Élevée,5.69
+PRC-0609,Grenades,30,45.23,12.38,5.6,1,Exploitation Sous Menace Élevée,6.99
+PRC-0610,Grenades,25,54.07,20.8,11.25,2,Petite Exploitation Ciblée,8.19
+PRC-0611,Dattes Deglet Nour,32,96.57,9.29,8.97,0,Exploitation Résiliente,14.61
+PRC-0612,Agrumes,6,15.23,19.87,3.03,2,Petite Exploitation Ciblée,2.17
+PRC-0613,Grenades,5,13.83,2.64,0.37,1,Exploitation Sous Menace Élevée,2.04
+PRC-0614,Agrumes,30,49.09,9.96,4.89,1,Exploitation Sous Menace Élevée,7.46
+PRC-0615,Agrumes,33,86.58,16.28,14.1,0,Exploitation Résiliente,12.93
+PRC-0616,Olives,25,48.6,18.43,8.96,2,Petite Exploitation Ciblée,7.18
+PRC-0617,Dattes Deglet Nour,15,46.78,17.0,7.95,2,Petite Exploitation Ciblée,7.14
+PRC-0618,Grenades,15,39.71,20.14,8.0,2,Petite Exploitation Ciblée,5.95
+PRC-0619,Olives,39,64.64,2.16,1.4,1,Exploitation Sous Menace Élevée,9.72
+PRC-0620,Olives,38,51.25,4.62,2.37,1,Exploitation Sous Menace Élevée,7.77
+PRC-0621,Grenades,28,36.35,24.59,8.94,2,Petite Exploitation Ciblée,5.68
+PRC-0622,Agrumes,26,53.41,19.73,10.54,2,Petite Exploitation Ciblée,8.02
+PRC-0623,Olives,9,16.3,4.94,0.81,1,Exploitation Sous Menace Élevée,2.25
+PRC-0624,Agrumes,37,99.38,23.89,23.74,0,Exploitation Résiliente,14.84
+PRC-0625,Dattes Deglet Nour,24,56.36,8.3,4.68,1,Exploitation Sous Menace Élevée,8.67
+PRC-0626,Agrumes,23,41.67,14.43,6.01,1,Exploitation Sous Menace Élevée,6.27
+PRC-0627,Dattes Deglet Nour,39,60.19,5.78,3.48,1,Exploitation Sous Menace Élevée,9.47
+PRC-0628,Agrumes,21,31.34,20.46,6.41,2,Petite Exploitation Ciblée,4.74
+PRC-0629,Olives,38,121.17,19.34,23.43,0,Exploitation Résiliente,17.88
+PRC-0630,Olives,13,22.88,7.49,1.71,1,Exploitation Sous Menace Élevée,3.26
+PRC-0631,Dattes Deglet Nour,30,80.97,24.45,19.8,0,Exploitation Résiliente,12.33
+PRC-0632,Grenades,6,18.39,12.43,2.29,1,Exploitation Sous Menace Élevée,2.72
+PRC-0633,Dattes Deglet Nour,13,33.96,9.61,3.26,1,Exploitation Sous Menace Élevée,5.25
+PRC-0634,Dattes Deglet Nour,13,41.3,5.96,2.46,1,Exploitation Sous Menace Élevée,6.31
+PRC-0635,Agrumes,21,44.15,8.92,3.94,1,Exploitation Sous Menace Élevée,6.6
+PRC-0636,Agrumes,5,17.0,2.57,0.44,1,Exploitation Sous Menace Élevée,2.41
+PRC-0637,Dattes Deglet Nour,29,43.68,17.16,7.5,2,Petite Exploitation Ciblée,6.92
+PRC-0638,Olives,29,41.61,23.9,9.94,2,Petite Exploitation Ciblée,6.23
+PRC-0639,Agrumes,39,105.88,16.27,17.23,0,Exploitation Résiliente,15.82
+PRC-0640,Grenades,7,23.58,7.7,1.82,1,Exploitation Sous Menace Élevée,3.49
+PRC-0641,Agrumes,34,104.05,2.88,3.0,0,Exploitation Résiliente,15.47
+PRC-0642,Agrumes,38,52.28,7.58,3.96,1,Exploitation Sous Menace Élevée,8.05
+PRC-0643,Grenades,16,29.48,12.82,3.78,1,Exploitation Sous Menace Élevée,4.49
+PRC-0644,Dattes Deglet Nour,23,76.81,21.75,16.71,0,Exploitation Résiliente,11.61
+PRC-0645,Grenades,21,37.42,6.88,2.57,1,Exploitation Sous Menace Élevée,5.72
+PRC-0646,Dattes Deglet Nour,14,41.95,20.71,8.69,2,Petite Exploitation Ciblée,6.42
+PRC-0647,Dattes Deglet Nour,16,49.56,24.54,12.16,2,Petite Exploitation Ciblée,7.56
+PRC-0648,Dattes Deglet Nour,20,46.79,13.8,6.46,1,Exploitation Sous Menace Élevée,7.22
+PRC-0649,Grenades,28,58.48,23.36,13.66,2,Petite Exploitation Ciblée,8.87
+PRC-0650,Dattes Deglet Nour,23,51.41,16.42,8.44,2,Petite Exploitation Ciblée,7.94
+PRC-0651,Olives,12,20.66,18.56,3.83,2,Petite Exploitation Ciblée,2.92
+PRC-0652,Grenades,35,113.6,15.68,17.81,0,Exploitation Résiliente,16.96
+PRC-0653,Olives,25,55.91,14.04,7.85,1,Exploitation Sous Menace Élevée,8.23
+PRC-0654,Dattes Deglet Nour,21,67.82,8.1,5.49,1,Exploitation Sous Menace Élevée,10.28
+PRC-0655,Agrumes,27,38.96,9.88,3.85,1,Exploitation Sous Menace Élevée,5.94
+PRC-0656,Dattes Deglet Nour,20,69.46,9.54,6.63,0,Exploitation Résiliente,10.5
+PRC-0657,Olives,10,22.2,16.65,3.7,2,Petite Exploitation Ciblée,3.12
+PRC-0658,Olives,12,15.72,5.12,0.8,1,Exploitation Sous Menace Élevée,2.21
+PRC-0659,Grenades,29,37.34,25.84,9.65,2,Petite Exploitation Ciblée,5.83
+PRC-0660,Agrumes,22,64.16,20.74,13.31,2,Petite Exploitation Ciblée,9.51
+PRC-0661,Grenades,29,78.76,12.44,9.8,0,Exploitation Résiliente,11.82
+PRC-0662,Olives,16,48.72,6.12,2.98,1,Exploitation Sous Menace Élevée,7.05
+PRC-0663,Dattes Deglet Nour,19,27.4,24.93,6.83,2,Petite Exploitation Ciblée,4.4
+PRC-0664,Agrumes,30,38.45,23.42,9.0,2,Petite Exploitation Ciblée,5.92
+PRC-0665,Dattes Deglet Nour,30,71.09,20.76,14.76,0,Exploitation Résiliente,10.9
+PRC-0666,Dattes Deglet Nour,36,75.29,9.06,6.82,0,Exploitation Résiliente,11.6
+PRC-0667,Agrumes,14,31.67,12.46,3.95,1,Exploitation Sous Menace Élevée,4.68
+PRC-0668,Grenades,20,69.61,4.67,3.25,1,Exploitation Sous Menace Élevée,10.35
+PRC-0669,Dattes Deglet Nour,11,37.76,6.92,2.61,1,Exploitation Sous Menace Élevée,5.77
+PRC-0670,Olives,21,70.71,22.36,15.81,2,Petite Exploitation Ciblée,10.31
+PRC-0671,Dattes Deglet Nour,27,81.08,20.59,16.69,0,Exploitation Résiliente,12.29
+PRC-0672,Agrumes,30,60.48,17.43,10.54,2,Petite Exploitation Ciblée,9.1
+PRC-0673,Agrumes,25,53.7,25.29,13.58,2,Petite Exploitation Ciblée,8.04
+PRC-0674,Agrumes,26,64.07,17.16,10.99,0,Exploitation Résiliente,9.56
+PRC-0675,Grenades,11,34.21,14.14,4.84,1,Exploitation Sous Menace Élevée,5.09
+PRC-0676,Dattes Deglet Nour,18,24.44,10.85,2.65,1,Exploitation Sous Menace Élevée,3.96
+PRC-0677,Grenades,19,41.34,26.45,10.93,2,Petite Exploitation Ciblée,6.25
+PRC-0678,Grenades,11,15.29,4.15,0.63,1,Exploitation Sous Menace Élevée,2.35
+PRC-0679,Agrumes,13,30.99,26.2,8.12,2,Petite Exploitation Ciblée,4.56
+PRC-0680,Agrumes,12,39.21,23.49,9.21,2,Petite Exploitation Ciblée,5.74
+PRC-0681,Grenades,27,80.99,5.38,4.36,0,Exploitation Résiliente,12.11
+PRC-0682,Dattes Deglet Nour,33,56.89,16.69,9.49,2,Petite Exploitation Ciblée,8.89
+PRC-0683,Olives,22,75.79,24.53,18.59,2,Petite Exploitation Ciblée,11.06
+PRC-0684,Grenades,35,95.72,16.87,16.15,0,Exploitation Résiliente,14.37
+PRC-0685,Dattes Deglet Nour,34,41.62,25.59,10.65,2,Petite Exploitation Ciblée,6.7
+PRC-0686,Agrumes,39,69.71,26.52,18.49,2,Petite Exploitation Ciblée,10.59
+PRC-0687,Agrumes,22,39.59,12.98,5.14,1,Exploitation Sous Menace Élevée,5.95
+PRC-0688,Dattes Deglet Nour,21,28.54,11.81,3.37,1,Exploitation Sous Menace Élevée,4.6
+PRC-0689,Olives,18,61.34,26.34,16.16,2,Petite Exploitation Ciblée,8.9
+PRC-0690,Agrumes,35,80.5,19.55,15.74,0,Exploitation Résiliente,12.08
+PRC-0691,Agrumes,28,91.29,5.02,4.58,0,Exploitation Résiliente,13.53
+PRC-0692,Agrumes,39,75.7,3.1,2.35,1,Exploitation Sous Menace Élevée,11.45
+PRC-0693,Dattes Deglet Nour,38,56.55,16.68,9.43,2,Petite Exploitation Ciblée,8.93
+PRC-0694,Grenades,7,16.04,26.18,4.2,2,Petite Exploitation Ciblée,2.4
+PRC-0695,Agrumes,30,43.86,23.95,10.5,2,Petite Exploitation Ciblée,6.7
+PRC-0696,Grenades,27,62.58,19.57,12.25,2,Petite Exploitation Ciblée,9.45
+PRC-0697,Olives,19,63.02,5.62,3.54,1,Exploitation Sous Menace Élevée,9.16
+PRC-0698,Agrumes,8,19.18,8.61,1.65,1,Exploitation Sous Menace Élevée,2.78
+PRC-0699,Agrumes,33,86.39,24.76,21.39,0,Exploitation Résiliente,12.9
+PRC-0700,Olives,26,40.57,6.75,2.74,1,Exploitation Sous Menace Élevée,6.03
+PRC-0701,Agrumes,29,37.72,9.24,3.49,1,Exploitation Sous Menace Élevée,5.8
+PRC-0702,Grenades,17,24.73,5.37,1.33,1,Exploitation Sous Menace Élevée,3.82
+PRC-0703,Dattes Deglet Nour,22,56.69,19.58,11.1,2,Petite Exploitation Ciblée,8.69
+PRC-0704,Grenades,37,52.49,26.54,13.93,2,Petite Exploitation Ciblée,8.16
+PRC-0705,Dattes Deglet Nour,20,41.3,8.99,3.71,1,Exploitation Sous Menace Élevée,6.43
+PRC-0706,Dattes Deglet Nour,6,14.79,14.36,2.12,1,Exploitation Sous Menace Élevée,2.37
+PRC-0707,Grenades,39,81.66,18.49,15.1,0,Exploitation Résiliente,12.41
+PRC-0708,Grenades,38,59.91,27.99,16.77,2,Petite Exploitation Ciblée,9.24
+PRC-0709,Grenades,34,62.21,4.73,2.94,1,Exploitation Sous Menace Élevée,9.51
+PRC-0710,Grenades,17,56.7,14.96,8.48,2,Petite Exploitation Ciblée,8.44
+PRC-0711,Olives,17,46.83,12.01,5.62,1,Exploitation Sous Menace Élevée,6.79
+PRC-0712,Agrumes,22,51.5,24.51,12.62,2,Petite Exploitation Ciblée,7.68
+PRC-0713,Dattes Deglet Nour,36,44.25,14.38,6.36,1,Exploitation Sous Menace Élevée,7.11
+PRC-0714,Grenades,36,125.37,4.89,6.13,0,Exploitation Résiliente,18.68
+PRC-0715,Grenades,39,107.03,18.5,19.8,0,Exploitation Résiliente,16.07
+PRC-0716,Grenades,33,63.65,22.04,14.03,2,Petite Exploitation Ciblée,9.7
+PRC-0717,Olives,33,106.34,2.07,2.2,0,Exploitation Résiliente,15.65
+PRC-0718,Grenades,20,35.89,24.33,8.73,2,Petite Exploitation Ciblée,5.48
+PRC-0719,Grenades,14,34.32,6.84,2.35,1,Exploitation Sous Menace Élevée,5.15
+PRC-0720,Grenades,34,90.54,16.35,14.8,0,Exploitation Résiliente,13.61
+PRC-0721,Agrumes,29,49.54,12.81,6.35,1,Exploitation Sous Menace Élevée,7.51
+PRC-0722,Olives,24,82.81,20.71,17.15,0,Exploitation Résiliente,12.11
+PRC-0723,Grenades,9,26.29,11.65,3.06,1,Exploitation Sous Menace Élevée,3.91
+PRC-0724,Dattes Deglet Nour,5,12.41,24.61,3.05,2,Petite Exploitation Ciblée,2.01
+PRC-0725,Dattes Deglet Nour,34,54.92,20.99,11.53,2,Petite Exploitation Ciblée,8.62
+PRC-0726,Dattes Deglet Nour,7,9.27,18.84,1.75,2,Petite Exploitation Ciblée,1.59
+PRC-0727,Olives,18,34.85,22.7,7.91,2,Petite Exploitation Ciblée,5.07
+PRC-0728,Olives,34,99.7,21.6,21.54,0,Exploitation Résiliente,14.71
+PRC-0729,Dattes Deglet Nour,8,14.56,2.93,0.43,1,Exploitation Sous Menace Élevée,2.37
+PRC-0730,Grenades,22,53.7,12.26,6.58,1,Exploitation Sous Menace Élevée,8.09
+PRC-0731,Olives,29,83.35,26.2,21.84,0,Exploitation Résiliente,12.27
+PRC-0732,Dattes Deglet Nour,5,7.24,5.27,0.38,1,Exploitation Sous Menace Élevée,1.26
+PRC-0733,Dattes Deglet Nour,19,52.75,21.16,11.16,2,Petite Exploitation Ciblée,8.07
+PRC-0734,Grenades,13,18.35,27.34,5.02,2,Petite Exploitation Ciblée,2.83
+PRC-0735,Agrumes,19,64.98,3.36,2.18,1,Exploitation Sous Menace Élevée,9.58
+PRC-0736,Olives,28,65.05,19.74,12.84,2,Petite Exploitation Ciblée,9.6
+PRC-0737,Grenades,8,12.37,14.17,1.75,1,Exploitation Sous Menace Élevée,1.88
+PRC-0738,Dattes Deglet Nour,16,31.8,17.06,5.43,2,Petite Exploitation Ciblée,4.99
+PRC-0739,Dattes Deglet Nour,10,21.51,4.22,0.91,1,Exploitation Sous Menace Élevée,3.4
+PRC-0740,Grenades,28,82.43,3.12,2.57,0,Exploitation Résiliente,12.34
+PRC-0741,Olives,15,43.65,19.34,8.44,2,Petite Exploitation Ciblée,6.3
+PRC-0742,Agrumes,17,44.33,23.41,10.38,2,Petite Exploitation Ciblée,6.56
+PRC-0743,Agrumes,38,54.86,22.33,12.25,2,Petite Exploitation Ciblée,8.42
+PRC-0744,Dattes Deglet Nour,29,44.91,16.14,7.25,2,Petite Exploitation Ciblée,7.1
+PRC-0745,Olives,11,15.57,4.6,0.72,1,Exploitation Sous Menace Élevée,2.17
+PRC-0746,Agrumes,8,20.22,19.89,4.02,2,Petite Exploitation Ciblée,2.93
+PRC-0747,Olives,12,38.61,8.29,3.2,1,Exploitation Sous Menace Élevée,5.52
+PRC-0748,Olives,24,52.75,25.69,13.55,2,Petite Exploitation Ciblée,7.76
+PRC-0749,Dattes Deglet Nour,33,51.81,23.79,12.33,2,Petite Exploitation Ciblée,8.16
+PRC-0750,Agrumes,14,34.77,20.44,7.11,2,Petite Exploitation Ciblée,5.13
+PRC-0751,Grenades,38,116.55,26.67,31.08,0,Exploitation Résiliente,17.43
+PRC-0752,Dattes Deglet Nour,30,87.18,2.82,2.46,0,Exploitation Résiliente,13.22
+PRC-0753,Agrumes,7,22.59,21.14,4.78,2,Petite Exploitation Ciblée,3.25
+PRC-0754,Agrumes,10,18.39,10.59,1.95,1,Exploitation Sous Menace Élevée,2.69
+PRC-0755,Agrumes,9,14.81,25.56,3.79,2,Petite Exploitation Ciblée,2.16
+PRC-0756,Agrumes,9,29.01,8.93,2.59,1,Exploitation Sous Menace Élevée,4.21
+PRC-0757,Agrumes,27,73.23,20.85,15.27,0,Exploitation Résiliente,10.9
+PRC-0758,Olives,13,24.9,24.82,6.18,2,Petite Exploitation Ciblée,3.55
+PRC-0759,Dattes Deglet Nour,39,113.39,3.08,3.49,0,Exploitation Résiliente,17.16
+PRC-0760,Olives,24,73.79,12.34,9.11,0,Exploitation Résiliente,10.8
+PRC-0761,Grenades,39,101.96,21.82,22.25,0,Exploitation Résiliente,15.34
+PRC-0762,Agrumes,22,61.21,13.83,8.47,0,Exploitation Résiliente,9.08
+PRC-0763,Dattes Deglet Nour,21,43.33,8.95,3.88,1,Exploitation Sous Menace Élevée,6.74
+PRC-0764,Agrumes,28,68.29,7.71,5.27,1,Exploitation Sous Menace Élevée,10.2
+PRC-0765,Dattes Deglet Nour,7,16.84,5.42,0.91,1,Exploitation Sous Menace Élevée,2.68
+PRC-0766,Olives,36,113.42,24.29,27.55,0,Exploitation Résiliente,16.73
+PRC-0767,Dattes Deglet Nour,39,122.14,16.96,20.71,0,Exploitation Résiliente,18.43
+PRC-0768,Grenades,17,52.96,3.99,2.11,1,Exploitation Sous Menace Élevée,7.9
+PRC-0769,Grenades,29,35.54,11.95,4.25,1,Exploitation Sous Menace Élevée,5.57
+PRC-0770,Dattes Deglet Nour,13,38.01,11.56,4.39,1,Exploitation Sous Menace Élevée,5.84
+PRC-0771,Dattes Deglet Nour,8,23.56,6.73,1.59,1,Exploitation Sous Menace Élevée,3.67
+PRC-0772,Dattes Deglet Nour,18,49.68,13.32,6.62,1,Exploitation Sous Menace Élevée,7.61
+PRC-0773,Dattes Deglet Nour,38,111.7,10.63,11.87,0,Exploitation Résiliente,16.9
+PRC-0774,Grenades,15,47.05,10.89,5.12,1,Exploitation Sous Menace Élevée,7.01
+PRC-0775,Agrumes,7,15.97,21.21,3.39,2,Petite Exploitation Ciblée,2.29
+PRC-0776,Dattes Deglet Nour,32,75.35,7.8,5.88,0,Exploitation Résiliente,11.55
+PRC-0777,Dattes Deglet Nour,33,49.07,18.69,9.17,2,Petite Exploitation Ciblée,7.76
+PRC-0778,Grenades,13,27.12,16.84,4.57,2,Petite Exploitation Ciblée,4.1
+PRC-0779,Grenades,7,18.76,16.77,3.15,2,Petite Exploitation Ciblée,2.79
+PRC-0780,Olives,29,86.85,19.24,16.71,0,Exploitation Résiliente,12.77
+PRC-0781,Dattes Deglet Nour,38,64.58,16.26,10.5,0,Exploitation Résiliente,10.09
+PRC-0782,Olives,16,24.27,24.86,6.03,2,Petite Exploitation Ciblée,3.51
+PRC-0783,Grenades,13,35.42,19.57,6.93,2,Petite Exploitation Ciblée,5.3
+PRC-0784,Grenades,19,22.88,16.22,3.71,2,Petite Exploitation Ciblée,3.58
+PRC-0785,Agrumes,29,46.7,23.57,11.01,2,Petite Exploitation Ciblée,7.1
+PRC-0786,Dattes Deglet Nour,9,11.4,17.76,2.02,2,Petite Exploitation Ciblée,1.93
+PRC-0787,Olives,15,23.76,9.57,2.27,1,Exploitation Sous Menace Élevée,3.42
+PRC-0788,Grenades,38,61.45,7.38,4.54,1,Exploitation Sous Menace Élevée,9.47
+PRC-0789,Grenades,28,58.57,5.96,3.49,1,Exploitation Sous Menace Élevée,8.89
+PRC-0790,Olives,19,40.38,25.39,10.25,2,Petite Exploitation Ciblée,5.89
+PRC-0791,Agrumes,12,38.53,20.46,7.88,2,Petite Exploitation Ciblée,5.64
+PRC-0792,Grenades,9,21.36,26.37,5.63,2,Petite Exploitation Ciblée,3.2
+PRC-0793,Dattes Deglet Nour,30,85.91,17.69,15.2,0,Exploitation Résiliente,13.04
+PRC-0794,Grenades,22,31.67,14.31,4.53,1,Exploitation Sous Menace Élevée,4.9
+PRC-0795,Dattes Deglet Nour,10,17.19,3.55,0.61,1,Exploitation Sous Menace Élevée,2.78
+PRC-0796,Olives,17,47.89,19.46,9.32,2,Petite Exploitation Ciblée,6.94
+PRC-0797,Dattes Deglet Nour,32,42.29,17.14,7.25,2,Petite Exploitation Ciblée,6.77
+PRC-0798,Olives,9,20.87,27.75,5.79,2,Petite Exploitation Ciblée,2.91
+PRC-0799,Dattes Deglet Nour,17,43.84,8.22,3.6,1,Exploitation Sous Menace Élevée,6.75
+PRC-0800,Olives,21,54.28,15.8,8.58,2,Petite Exploitation Ciblée,7.93

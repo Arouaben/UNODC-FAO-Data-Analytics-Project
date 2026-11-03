@@ -1,0 +1,1001 @@
+Incident_ID,Produit,Quantite_Saisie_KG,Pays_Origine,Mode_Transport,Valeur_Estimee_USD,CPI_Score_2025,Valeur_par_KG,Cluster_Risque,Niveau_Menace,Valeur_Predite_USD
+INC-0001,Produits Chimiques Régulés,179.68,Libya,Routier,103611.56,18,576.64,0,Risque Modéré,266485.88
+INC-0002,Œuvres d'art,115.21,Turkey,Routier,445656.43,34,3868.21,2,Risque Faible,255974.57
+INC-0003,Contrefaçons Électroniques,55.56,Turkey,Routier,147267.75,34,2650.61,2,Risque Faible,250852.84
+INC-0004,Produits Chimiques Régulés,252.14,Libya,Aérien,187054.06,18,741.87,0,Risque Modéré,251304.64
+INC-0005,Produits Chimiques Régulés,173.15,Tunisia,Aérien,33755.52,40,194.95,2,Risque Faible,247108.31
+INC-0006,Œuvres d'art,26.62,Tunisia,Aérien,60198.55,40,2261.4,2,Risque Faible,243173.18
+INC-0007,Contrefaçons Électroniques,362.75,Turkey,Routier,260351.64,34,717.72,1,Risque Critique,243092.43
+INC-0008,Contrefaçons Électroniques,259.35,Tunisia,Aérien,137458.37,40,530.01,1,Risque Critique,230665.18
+INC-0009,Produits Chimiques Régulés,448.76,Libya,Maritime,418562.71,18,932.71,1,Risque Critique,254919.03
+INC-0010,Tabac de contrebande,194.04,Tunisia,Maritime,12273.23,40,63.25,2,Risque Faible,251186.93
+INC-0011,Produits Chimiques Régulés,142.56,Turkey,Aérien,192651.55,34,1351.37,2,Risque Faible,249569.77
+INC-0012,Produits Chimiques Régulés,81.26,Libya,Maritime,171986.05,18,2116.49,0,Risque Modéré,264203.03
+INC-0013,Produits Chimiques Régulés,404.85,Tunisia,Maritime,14567.18,40,35.98,1,Risque Critique,249836.49
+INC-0014,Produits Chimiques Régulés,301.56,China,Routier,66562.36,45,220.73,1,Risque Critique,255807.82
+INC-0015,Œuvres d'art,6.94,Libya,Aérien,209753.12,18,30223.79,0,Risque Modéré,249862.18
+INC-0016,Contrefaçons Électroniques,4.01,Libya,Aérien,248967.97,18,62086.78,0,Risque Modéré,243307.55
+INC-0017,Œuvres d'art,70.85,China,Routier,205123.42,45,2895.18,2,Risque Faible,253999.31
+INC-0018,Œuvres d'art,249.55,China,Maritime,267814.15,45,1073.19,2,Risque Faible,244715.68
+INC-0019,Œuvres d'art,654.64,Libya,Maritime,299590.18,18,457.64,1,Risque Critique,242081.13
+INC-0020,Produits Chimiques Régulés,24.45,China,Aérien,9912.29,45,405.41,2,Risque Faible,249457.62
+INC-0021,Tabac de contrebande,135.26,Turkey,Maritime,234727.1,34,1735.38,2,Risque Faible,254360.54
+INC-0022,Contrefaçons Électroniques,71.92,Turkey,Routier,481932.12,34,6700.95,2,Risque Faible,250439.54
+INC-0023,Tabac de contrebande,525.56,Turkey,Routier,261920.98,34,498.37,1,Risque Critique,249269.76
+INC-0024,Œuvres d'art,276.89,Libya,Aérien,340383.42,18,1229.31,0,Risque Modéré,243042.55
+INC-0025,Œuvres d'art,273.33,China,Routier,159372.61,45,583.08,1,Risque Critique,248884.14
+INC-0026,Tabac de contrebande,94.86,China,Routier,388125.73,45,4091.56,2,Risque Faible,257054.44
+INC-0027,Tabac de contrebande,80.38,Tunisia,Aérien,387596.13,40,4822.05,2,Risque Faible,245476.76
+INC-0028,Tabac de contrebande,47.91,Tunisia,Routier,263041.54,40,5490.33,2,Risque Faible,259647.75
+INC-0029,Œuvres d'art,8.7,China,Routier,488126.84,45,56106.53,2,Risque Faible,255569.37
+INC-0030,Œuvres d'art,300.06,China,Routier,67147.36,45,223.78,1,Risque Critique,248208.87
+INC-0031,Contrefaçons Électroniques,251.42,China,Maritime,13389.09,45,53.25,2,Risque Faible,238039.8
+INC-0032,Contrefaçons Électroniques,1225.87,Libya,Aérien,386228.31,18,315.06,1,Risque Critique,212440.23
+INC-0033,Œuvres d'art,854.23,China,Aérien,404541.99,45,473.58,1,Risque Critique,220858.4
+INC-0034,Tabac de contrebande,121.6,Tunisia,Aérien,64502.58,40,530.45,2,Risque Faible,244435.43
+INC-0035,Tabac de contrebande,219.79,Libya,Maritime,136463.5,18,620.88,0,Risque Modéré,256728.24
+INC-0036,Contrefaçons Électroniques,434.43,China,Maritime,13688.42,45,31.51,1,Risque Critique,233416.49
+INC-0037,Œuvres d'art,284.22,Tunisia,Aérien,150187.76,40,528.42,1,Risque Critique,236665.55
+INC-0038,Contrefaçons Électroniques,42.62,Libya,Maritime,387705.23,18,9096.79,0,Risque Modéré,250913.68
+INC-0039,Contrefaçons Électroniques,89.82,China,Aérien,261390.46,45,2910.16,2,Risque Faible,233540.71
+INC-0040,Produits Chimiques Régulés,20.74,China,Maritime,177307.32,45,8549.05,2,Risque Faible,258132.86
+INC-0041,Produits Chimiques Régulés,462.03,China,Routier,189010.95,45,409.09,1,Risque Critique,251753.94
+INC-0042,Produits Chimiques Régulés,139.78,Libya,Routier,5670.04,18,40.56,0,Risque Modéré,267493.86
+INC-0043,Tabac de contrebande,38.94,Tunisia,Aérien,153401.26,40,3939.43,2,Risque Faible,246523.64
+INC-0044,Œuvres d'art,167.07,Tunisia,Maritime,324997.08,40,1945.27,2,Risque Faible,248206.57
+INC-0045,Œuvres d'art,144.4,Turkey,Maritime,487226.25,34,3374.14,2,Risque Faible,250467.96
+INC-0046,Œuvres d'art,66.51,China,Routier,424295.11,45,6379.42,2,Risque Faible,254108.95
+INC-0047,Œuvres d'art,18.08,Turkey,Routier,16679.51,34,922.54,2,Risque Faible,258428.32
+INC-0048,Produits Chimiques Régulés,167.02,Turkey,Maritime,449787.5,34,2693.02,2,Risque Faible,257533.36
+INC-0049,Tabac de contrebande,110.19,Tunisia,Maritime,392683.21,40,3563.69,2,Risque Faible,253305.2
+INC-0050,Tabac de contrebande,221.97,Libya,Maritime,391286.18,18,1762.79,0,Risque Modéré,256673.17
+INC-0051,Produits Chimiques Régulés,110.15,Libya,Maritime,231707.9,18,2103.57,0,Risque Modéré,263473.19
+INC-0052,Tabac de contrebande,286.77,Tunisia,Maritime,202012.62,40,704.44,1,Risque Critique,248844.33
+INC-0053,Produits Chimiques Régulés,120.41,Libya,Maritime,154943.29,18,1286.8,0,Risque Modéré,263214.0
+INC-0054,Œuvres d'art,123.47,Turkey,Aérien,37518.96,34,303.87,2,Risque Faible,242415.18
+INC-0055,Produits Chimiques Régulés,313.91,China,Maritime,117976.5,45,375.83,1,Risque Critique,250726.63
+INC-0056,Œuvres d'art,77.5,Tunisia,Routier,127068.8,40,1639.6,2,Risque Faible,255238.54
+INC-0057,Œuvres d'art,21.58,China,Aérien,244618.15,45,11335.41,2,Risque Faible,241893.28
+INC-0058,Contrefaçons Électroniques,4.38,Libya,Maritime,374984.98,18,85613.01,0,Risque Modéré,251879.72
+INC-0059,Produits Chimiques Régulés,211.06,China,Routier,239535.87,45,1134.92,2,Risque Faible,258094.09
+INC-0060,Contrefaçons Électroniques,145.26,Libya,Aérien,33633.0,18,231.54,0,Risque Modéré,239739.21
+INC-0061,Produits Chimiques Régulés,182.65,Libya,Routier,479105.95,18,2623.08,0,Risque Modéré,266410.85
+INC-0062,Produits Chimiques Régulés,35.92,Turkey,Maritime,471648.54,34,13130.53,2,Risque Faible,260845.29
+INC-0063,Contrefaçons Électroniques,21.99,Libya,Maritime,393668.82,18,17902.17,0,Risque Modéré,251434.85
+INC-0064,Contrefaçons Électroniques,2.2,Turkey,Maritime,495707.31,34,225321.5,2,Risque Faible,247431.65
+INC-0065,Produits Chimiques Régulés,64.75,Turkey,Maritime,274518.75,34,4239.67,2,Risque Faible,260116.97
+INC-0066,Tabac de contrebande,133.71,Turkey,Aérien,481570.33,34,3601.6,2,Risque Faible,245818.18
+INC-0067,Œuvres d'art,74.7,Tunisia,Aérien,42424.5,40,567.93,2,Risque Faible,241958.56
+INC-0068,Contrefaçons Électroniques,86.3,Tunisia,Routier,186011.97,40,2155.41,2,Risque Faible,248387.59
+INC-0069,Œuvres d'art,351.76,Libya,Maritime,116563.73,18,331.37,0,Risque Modéré,249732.65
+INC-0070,Tabac de contrebande,64.22,Turkey,Routier,101937.38,34,1587.32,2,Risque Faible,260924.4
+INC-0071,Tabac de contrebande,108.23,Tunisia,Aérien,74697.46,40,690.17,2,Risque Faible,244773.19
+INC-0072,Tabac de contrebande,229.63,Turkey,Maritime,313094.75,34,1363.47,2,Risque Faible,251976.51
+INC-0073,Contrefaçons Électroniques,75.76,China,Maritime,391754.32,45,5170.99,2,Risque Faible,242477.42
+INC-0074,Tabac de contrebande,145.96,China,Aérien,291257.71,45,1995.46,2,Risque Faible,242412.8
+INC-0075,Contrefaçons Électroniques,297.47,China,Aérien,77746.54,45,261.36,1,Risque Critique,228294.94
+INC-0076,Tabac de contrebande,447.93,Libya,Aérien,406506.27,18,907.52,1,Risque Critique,242383.32
+INC-0077,Œuvres d'art,23.86,Turkey,Aérien,319797.58,34,13403.08,2,Risque Faible,244931.59
+INC-0078,Œuvres d'art,391.75,China,Aérien,197142.02,45,503.23,1,Risque Critique,232541.83
+INC-0079,Produits Chimiques Régulés,101.63,Tunisia,Maritime,338694.5,40,3332.62,2,Risque Faible,257496.6
+INC-0080,Œuvres d'art,44.81,China,Aérien,133652.96,45,2982.66,2,Risque Faible,241306.43
+INC-0081,Produits Chimiques Régulés,92.19,China,Maritime,175870.14,45,1907.69,2,Risque Faible,256327.85
+INC-0082,Œuvres d'art,587.05,China,Maritime,459155.49,45,782.14,1,Risque Critique,236189.57
+INC-0083,Contrefaçons Électroniques,101.77,Libya,Aérien,148799.73,18,1462.12,0,Risque Modéré,240837.88
+INC-0084,Œuvres d'art,59.79,Tunisia,Aérien,237644.19,40,3974.65,2,Risque Faible,242335.23
+INC-0085,Produits Chimiques Régulés,150.52,Turkey,Maritime,445619.86,34,2960.54,2,Risque Faible,257950.2
+INC-0086,Produits Chimiques Régulés,41.19,Tunisia,Aérien,355322.07,40,8626.42,2,Risque Faible,250441.96
+INC-0087,Tabac de contrebande,11.83,Turkey,Aérien,35790.6,34,3025.41,2,Risque Faible,248897.18
+INC-0088,Contrefaçons Électroniques,20.7,Libya,Aérien,77915.01,18,3764.01,0,Risque Modéré,242885.92
+INC-0089,Œuvres d'art,20.55,Libya,Routier,8881.59,18,432.19,0,Risque Modéré,262869.07
+INC-0090,Tabac de contrebande,24.71,Libya,Maritime,317306.29,18,12841.21,0,Risque Modéré,261656.47
+INC-0091,Œuvres d'art,22.42,Libya,Routier,226598.35,18,10106.97,0,Risque Modéré,262821.83
+INC-0092,Œuvres d'art,153.61,Turkey,Aérien,71466.05,34,465.24,2,Risque Faible,241653.77
+INC-0093,Tabac de contrebande,30.11,China,Routier,479177.39,45,15914.23,2,Risque Faible,258690.19
+INC-0094,Tabac de contrebande,63.62,Turkey,Aérien,267181.56,34,4199.65,2,Risque Faible,247588.84
+INC-0095,Tabac de contrebande,340.65,Tunisia,Routier,124737.18,40,366.17,1,Risque Critique,252252.38
+INC-0096,Tabac de contrebande,96.36,Libya,Aérien,252798.77,18,2623.48,0,Risque Modéré,251264.88
+INC-0097,Tabac de contrebande,165.19,Libya,Routier,341412.06,18,2066.78,0,Risque Modéré,262876.78
+INC-0098,Œuvres d'art,28.37,Tunisia,Routier,42738.41,40,1506.46,2,Risque Faible,256479.69
+INC-0099,Tabac de contrebande,32.03,Turkey,Routier,140978.39,34,4401.45,2,Risque Faible,261737.6
+INC-0100,Contrefaçons Électroniques,6.26,China,Maritime,404447.92,45,64608.29,2,Risque Faible,244233.17
+INC-0101,Produits Chimiques Régulés,27.76,China,Routier,232534.11,45,8376.59,2,Risque Faible,262724.72
+INC-0102,Tabac de contrebande,48.98,Tunisia,Maritime,275555.69,40,5625.88,2,Risque Faible,254851.52
+INC-0103,Tabac de contrebande,29.22,China,Aérien,219243.92,45,7503.21,2,Risque Faible,245361.96
+INC-0104,Œuvres d'art,13.93,Turkey,Routier,26730.47,34,1918.91,2,Risque Faible,258533.16
+INC-0105,Tabac de contrebande,19.28,Turkey,Aérien,87046.14,34,4514.84,2,Risque Faible,248708.98
+INC-0106,Tabac de contrebande,92.64,Tunisia,Aérien,225543.11,40,2434.62,2,Risque Faible,245167.04
+INC-0107,Tabac de contrebande,34.66,Turkey,Routier,108546.81,34,3131.76,2,Risque Faible,261671.16
+INC-0108,Œuvres d'art,67.95,Libya,Maritime,29739.62,18,437.67,0,Risque Modéré,256902.42
+INC-0109,Tabac de contrebande,105.0,Tunisia,Routier,422606.58,40,4024.82,2,Risque Faible,258205.51
+INC-0110,Produits Chimiques Régulés,175.87,Turkey,Aérien,490690.3,34,2790.07,2,Risque Faible,248728.27
+INC-0111,Œuvres d'art,6.02,Tunisia,Aérien,397605.72,40,66047.46,2,Risque Faible,243693.59
+INC-0112,Produits Chimiques Régulés,240.97,China,Routier,427623.54,45,1774.59,2,Risque Faible,257338.48
+INC-0113,Œuvres d'art,148.29,Turkey,Maritime,124778.68,34,841.45,2,Risque Faible,250369.68
+INC-0114,Tabac de contrebande,12.79,Libya,Maritime,480510.35,18,37569.22,0,Risque Modéré,261957.59
+INC-0115,Produits Chimiques Régulés,310.22,Turkey,Aérien,102478.22,34,330.34,1,Risque Critique,245334.25
+INC-0116,Œuvres d'art,380.5,Tunisia,Aérien,475957.76,40,1250.87,1,Risque Critique,234233.27
+INC-0117,Contrefaçons Électroniques,9.45,Tunisia,Maritime,497435.55,40,52638.68,2,Risque Faible,245559.81
+INC-0118,Tabac de contrebande,48.63,Turkey,Routier,357302.79,34,7347.37,2,Risque Faible,261318.24
+INC-0119,Œuvres d'art,246.14,Libya,Aérien,490666.15,18,1993.44,0,Risque Modéré,243819.37
+INC-0120,Contrefaçons Électroniques,206.9,Libya,Maritime,286922.19,18,1386.77,0,Risque Modéré,246763.54
+INC-0121,Œuvres d'art,30.6,Libya,Aérien,133473.18,18,4361.87,0,Risque Modéré,249264.46
+INC-0122,Contrefaçons Électroniques,35.23,Tunisia,Routier,221312.96,40,6281.95,2,Risque Faible,249677.74
+INC-0123,Tabac de contrebande,69.42,Turkey,Maritime,298812.66,34,4304.42,2,Risque Faible,256023.83
+INC-0124,Produits Chimiques Régulés,99.4,China,Aérien,41175.37,45,414.24,2,Risque Faible,247564.19
+INC-0125,Contrefaçons Électroniques,144.45,Tunisia,Routier,313059.92,40,2167.25,2,Risque Faible,246918.57
+INC-0126,Œuvres d'art,69.05,Libya,Aérien,490683.03,18,7106.2,0,Risque Modéré,248293.12
+INC-0127,Tabac de contrebande,93.13,Turkey,Routier,99103.29,34,1064.14,2,Risque Faible,260194.06
+INC-0128,Contrefaçons Électroniques,206.43,Libya,Routier,397334.58,18,1924.79,0,Risque Modéré,251544.62
+INC-0129,Œuvres d'art,5.61,China,Maritime,454409.9,45,80999.98,2,Risque Faible,250878.24
+INC-0130,Œuvres d'art,43.64,Libya,Routier,472132.29,18,10818.8,0,Risque Modéré,262285.76
+INC-0131,Œuvres d'art,187.42,Libya,Aérien,480267.12,18,2562.52,0,Risque Modéré,245302.79
+INC-0132,Contrefaçons Électroniques,338.37,China,Routier,263122.52,45,777.62,1,Risque Critique,240612.42
+INC-0133,Contrefaçons Électroniques,107.52,Turkey,Routier,488767.41,34,4545.83,2,Risque Faible,249540.19
+INC-0134,Contrefaçons Électroniques,113.93,Tunisia,Maritime,379868.55,40,3334.23,2,Risque Faible,242920.38
+INC-0135,Produits Chimiques Régulés,17.0,Turkey,Routier,85027.36,34,5001.61,2,Risque Faible,266092.45
+INC-0136,Contrefaçons Électroniques,88.97,China,Routier,241065.55,45,2709.52,2,Risque Faible,246912.9
+INC-0137,Contrefaçons Électroniques,114.09,Libya,Aérien,360573.93,18,3160.43,0,Risque Modéré,240526.65
+INC-0138,Contrefaçons Électroniques,41.65,Turkey,Maritime,127433.46,34,3059.63,2,Risque Faible,246435.04
+INC-0139,Produits Chimiques Régulés,47.05,Tunisia,Maritime,322104.52,40,6846.0,2,Risque Faible,258875.43
+INC-0140,Contrefaçons Électroniques,71.05,China,Maritime,334967.24,45,4714.53,2,Risque Faible,242596.41
+INC-0141,Œuvres d'art,3.04,Turkey,Routier,85536.37,34,28136.96,2,Risque Faible,258808.27
+INC-0142,Contrefaçons Électroniques,58.31,Tunisia,Maritime,284717.23,40,4882.82,2,Risque Faible,244325.48
+INC-0143,Œuvres d'art,35.63,China,Routier,386955.32,45,10860.38,2,Risque Faible,254889.05
+INC-0144,Œuvres d'art,59.51,Tunisia,Routier,251953.35,40,4233.8,2,Risque Faible,255693.02
+INC-0145,Œuvres d'art,19.13,China,Aérien,10991.04,45,574.54,2,Risque Faible,241955.17
+INC-0146,Produits Chimiques Régulés,331.81,Libya,Aérien,9474.04,18,28.55,0,Risque Modéré,249291.97
+INC-0147,Produits Chimiques Régulés,135.06,Turkey,Aérien,181729.53,34,1345.55,2,Risque Faible,249759.24
+INC-0148,Produits Chimiques Régulés,170.49,Tunisia,Aérien,463466.06,40,2718.44,2,Risque Faible,247175.5
+INC-0149,Contrefaçons Électroniques,233.51,China,Aérien,118195.01,45,506.17,2,Risque Faible,229910.73
+INC-0150,Œuvres d'art,103.51,Tunisia,Routier,319010.03,40,3081.92,2,Risque Faible,254581.46
+INC-0151,Produits Chimiques Régulés,13.64,Tunisia,Routier,114927.56,40,8425.77,2,Risque Faible,264488.66
+INC-0152,Produits Chimiques Régulés,115.54,Turkey,Maritime,164226.64,34,1421.38,2,Risque Faible,258833.88
+INC-0153,Contrefaçons Électroniques,132.59,Libya,Routier,424780.83,18,3203.72,0,Risque Modéré,253410.01
+INC-0154,Produits Chimiques Régulés,205.23,Tunisia,Routier,365786.41,40,1782.32,2,Risque Faible,259648.6
+INC-0155,Contrefaçons Électroniques,84.76,China,Aérien,52222.64,45,616.12,2,Risque Faible,233668.54
+INC-0156,Tabac de contrebande,20.47,China,Routier,217207.5,45,10611.02,2,Risque Faible,258933.72
+INC-0157,Produits Chimiques Régulés,50.06,Libya,Aérien,19439.03,18,388.31,0,Risque Modéré,256409.7
+INC-0158,Tabac de contrebande,67.67,China,Maritime,243040.62,45,3591.56,2,Risque Faible,252972.13
+INC-0159,Contrefaçons Électroniques,155.73,Libya,Maritime,332904.84,18,2137.71,0,Risque Modéré,248056.23
+INC-0160,Œuvres d'art,126.87,China,Routier,63658.8,45,501.76,2,Risque Faible,252584.1
+INC-0161,Produits Chimiques Régulés,66.03,Turkey,Maritime,147998.04,34,2241.38,2,Risque Faible,260084.63
+INC-0162,Contrefaçons Électroniques,645.93,Tunisia,Routier,201929.13,40,312.62,1,Risque Critique,234249.89
+INC-0163,Œuvres d'art,139.62,Turkey,Maritime,460167.86,34,3295.86,2,Risque Faible,250588.71
+INC-0164,Œuvres d'art,40.62,Tunisia,Aérien,496661.23,40,12227.01,2,Risque Faible,242819.51
+INC-0165,Tabac de contrebande,16.1,Tunisia,Aérien,27231.09,40,1691.37,2,Risque Faible,247100.63
+INC-0166,Contrefaçons Électroniques,24.88,Tunisia,Aérien,381698.92,40,15341.6,2,Risque Faible,236588.5
+INC-0167,Œuvres d'art,42.35,Turkey,Aérien,189003.41,34,4462.89,2,Risque Faible,244464.48
+INC-0168,Produits Chimiques Régulés,26.27,Tunisia,Routier,199266.8,40,7585.34,2,Risque Faible,264169.59
+INC-0169,Produits Chimiques Régulés,30.97,Turkey,Maritime,378361.16,34,12217.02,2,Risque Faible,260970.34
+INC-0170,Tabac de contrebande,50.34,Libya,Routier,459621.08,18,9130.34,0,Risque Modéré,265778.19
+INC-0171,Œuvres d'art,28.56,China,Aérien,475709.65,45,16656.5,2,Risque Faible,241716.94
+INC-0172,Contrefaçons Électroniques,340.61,China,Routier,290675.68,45,853.4,1,Risque Critique,240555.83
+INC-0173,Produits Chimiques Régulés,12.55,Tunisia,Maritime,181774.97,40,14484.06,2,Risque Faible,259746.99
+INC-0174,Œuvres d'art,111.51,Turkey,Routier,394836.8,34,3540.82,2,Risque Faible,256068.04
+INC-0175,Œuvres d'art,79.25,China,Maritime,129245.68,45,1630.86,2,Risque Faible,249017.9
+INC-0176,Tabac de contrebande,605.8,Turkey,Routier,284216.64,34,469.16,1,Risque Critique,247242.69
+INC-0177,Produits Chimiques Régulés,17.82,Turkey,Maritime,182496.34,34,10241.1,2,Risque Faible,261302.54
+INC-0178,Produits Chimiques Régulés,76.09,Tunisia,Maritime,330032.38,40,4337.39,2,Risque Faible,258141.81
+INC-0179,Contrefaçons Électroniques,523.36,China,Aérien,123997.46,45,236.93,1,Risque Critique,222588.38
+INC-0180,Produits Chimiques Régulés,300.94,Tunisia,Maritime,99838.51,40,331.76,1,Risque Critique,252461.52
+INC-0181,Contrefaçons Électroniques,254.8,Tunisia,Aérien,459528.35,40,1803.49,2,Risque Faible,230780.13
+INC-0182,Produits Chimiques Régulés,44.74,China,Aérien,55392.82,45,1238.11,2,Risque Faible,248945.04
+INC-0183,Tabac de contrebande,28.11,China,Aérien,255449.16,45,9087.48,2,Risque Faible,245390.0
+INC-0184,Produits Chimiques Régulés,165.68,Libya,Routier,114322.13,18,690.02,0,Risque Modéré,266839.56
+INC-0185,Contrefaçons Électroniques,397.56,Libya,Routier,24270.33,18,61.05,0,Risque Modéré,246716.18
+INC-0186,Contrefaçons Électroniques,122.05,Turkey,Routier,22829.32,34,187.05,2,Risque Faible,249173.13
+INC-0187,Tabac de contrebande,127.16,China,Routier,91734.78,45,721.41,2,Risque Faible,256238.46
+INC-0188,Produits Chimiques Régulés,49.27,Libya,Maritime,434051.33,18,8809.65,0,Risque Modéré,265011.18
+INC-0189,Produits Chimiques Régulés,220.12,Turkey,Maritime,144826.98,34,657.95,2,Risque Faible,256191.92
+INC-0190,Tabac de contrebande,31.06,Turkey,Routier,475477.29,34,15308.35,2,Risque Faible,261762.1
+INC-0191,Produits Chimiques Régulés,58.66,Turkey,Maritime,292903.04,34,4993.23,2,Risque Faible,260270.81
+INC-0192,Produits Chimiques Régulés,83.12,Libya,Maritime,221124.02,18,2660.3,0,Risque Modéré,264156.04
+INC-0193,Contrefaçons Électroniques,106.27,China,Aérien,292143.97,45,2749.07,2,Risque Faible,233125.14
+INC-0194,Produits Chimiques Régulés,41.64,Tunisia,Aérien,260765.7,40,6262.38,2,Risque Faible,250430.59
+INC-0195,Produits Chimiques Régulés,18.3,Turkey,Aérien,380594.25,34,20797.5,2,Risque Faible,252708.89
+INC-0196,Tabac de contrebande,141.48,Libya,Aérien,144835.55,18,1023.72,0,Risque Modéré,250125.04
+INC-0197,Tabac de contrebande,51.08,Libya,Maritime,179759.94,18,3519.18,0,Risque Modéré,260990.29
+INC-0198,Œuvres d'art,130.57,Tunisia,Routier,447576.68,40,3427.87,2,Risque Faible,253897.86
+INC-0199,Contrefaçons Électroniques,25.15,Tunisia,Maritime,473495.97,40,18826.88,2,Risque Faible,245163.19
+INC-0200,Produits Chimiques Régulés,98.42,Libya,Maritime,446816.32,18,4539.89,0,Risque Modéré,263769.52
+INC-0201,Produits Chimiques Régulés,114.08,China,Maritime,212626.76,45,1863.84,2,Risque Faible,255774.85
+INC-0202,Œuvres d'art,7.98,Tunisia,Aérien,391280.92,40,49032.7,2,Risque Faible,243644.08
+INC-0203,Produits Chimiques Régulés,61.56,Libya,Aérien,240786.19,18,3911.41,0,Risque Modéré,256119.18
+INC-0204,Contrefaçons Électroniques,21.65,Tunisia,Aérien,251282.23,40,11606.57,2,Risque Faible,236670.09
+INC-0205,Œuvres d'art,9.82,China,Routier,106316.65,45,10826.54,2,Risque Faible,255541.08
+INC-0206,Contrefaçons Électroniques,690.18,Turkey,Maritime,297609.5,34,431.21,1,Risque Critique,230051.5
+INC-0207,Œuvres d'art,58.37,Tunisia,Routier,97137.27,40,1664.16,2,Risque Faible,255721.82
+INC-0208,Œuvres d'art,249.01,China,Aérien,169124.53,45,679.19,2,Risque Faible,236147.81
+INC-0209,Tabac de contrebande,44.08,Libya,Routier,428239.95,18,9715.06,0,Risque Modéré,265936.33
+INC-0210,Contrefaçons Électroniques,171.62,Tunisia,Maritime,107502.53,40,626.4,2,Risque Faible,241462.98
+INC-0211,Produits Chimiques Régulés,214.21,Tunisia,Maritime,40223.35,40,187.78,2,Risque Faible,254652.54
+INC-0212,Produits Chimiques Régulés,135.82,Libya,Aérien,39158.76,18,288.31,0,Risque Modéré,254243.18
+INC-0213,Contrefaçons Électroniques,95.68,Turkey,Aérien,470688.34,34,4919.4,2,Risque Faible,236488.58
+INC-0214,Produits Chimiques Régulés,79.61,Libya,Routier,255925.62,18,3214.74,0,Risque Modéré,269013.91
+INC-0215,Produits Chimiques Régulés,64.36,Tunisia,Aérien,207658.98,40,3226.52,2,Risque Faible,249856.62
+INC-0216,Contrefaçons Électroniques,397.88,Libya,Aérien,406384.9,18,1021.38,0,Risque Modéré,233357.38
+INC-0217,Œuvres d'art,266.34,China,Maritime,418733.83,45,1572.18,1,Risque Critique,244291.53
+INC-0218,Contrefaçons Électroniques,502.98,Libya,Aérien,169434.56,18,336.86,1,Risque Critique,230702.28
+INC-0219,Œuvres d'art,19.91,Tunisia,Aérien,348340.94,40,17495.78,2,Risque Faible,243342.7
+INC-0220,Produits Chimiques Régulés,196.88,Libya,Maritime,386705.79,18,1964.17,0,Risque Modéré,261282.17
+INC-0221,Produits Chimiques Régulés,417.92,Turkey,Maritime,329052.09,34,787.36,1,Risque Critique,251194.98
+INC-0222,Produits Chimiques Régulés,29.99,Libya,Routier,80039.56,18,2668.87,0,Risque Modéré,270267.44
+INC-0223,Tabac de contrebande,10.32,Turkey,Aérien,438562.13,34,42496.33,2,Risque Faible,248935.33
+INC-0224,Œuvres d'art,202.71,China,Maritime,271851.8,45,1341.09,2,Risque Faible,245898.98
+INC-0225,Tabac de contrebande,128.16,Turkey,Routier,144823.85,34,1130.02,2,Risque Faible,259309.11
+INC-0226,Tabac de contrebande,276.61,Libya,Routier,215487.95,18,779.03,0,Risque Modéré,260062.02
+INC-0227,Contrefaçons Électroniques,22.58,Tunisia,Aérien,23597.69,40,1045.07,2,Risque Faible,236646.6
+INC-0228,Tabac de contrebande,237.91,Turkey,Aérien,68294.07,34,287.06,2,Risque Faible,243185.82
+INC-0229,Contrefaçons Électroniques,33.78,China,Routier,383945.64,45,11366.06,2,Risque Faible,248307.14
+INC-0230,Contrefaçons Électroniques,26.81,Turkey,Maritime,5005.76,34,186.71,2,Risque Faible,246809.94
+INC-0231,Tabac de contrebande,26.92,Turkey,Routier,211200.09,34,7845.47,2,Risque Faible,261866.69
+INC-0232,Œuvres d'art,252.77,Turkey,Aérien,263642.54,34,1043.01,1,Risque Critique,239148.73
+INC-0233,Œuvres d'art,164.13,China,Maritime,32044.04,45,195.24,2,Risque Faible,246873.61
+INC-0234,Œuvres d'art,111.06,Libya,Maritime,486673.69,18,4382.08,0,Risque Modéré,255813.36
+INC-0235,Œuvres d'art,66.67,Turkey,Routier,116932.04,34,1753.89,2,Risque Faible,257200.82
+INC-0236,Œuvres d'art,314.58,Turkey,Aérien,155578.37,34,494.56,1,Risque Critique,237587.25
+INC-0237,Tabac de contrebande,74.75,Tunisia,Routier,155451.54,40,2079.62,2,Risque Faible,258969.7
+INC-0238,Tabac de contrebande,254.41,China,Routier,119056.25,45,467.97,2,Risque Faible,253023.8
+INC-0239,Produits Chimiques Régulés,86.74,Turkey,Routier,5729.54,34,66.05,2,Risque Faible,264330.64
+INC-0240,Œuvres d'art,70.97,China,Maritime,366025.67,45,5157.47,2,Risque Faible,249227.07
+INC-0241,Tabac de contrebande,93.17,Turkey,Maritime,483588.52,34,5190.39,2,Risque Faible,255423.84
+INC-0242,Produits Chimiques Régulés,53.8,Libya,Aérien,116025.27,18,2156.6,0,Risque Modéré,256315.22
+INC-0243,Œuvres d'art,206.52,Libya,Aérien,333208.36,18,1613.44,0,Risque Modéré,244820.27
+INC-0244,Contrefaçons Électroniques,104.79,Turkey,Routier,372238.68,34,3552.23,2,Risque Faible,249609.16
+INC-0245,Produits Chimiques Régulés,39.64,Libya,Routier,424970.56,18,10720.75,0,Risque Modéré,270023.65
+INC-0246,Tabac de contrebande,344.75,Turkey,Routier,214201.45,34,621.32,1,Risque Critique,253837.49
+INC-0247,Contrefaçons Électroniques,72.65,Libya,Aérien,154950.8,18,2132.84,0,Risque Modéré,241573.53
+INC-0248,Contrefaçons Électroniques,117.64,Tunisia,Maritime,166021.09,40,1411.26,2,Risque Faible,242826.66
+INC-0249,Contrefaçons Électroniques,355.42,Tunisia,Maritime,357747.56,40,1006.55,1,Risque Critique,236819.72
+INC-0250,Produits Chimiques Régulés,146.82,Tunisia,Routier,409305.84,40,2787.81,2,Risque Faible,261124.19
+INC-0251,Tabac de contrebande,18.65,China,Routier,94898.91,45,5088.41,2,Risque Faible,258979.7
+INC-0252,Contrefaçons Électroniques,421.59,China,Routier,188615.8,45,447.39,1,Risque Critique,238510.07
+INC-0253,Œuvres d'art,148.21,Tunisia,Routier,451460.4,40,3046.09,2,Risque Faible,253452.23
+INC-0254,Contrefaçons Électroniques,61.17,China,Aérien,404313.29,45,6609.67,2,Risque Faible,234264.48
+INC-0255,Contrefaçons Électroniques,22.5,Libya,Maritime,492504.91,18,21889.11,0,Risque Modéré,251421.96
+INC-0256,Produits Chimiques Régulés,237.0,Turkey,Routier,378352.89,34,1596.43,2,Risque Faible,260534.69
+INC-0257,Produits Chimiques Régulés,145.17,Turkey,Aérien,199631.62,34,1375.16,2,Risque Faible,249503.83
+INC-0258,Tabac de contrebande,114.36,Turkey,Routier,297365.73,34,2600.26,2,Risque Faible,259657.73
+INC-0259,Œuvres d'art,336.5,Tunisia,Routier,332202.06,40,987.23,1,Risque Critique,248695.54
+INC-0260,Produits Chimiques Régulés,233.1,China,Maritime,43835.63,45,188.06,2,Risque Faible,252768.1
+INC-0261,Contrefaçons Électroniques,24.67,Libya,Routier,274525.99,18,11127.93,0,Risque Modéré,256136.34
+INC-0262,Tabac de contrebande,56.03,Libya,Maritime,356113.81,18,6355.77,0,Risque Modéré,260865.24
+INC-0263,Contrefaçons Électroniques,42.85,Tunisia,Maritime,87824.05,40,2049.57,2,Risque Faible,244716.04
+INC-0264,Contrefaçons Électroniques,204.36,Libya,Maritime,391412.7,18,1915.31,0,Risque Modéré,246827.71
+INC-0265,Produits Chimiques Régulés,5.12,Libya,Aérien,293967.53,18,57415.53,0,Risque Modéré,257545.0
+INC-0266,Tabac de contrebande,126.56,Libya,Aérien,476349.78,18,3763.83,0,Risque Modéré,250501.95
+INC-0267,Œuvres d'art,215.61,Libya,Maritime,25999.04,18,120.58,0,Risque Modéré,253172.15
+INC-0268,Œuvres d'art,314.05,China,Routier,136336.44,45,434.12,1,Risque Critique,247855.45
+INC-0269,Produits Chimiques Régulés,62.8,Libya,Maritime,302769.17,18,4821.17,0,Risque Modéré,264669.37
+INC-0270,Produits Chimiques Régulés,258.27,Turkey,Routier,151797.16,34,587.75,1,Risque Critique,259997.35
+INC-0271,Tabac de contrebande,17.59,Tunisia,Maritime,358639.96,40,20388.86,2,Risque Faible,255644.51
+INC-0272,Œuvres d'art,281.06,China,Routier,380707.61,45,1354.54,1,Risque Critique,248688.86
+INC-0273,Œuvres d'art,20.46,Libya,Aérien,55745.4,18,2724.6,0,Risque Modéré,249520.63
+INC-0274,Œuvres d'art,75.95,China,Routier,259357.96,45,3414.85,2,Risque Faible,253870.47
+INC-0275,Contrefaçons Électroniques,239.4,Libya,Maritime,256900.83,18,1073.1,0,Risque Modéré,245942.51
+INC-0276,Œuvres d'art,24.36,Turkey,Aérien,187793.98,34,7709.11,2,Risque Faible,244918.96
+INC-0277,Contrefaçons Électroniques,39.06,Tunisia,Routier,466797.81,40,11950.79,2,Risque Faible,249580.99
+INC-0278,Tabac de contrebande,192.16,Libya,Routier,414615.63,18,2157.66,0,Risque Modéré,262195.45
+INC-0279,Contrefaçons Électroniques,190.96,Libya,Routier,350118.64,18,1833.47,0,Risque Modéré,251935.43
+INC-0280,Tabac de contrebande,153.73,Libya,Routier,358591.68,18,2332.61,0,Risque Modéré,263166.29
+INC-0281,Œuvres d'art,177.6,Libya,Routier,233549.49,18,1315.03,0,Risque Modéré,258901.58
+INC-0282,Œuvres d'art,117.37,Tunisia,Aérien,460892.29,40,3926.83,2,Risque Faible,240880.61
+INC-0283,Tabac de contrebande,43.51,Tunisia,Aérien,348824.74,40,8017.12,2,Risque Faible,246408.19
+INC-0284,Produits Chimiques Régulés,63.63,Turkey,Aérien,365845.63,34,5749.58,2,Risque Faible,251563.74
+INC-0285,Tabac de contrebande,30.06,Tunisia,Aérien,431537.0,40,14355.85,2,Risque Faible,246747.97
+INC-0286,Produits Chimiques Régulés,358.63,Libya,Maritime,140665.44,18,392.23,0,Risque Modéré,257195.95
+INC-0287,Contrefaçons Électroniques,131.34,Turkey,Aérien,404500.1,34,3079.79,2,Risque Faible,235587.72
+INC-0288,Contrefaçons Électroniques,76.84,Turkey,Routier,101644.1,34,1322.8,2,Risque Faible,250315.25
+INC-0289,Contrefaçons Électroniques,92.99,Turkey,Routier,175944.27,34,1892.08,2,Risque Faible,249907.26
+INC-0290,Œuvres d'art,441.42,Libya,Aérien,171127.17,18,387.67,1,Risque Critique,238886.1
+INC-0291,Contrefaçons Électroniques,24.97,China,Routier,489370.11,45,19598.32,2,Risque Faible,248529.71
+INC-0292,Produits Chimiques Régulés,132.37,Libya,Aérien,428985.93,18,3240.81,0,Risque Modéré,254330.34
+INC-0293,Contrefaçons Électroniques,105.75,Tunisia,Routier,352079.08,40,3329.35,2,Risque Faible,247896.23
+INC-0294,Tabac de contrebande,141.8,Tunisia,Maritime,364893.1,40,2573.29,2,Risque Faible,252506.65
+INC-0295,Tabac de contrebande,2.74,Libya,Maritime,283226.03,18,103367.16,0,Risque Modéré,262211.48
+INC-0296,Œuvres d'art,308.5,Libya,Aérien,473809.88,18,1535.85,0,Risque Modéré,242244.0
+INC-0297,Tabac de contrebande,403.5,Turkey,Aérien,250648.08,34,621.18,1,Risque Critique,239002.59
+INC-0298,Produits Chimiques Régulés,124.91,Libya,Aérien,193356.27,18,1547.96,0,Risque Modéré,254518.8
+INC-0299,Contrefaçons Électroniques,178.93,Turkey,Routier,85702.49,34,478.97,2,Risque Faible,247736.19
+INC-0300,Œuvres d'art,383.62,Tunisia,Aérien,394171.8,40,1027.51,1,Risque Critique,234154.45
+INC-0301,Contrefaçons Électroniques,184.26,Turkey,Maritime,368549.75,34,2000.16,2,Risque Faible,242832.34
+INC-0302,Contrefaçons Électroniques,24.83,Libya,Routier,195255.74,18,7863.7,0,Risque Modéré,256132.3
+INC-0303,Produits Chimiques Régulés,128.81,Tunisia,Aérien,17470.74,40,135.63,2,Risque Faible,248228.45
+INC-0304,Tabac de contrebande,139.98,China,Routier,420303.68,45,3002.6,2,Risque Faible,255914.59
+INC-0305,Tabac de contrebande,82.78,Turkey,Routier,10651.9,34,128.68,2,Risque Faible,260455.52
+INC-0306,Contrefaçons Électroniques,200.02,Tunisia,Aérien,353331.39,40,1766.48,2,Risque Faible,232164.01
+INC-0307,Œuvres d'art,408.55,Turkey,Routier,485277.27,34,1187.8,1,Risque Critique,248564.05
+INC-0308,Tabac de contrebande,389.68,Tunisia,Maritime,221642.36,40,568.78,1,Risque Critique,246244.56
+INC-0309,Œuvres d'art,89.9,Tunisia,Maritime,121311.84,40,1349.41,2,Risque Faible,250156.09
+INC-0310,Tabac de contrebande,18.03,Turkey,Routier,353911.15,34,19629.02,2,Risque Faible,262091.27
+INC-0311,Œuvres d'art,628.38,China,Aérien,409478.43,45,651.64,1,Risque Critique,226563.95
+INC-0312,Produits Chimiques Régulés,273.86,Tunisia,Routier,275483.01,40,1005.93,1,Risque Critique,257914.83
+INC-0313,Œuvres d'art,19.97,Tunisia,Maritime,483682.46,40,24220.45,2,Risque Faible,251922.7
+INC-0314,Produits Chimiques Régulés,380.45,Tunisia,Routier,30576.02,40,80.37,1,Risque Critique,255222.09
+INC-0315,Produits Chimiques Régulés,305.91,China,Routier,254873.82,45,833.17,1,Risque Critique,255697.93
+INC-0316,Œuvres d'art,109.73,China,Maritime,360634.7,45,3286.56,2,Risque Faible,248247.9
+INC-0317,Produits Chimiques Régulés,134.21,Libya,Routier,432007.03,18,3218.89,0,Risque Modéré,267634.57
+INC-0318,Contrefaçons Électroniques,76.37,Turkey,Routier,93731.53,34,1227.33,2,Risque Faible,250327.12
+INC-0319,Produits Chimiques Régulés,8.45,China,Aérien,401001.72,45,47455.82,2,Risque Faible,249861.82
+INC-0320,Tabac de contrebande,61.24,Turkey,Aérien,278590.0,34,4549.15,2,Risque Faible,247648.96
+INC-0321,Œuvres d'art,243.57,Libya,Maritime,201294.07,18,826.43,0,Risque Modéré,252465.81
+INC-0322,Contrefaçons Électroniques,0.7,Turkey,Maritime,70198.94,34,100284.2,2,Risque Faible,247469.54
+INC-0323,Œuvres d'art,60.86,China,Maritime,433321.4,45,7119.97,2,Risque Faible,249482.48
+INC-0324,Tabac de contrebande,76.17,Turkey,Aérien,82850.24,34,1087.7,2,Risque Faible,247271.79
+INC-0325,Tabac de contrebande,115.63,China,Maritime,158344.99,45,1369.41,2,Risque Faible,251760.54
+INC-0326,Tabac de contrebande,378.59,Turkey,Maritime,148572.54,34,392.44,1,Risque Critique,248213.4
+INC-0327,Produits Chimiques Régulés,63.78,China,Maritime,436349.95,45,6841.49,2,Risque Faible,257045.56
+INC-0328,Produits Chimiques Régulés,63.92,China,Aérien,337987.98,45,5287.67,2,Risque Faible,248460.5
+INC-0329,Œuvres d'art,200.63,Turkey,Routier,399357.29,34,1990.52,2,Risque Faible,253816.64
+INC-0330,Œuvres d'art,90.28,Libya,Maritime,128981.61,18,1428.68,0,Risque Modéré,256338.31
+INC-0331,Contrefaçons Électroniques,38.16,Tunisia,Routier,314312.68,40,8236.71,2,Risque Faible,249603.73
+INC-0332,Contrefaçons Électroniques,90.34,Libya,Maritime,288014.26,18,3188.11,0,Risque Modéré,249708.15
+INC-0333,Œuvres d'art,22.77,Turkey,Routier,417251.04,34,18324.6,2,Risque Faible,258309.84
+INC-0334,Produits Chimiques Régulés,29.11,Libya,Aérien,453513.09,18,15579.29,0,Risque Modéré,256938.95
+INC-0335,Tabac de contrebande,103.48,China,Aérien,11017.6,45,106.47,2,Risque Faible,243485.96
+INC-0336,Œuvres d'art,81.43,Tunisia,Maritime,338639.86,40,4158.66,2,Risque Faible,250370.06
+INC-0337,Contrefaçons Électroniques,369.49,Turkey,Routier,30658.72,34,82.98,1,Risque Critique,242922.16
+INC-0338,Produits Chimiques Régulés,67.51,Turkey,Aérien,276685.04,34,4098.43,2,Risque Faible,251465.72
+INC-0339,Œuvres d'art,130.34,Turkey,Maritime,147378.2,34,1130.72,2,Risque Faible,250823.15
+INC-0340,Œuvres d'art,150.06,Tunisia,Maritime,156854.42,40,1045.28,2,Risque Faible,248636.29
+INC-0341,Produits Chimiques Régulés,1.98,China,Aérien,179714.46,45,90764.88,2,Risque Faible,250025.27
+INC-0342,Œuvres d'art,163.39,Turkey,Aérien,312539.76,34,1912.85,2,Risque Faible,241406.7
+INC-0343,Produits Chimiques Régulés,29.41,Libya,Maritime,170354.73,18,5792.41,0,Risque Modéré,265512.89
+INC-0344,Tabac de contrebande,486.9,Turkey,Routier,367686.03,34,755.16,1,Risque Critique,250246.41
+INC-0345,Produits Chimiques Régulés,24.14,Turkey,Routier,205241.06,34,8502.12,2,Risque Faible,265912.08
+INC-0346,Produits Chimiques Régulés,80.33,Turkey,Routier,38834.83,34,483.44,2,Risque Faible,264492.57
+INC-0347,Produits Chimiques Régulés,13.38,Turkey,Maritime,392961.12,34,29369.29,2,Risque Faible,261414.7
+INC-0348,Œuvres d'art,865.21,China,Aérien,146450.37,45,169.27,1,Risque Critique,220581.01
+INC-0349,Œuvres d'art,104.63,Libya,Maritime,219219.61,18,2095.19,0,Risque Modéré,255975.79
+INC-0350,Produits Chimiques Régulés,135.72,China,Aérien,344294.72,45,2536.8,2,Risque Faible,246646.65
+INC-0351,Œuvres d'art,10.41,Libya,Routier,169565.8,18,16288.74,0,Risque Modéré,263125.23
+INC-0352,Contrefaçons Électroniques,207.92,Turkey,Routier,33009.9,34,158.76,2,Risque Faible,247003.83
+INC-0353,Contrefaçons Électroniques,35.34,Tunisia,Aérien,190090.92,40,5378.92,2,Risque Faible,236324.25
+INC-0354,Œuvres d'art,342.5,China,Aérien,472502.05,45,1379.57,1,Risque Critique,233786.01
+INC-0355,Œuvres d'art,34.44,Tunisia,Maritime,322658.53,40,9368.71,2,Risque Faible,251557.15
+INC-0356,Produits Chimiques Régulés,31.74,China,Routier,337382.18,45,10629.56,2,Risque Faible,262624.17
+INC-0357,Tabac de contrebande,5.59,Turkey,Maritime,317979.67,34,56883.66,2,Risque Faible,257636.34
+INC-0358,Œuvres d'art,95.82,China,Maritime,103501.11,45,1080.16,2,Risque Faible,248599.3
+INC-0359,Contrefaçons Électroniques,124.81,Turkey,Maritime,212075.26,34,1699.18,2,Risque Faible,244334.2
+INC-0360,Produits Chimiques Régulés,10.2,China,Routier,376715.2,45,36932.86,2,Risque Faible,263168.33
+INC-0361,Œuvres d'art,224.1,Turkey,Maritime,55179.58,34,246.23,2,Risque Faible,248454.53
+INC-0362,Contrefaçons Électroniques,90.58,Turkey,Maritime,142537.12,34,1573.6,2,Risque Faible,245198.94
+INC-0363,Contrefaçons Électroniques,111.47,Libya,Maritime,141777.96,18,1271.89,0,Risque Modéré,249174.35
+INC-0364,Tabac de contrebande,87.18,Turkey,Maritime,218849.37,34,2510.32,2,Risque Faible,255575.17
+INC-0365,Produits Chimiques Régulés,76.81,Libya,Maritime,490282.53,18,6383.06,0,Risque Modéré,264315.44
+INC-0366,Produits Chimiques Régulés,123.02,Turkey,Maritime,38413.76,34,312.26,2,Risque Faible,258644.92
+INC-0367,Tabac de contrebande,25.31,Tunisia,Routier,261756.99,40,10342.04,2,Risque Faible,260218.68
+INC-0368,Tabac de contrebande,30.12,Turkey,Maritime,93785.52,34,3113.73,2,Risque Faible,257016.65
+INC-0369,Produits Chimiques Régulés,296.84,Tunisia,Aérien,485484.89,40,1635.51,1,Risque Critique,243983.58
+INC-0370,Produits Chimiques Régulés,438.14,Tunisia,Maritime,61085.23,40,139.42,1,Risque Critique,248995.5
+INC-0371,Œuvres d'art,70.1,Turkey,Maritime,204782.5,34,2921.29,2,Risque Faible,252344.97
+INC-0372,Œuvres d'art,47.36,Tunisia,Routier,370253.07,40,7817.84,2,Risque Faible,255999.96
+INC-0373,Tabac de contrebande,154.92,Libya,Routier,353754.44,18,2283.47,0,Risque Modéré,263136.23
+INC-0374,Œuvres d'art,78.82,China,Aérien,214250.68,45,2718.23,2,Risque Faible,240447.25
+INC-0375,Contrefaçons Électroniques,3.86,Turkey,Aérien,176529.46,34,45733.02,2,Risque Faible,238808.19
+INC-0376,Œuvres d'art,25.47,Tunisia,Routier,201818.13,40,7923.76,2,Risque Faible,256552.95
+INC-0377,Œuvres d'art,188.8,Turkey,Routier,135816.75,34,719.37,2,Risque Faible,254115.5
+INC-0378,Contrefaçons Électroniques,161.35,Libya,Maritime,106639.8,18,660.92,0,Risque Modéré,247914.25
+INC-0379,Tabac de contrebande,4.12,Turkey,Routier,244104.65,34,59248.7,2,Risque Faible,262442.68
+INC-0380,Contrefaçons Électroniques,37.65,Turkey,Aérien,137924.21,34,3663.33,2,Risque Faible,237954.57
+INC-0381,Œuvres d'art,39.41,Tunisia,Maritime,147293.52,40,3737.47,2,Risque Faible,251431.59
+INC-0382,Tabac de contrebande,167.16,Libya,Aérien,330094.25,18,1974.72,0,Risque Modéré,249476.29
+INC-0383,Œuvres d'art,2.99,China,Maritime,484425.98,45,162015.38,2,Risque Faible,250944.42
+INC-0384,Contrefaçons Électroniques,16.49,China,Routier,303800.41,45,18423.31,2,Risque Faible,248743.93
+INC-0385,Contrefaçons Électroniques,241.35,Tunisia,Aérien,43104.84,40,178.6,2,Risque Faible,231119.91
+INC-0386,Œuvres d'art,29.5,Turkey,Maritime,42413.89,34,1437.76,2,Risque Faible,253370.63
+INC-0387,Produits Chimiques Régulés,158.65,Tunisia,Maritime,475954.49,40,3000.03,2,Risque Faible,256056.13
+INC-0388,Produits Chimiques Régulés,40.81,Tunisia,Routier,152158.94,40,3728.47,2,Risque Faible,263802.27
+INC-0389,Contrefaçons Électroniques,15.71,Tunisia,Routier,50573.16,40,3219.17,2,Risque Faible,250170.87
+INC-0390,Contrefaçons Électroniques,41.79,Turkey,Routier,301527.07,34,7215.29,2,Risque Faible,251200.7
+INC-0391,Produits Chimiques Régulés,192.16,Libya,Aérien,313706.15,18,1632.53,0,Risque Modéré,252819.89
+INC-0392,Produits Chimiques Régulés,290.38,Tunisia,Maritime,326009.89,40,1122.7,1,Risque Critique,252728.29
+INC-0393,Œuvres d'art,265.99,Turkey,Routier,137364.0,34,516.43,1,Risque Critique,252165.48
+INC-0394,Œuvres d'art,75.92,Libya,Aérien,12479.79,18,164.38,0,Risque Modéré,248119.56
+INC-0395,Produits Chimiques Régulés,165.43,Tunisia,Aérien,482682.61,40,2917.75,2,Risque Faible,247303.33
+INC-0396,Œuvres d'art,34.41,China,Aérien,129192.06,45,3754.49,2,Risque Faible,241569.16
+INC-0397,Œuvres d'art,52.04,Libya,Routier,339633.01,18,6526.38,0,Risque Modéré,262073.55
+INC-0398,Tabac de contrebande,339.99,Tunisia,Routier,354781.79,40,1043.51,1,Risque Critique,252269.06
+INC-0399,Œuvres d'art,1.96,Libya,Maritime,306953.67,18,156609.02,0,Risque Modéré,258569.5
+INC-0400,Contrefaçons Électroniques,13.41,Libya,Maritime,159889.16,18,11923.13,0,Risque Modéré,251651.6
+INC-0401,Œuvres d'art,34.96,Libya,Routier,139192.65,18,3981.48,0,Risque Modéré,262505.04
+INC-0402,Œuvres d'art,4.03,Libya,Aérien,300845.8,18,74651.56,0,Risque Modéré,249935.69
+INC-0403,Produits Chimiques Régulés,30.03,Libya,Aérien,433717.34,18,14442.8,0,Risque Modéré,256915.71
+INC-0404,Contrefaçons Électroniques,131.22,Libya,Aérien,473633.2,18,3609.46,0,Risque Modéré,240093.9
+INC-0405,Œuvres d'art,82.08,Tunisia,Maritime,57423.37,40,699.6,2,Risque Faible,250353.64
+INC-0406,Œuvres d'art,334.78,China,Aérien,81640.16,45,243.86,1,Risque Critique,233981.04
+INC-0407,Tabac de contrebande,255.1,Turkey,Maritime,472644.45,34,1852.78,1,Risque Critique,251333.08
+INC-0408,Œuvres d'art,62.74,Libya,Maritime,369584.94,18,5890.74,0,Risque Modéré,257034.04
+INC-0409,Œuvres d'art,45.05,Turkey,Aérien,442081.94,34,9813.14,2,Risque Faible,244396.27
+INC-0410,Tabac de contrebande,71.63,Tunisia,Aérien,105303.15,40,1470.1,2,Risque Faible,245697.8
+INC-0411,Produits Chimiques Régulés,133.85,Libya,Routier,295855.01,18,2210.35,0,Risque Modéré,267643.67
+INC-0412,Œuvres d'art,46.81,China,Routier,352064.1,45,7521.13,2,Risque Faible,254606.62
+INC-0413,Tabac de contrebande,146.78,Turkey,Aérien,341655.38,34,2327.67,2,Risque Faible,245488.0
+INC-0414,Contrefaçons Électroniques,79.0,Libya,Maritime,207035.09,18,2620.7,0,Risque Modéré,249994.63
+INC-0415,Produits Chimiques Régulés,120.46,Tunisia,Maritime,12620.47,40,104.77,2,Risque Faible,257020.91
+INC-0416,Contrefaçons Électroniques,85.94,China,Maritime,293548.4,45,3415.74,2,Risque Faible,242220.25
+INC-0417,Contrefaçons Électroniques,52.32,Turkey,Maritime,130285.26,34,2490.16,2,Risque Faible,246165.49
+INC-0418,Tabac de contrebande,444.79,Turkey,Maritime,227875.85,34,512.32,1,Risque Critique,246541.02
+INC-0419,Œuvres d'art,216.34,Libya,Routier,479002.6,18,2214.12,0,Risque Modéré,257922.91
+INC-0420,Tabac de contrebande,22.64,China,Aérien,202522.48,45,8945.34,2,Risque Faible,245528.18
+INC-0421,Tabac de contrebande,304.28,China,Routier,420701.8,45,1382.61,1,Risque Critique,251763.95
+INC-0422,Tabac de contrebande,100.25,China,Maritime,98327.6,45,980.82,2,Risque Faible,252149.07
+INC-0423,Tabac de contrebande,337.43,China,Maritime,337867.95,45,1001.3,1,Risque Critique,246157.3
+INC-0424,Produits Chimiques Régulés,241.31,Tunisia,Maritime,488618.44,40,2024.86,2,Risque Faible,253967.93
+INC-0425,Œuvres d'art,83.06,China,Maritime,55437.08,45,667.43,2,Risque Faible,248921.65
+INC-0426,Contrefaçons Électroniques,3.41,Turkey,Aérien,9118.37,34,2674.01,2,Risque Faible,238819.56
+INC-0427,Contrefaçons Électroniques,46.94,Turkey,Maritime,219623.48,34,4678.81,2,Risque Faible,246301.4
+INC-0428,Œuvres d'art,117.01,Tunisia,Aérien,50849.61,40,434.57,2,Risque Faible,240889.7
+INC-0429,Contrefaçons Électroniques,150.55,Turkey,Maritime,375450.25,34,2493.86,2,Risque Faible,243683.94
+INC-0430,Œuvres d'art,44.74,Turkey,Aérien,457701.59,34,10230.25,2,Risque Faible,244404.11
+INC-0431,Contrefaçons Électroniques,22.51,China,Routier,219840.38,45,9766.34,2,Risque Faible,248591.85
+INC-0432,Tabac de contrebande,270.21,Turkey,Maritime,133062.26,34,492.44,1,Risque Critique,250951.36
+INC-0433,Contrefaçons Électroniques,624.09,Tunisia,Aérien,220029.64,40,352.56,1,Risque Critique,221450.91
+INC-0434,Œuvres d'art,111.88,China,Routier,363106.67,45,3245.5,2,Risque Faible,252962.78
+INC-0435,Œuvres d'art,28.25,Libya,Maritime,9481.81,18,335.64,0,Risque Modéré,257905.35
+INC-0436,Œuvres d'art,47.68,China,Maritime,296779.72,45,6224.41,2,Risque Faible,249815.44
+INC-0437,Œuvres d'art,2.78,Tunisia,Maritime,308579.38,40,110999.78,2,Risque Faible,252356.96
+INC-0438,Œuvres d'art,368.53,China,Aérien,320655.68,45,870.09,1,Risque Critique,233128.43
+INC-0439,Produits Chimiques Régulés,18.79,China,Aérien,124800.93,45,6641.88,2,Risque Faible,249600.6
+INC-0440,Produits Chimiques Régulés,128.89,Tunisia,Routier,358456.1,40,2781.1,2,Risque Faible,261577.15
+INC-0441,Contrefaçons Électroniques,48.04,China,Aérien,50238.79,45,1045.77,2,Risque Faible,234596.18
+INC-0442,Œuvres d'art,121.18,Tunisia,Aérien,103638.82,40,855.25,2,Risque Faible,240784.36
+INC-0443,Contrefaçons Électroniques,158.08,Tunisia,Maritime,439347.67,40,2779.27,2,Risque Faible,241805.04
+INC-0444,Œuvres d'art,265.57,Libya,Maritime,370667.96,18,1395.74,0,Risque Modéré,251910.04
+INC-0445,Œuvres d'art,34.68,Turkey,Maritime,11804.05,34,340.37,2,Risque Faible,253239.77
+INC-0446,Produits Chimiques Régulés,1.66,Turkey,Maritime,127946.25,34,77076.05,2,Risque Faible,261710.78
+INC-0447,Produits Chimiques Régulés,22.08,China,Maritime,111131.21,45,5033.12,2,Risque Faible,258099.01
+INC-0448,Tabac de contrebande,345.42,China,Maritime,139049.13,45,402.55,1,Risque Critique,245955.45
+INC-0449,Produits Chimiques Régulés,310.59,Libya,Maritime,127542.09,18,410.64,0,Risque Modéré,258409.56
+INC-0450,Tabac de contrebande,136.48,Libya,Routier,35950.52,18,263.41,0,Risque Modéré,263602.07
+INC-0451,Tabac de contrebande,137.64,Libya,Routier,232175.56,18,1686.83,0,Risque Modéré,263572.76
+INC-0452,Tabac de contrebande,164.06,Tunisia,Routier,367703.07,40,2241.27,2,Risque Faible,256713.5
+INC-0453,Tabac de contrebande,28.92,Libya,Routier,305332.2,18,10557.82,0,Risque Modéré,266319.31
+INC-0454,Tabac de contrebande,368.73,Libya,Maritime,338071.48,18,916.85,0,Risque Modéré,252965.64
+INC-0455,Contrefaçons Électroniques,81.39,China,Routier,45168.84,45,554.97,2,Risque Faible,247104.39
+INC-0456,Produits Chimiques Régulés,72.47,Libya,Maritime,475987.9,18,6568.07,0,Risque Modéré,264425.08
+INC-0457,Tabac de contrebande,109.76,Tunisia,Routier,420053.46,40,3827.02,2,Risque Faible,258085.26
+INC-0458,Œuvres d'art,7.22,Tunisia,Aérien,403519.71,40,55889.16,2,Risque Faible,243663.28
+INC-0459,Produits Chimiques Régulés,27.28,China,Routier,412376.98,45,15116.46,2,Risque Faible,262736.84
+INC-0460,Produits Chimiques Régulés,200.93,Libya,Routier,466691.7,18,2322.66,0,Risque Modéré,265949.05
+INC-0461,Tabac de contrebande,12.96,Libya,Maritime,274405.71,18,21173.28,0,Risque Modéré,261953.3
+INC-0462,Contrefaçons Électroniques,138.63,Tunisia,Routier,104139.6,40,751.21,2,Risque Faible,247065.6
+INC-0463,Tabac de contrebande,42.23,Libya,Aérien,310307.89,18,7348.04,0,Risque Modéré,252632.35
+INC-0464,Contrefaçons Électroniques,73.97,Libya,Maritime,372726.34,18,5038.89,0,Risque Modéré,250121.7
+INC-0465,Œuvres d'art,51.1,Libya,Maritime,370269.11,18,7245.97,0,Risque Modéré,257328.1
+INC-0466,Produits Chimiques Régulés,65.93,Turkey,Routier,263117.27,34,3990.86,2,Risque Faible,264856.36
+INC-0467,Œuvres d'art,190.43,China,Maritime,38887.07,45,204.21,2,Risque Faible,246209.21
+INC-0468,Contrefaçons Électroniques,52.89,Turkey,Maritime,188700.9,34,3567.8,2,Risque Faible,246151.09
+INC-0469,Contrefaçons Électroniques,125.35,China,Maritime,460779.47,45,3675.94,2,Risque Faible,241224.65
+INC-0470,Œuvres d'art,96.95,Tunisia,Maritime,294302.21,40,3035.61,2,Risque Faible,249977.99
+INC-0471,Contrefaçons Électroniques,163.45,Libya,Maritime,271474.31,18,1660.9,0,Risque Modéré,247861.2
+INC-0472,Œuvres d'art,414.29,China,Maritime,138082.49,45,333.3,1,Risque Critique,240553.93
+INC-0473,Produits Chimiques Régulés,197.84,Turkey,Aérien,187382.22,34,947.14,2,Risque Faible,248173.25
+INC-0474,Œuvres d'art,36.3,Libya,Routier,448196.31,18,12347.01,0,Risque Modéré,262471.18
+INC-0475,Produits Chimiques Régulés,4.75,Tunisia,Aérien,334899.21,40,70505.1,2,Risque Faible,251362.52
+INC-0476,Œuvres d'art,45.63,China,Maritime,394756.58,45,8651.25,2,Risque Faible,249867.23
+INC-0477,Contrefaçons Électroniques,135.61,China,Maritime,229900.98,45,1695.31,2,Risque Faible,240965.46
+INC-0478,Œuvres d'art,7.92,China,Routier,316972.37,45,40021.76,2,Risque Faible,255589.08
+INC-0479,Contrefaçons Électroniques,102.89,Libya,Aérien,127949.89,18,1243.56,0,Risque Modéré,240809.59
+INC-0480,Œuvres d'art,136.26,Turkey,Routier,354203.11,34,2599.47,2,Risque Faible,255442.79
+INC-0481,Œuvres d'art,61.02,Turkey,Aérien,216662.66,34,3550.68,2,Risque Faible,243992.83
+INC-0482,Tabac de contrebande,221.05,China,Maritime,224060.03,45,1013.62,2,Risque Faible,249097.36
+INC-0483,Contrefaçons Électroniques,16.91,Tunisia,Routier,326414.55,40,19303.05,2,Risque Faible,250140.56
+INC-0484,Tabac de contrebande,11.72,Tunisia,Routier,468458.91,40,39970.9,2,Risque Faible,260562.0
+INC-0485,Contrefaçons Électroniques,195.4,Turkey,Maritime,36683.14,34,187.73,2,Risque Faible,242550.92
+INC-0486,Tabac de contrebande,102.63,Tunisia,Routier,413247.9,40,4026.58,2,Risque Faible,258265.38
+INC-0487,Produits Chimiques Régulés,174.91,Turkey,Aérien,149729.64,34,856.04,2,Risque Faible,248752.52
+INC-0488,Œuvres d'art,85.59,China,Aérien,224740.13,45,2625.78,2,Risque Faible,240276.22
+INC-0489,Contrefaçons Électroniques,42.43,Turkey,Aérien,15847.1,34,373.49,2,Risque Faible,237833.82
+INC-0490,Contrefaçons Électroniques,256.47,Turkey,Aérien,154017.81,34,600.53,1,Risque Critique,232426.62
+INC-0491,Œuvres d'art,240.98,China,Maritime,253802.47,45,1053.21,2,Risque Faible,244932.19
+INC-0492,Contrefaçons Électroniques,177.97,Tunisia,Routier,32807.16,40,184.34,2,Risque Faible,246071.77
+INC-0493,Contrefaçons Électroniques,47.65,Turkey,Aérien,248092.39,34,5206.56,2,Risque Faible,237701.95
+INC-0494,Tabac de contrebande,133.82,Turkey,Maritime,463919.76,34,3466.74,2,Risque Faible,254396.92
+INC-0495,Contrefaçons Électroniques,67.17,China,Routier,57169.64,45,851.12,2,Risque Faible,247463.63
+INC-0496,Produits Chimiques Régulés,14.41,Tunisia,Routier,383398.16,40,26606.4,2,Risque Faible,264469.2
+INC-0497,Produits Chimiques Régulés,373.9,Turkey,Maritime,207787.17,34,555.73,1,Risque Critique,252307.04
+INC-0498,Œuvres d'art,22.07,China,Maritime,329310.99,45,14921.2,2,Risque Faible,250462.41
+INC-0499,Contrefaçons Électroniques,450.07,Turkey,Aérien,133817.12,34,297.33,1,Risque Critique,227535.78
+INC-0500,Œuvres d'art,88.59,Libya,Routier,83948.67,18,947.61,0,Risque Modéré,261150.2
+INC-0501,Produits Chimiques Régulés,30.71,China,Routier,84428.99,45,2749.23,2,Risque Faible,262650.19
+INC-0502,Contrefaçons Électroniques,117.1,Tunisia,Maritime,39893.51,40,340.68,2,Risque Faible,242840.3
+INC-0503,Contrefaçons Électroniques,309.47,Tunisia,Routier,96895.12,40,313.1,1,Risque Critique,242749.74
+INC-0504,Œuvres d'art,197.64,Tunisia,Aérien,333788.6,40,1688.87,2,Risque Faible,238852.78
+INC-0505,Produits Chimiques Régulés,246.42,Tunisia,Routier,441436.85,40,1791.4,2,Risque Faible,258608.04
+INC-0506,Contrefaçons Électroniques,161.29,Turkey,Maritime,407992.21,34,2529.56,2,Risque Faible,243412.62
+INC-0507,Œuvres d'art,176.78,Turkey,Maritime,344141.48,34,1946.72,2,Risque Faible,249649.95
+INC-0508,Produits Chimiques Régulés,283.77,Tunisia,Aérien,59663.77,40,210.25,1,Risque Critique,244313.76
+INC-0509,Œuvres d'art,43.09,Tunisia,Aérien,148147.79,40,3438.1,2,Risque Faible,242757.11
+INC-0510,Tabac de contrebande,100.83,Tunisia,Routier,158354.4,40,1570.51,2,Risque Faible,258310.85
+INC-0511,Contrefaçons Électroniques,37.5,Turkey,Routier,128728.69,34,3432.77,2,Risque Faible,251309.08
+INC-0512,Tabac de contrebande,659.33,Tunisia,Maritime,259927.8,40,394.23,1,Risque Critique,239432.51
+INC-0513,Produits Chimiques Régulés,432.52,Tunisia,Aérien,270099.14,40,624.48,1,Risque Critique,240555.95
+INC-0514,Tabac de contrebande,6.03,Libya,Aérien,181658.56,18,30125.8,0,Risque Modéré,253546.85
+INC-0515,Tabac de contrebande,183.41,Libya,Aérien,180125.63,18,982.09,0,Risque Modéré,249065.78
+INC-0516,Produits Chimiques Régulés,389.04,Tunisia,Routier,415135.02,40,1067.08,1,Risque Critique,255005.09
+INC-0517,Œuvres d'art,29.87,China,Aérien,395699.96,45,13247.4,2,Risque Faible,241683.85
+INC-0518,Tabac de contrebande,125.88,Tunisia,Maritime,157358.94,40,1250.07,2,Risque Faible,252908.83
+INC-0519,Œuvres d'art,370.63,Libya,Maritime,457325.28,18,1233.91,0,Risque Modéré,249255.95
+INC-0520,Tabac de contrebande,5.18,China,Routier,476643.43,45,92016.11,2,Risque Faible,259319.99
+INC-0521,Œuvres d'art,179.31,China,Routier,166737.56,45,929.88,2,Risque Faible,251259.33
+INC-0522,Produits Chimiques Régulés,52.93,Tunisia,Aérien,180440.35,40,3409.04,2,Risque Faible,250145.37
+INC-0523,Tabac de contrebande,387.34,Libya,Routier,255288.91,18,659.08,0,Risque Modéré,257264.7
+INC-0524,Produits Chimiques Régulés,531.37,Libya,Maritime,470854.8,18,886.11,1,Risque Critique,252832.09
+INC-0525,Tabac de contrebande,433.08,China,Aérien,438778.12,45,1013.16,1,Risque Critique,235159.42
+INC-0526,Produits Chimiques Régulés,96.43,Tunisia,Maritime,55771.14,40,578.36,2,Risque Faible,257627.97
+INC-0527,Produits Chimiques Régulés,297.12,Turkey,Aérien,199401.72,34,671.12,1,Risque Critique,245665.19
+INC-0528,Tabac de contrebande,279.21,Turkey,Routier,278918.74,34,998.96,1,Risque Critique,255493.2
+INC-0529,Tabac de contrebande,57.65,Libya,Aérien,254050.57,18,4406.77,0,Risque Modéré,252242.8
+INC-0530,Tabac de contrebande,264.84,Turkey,Aérien,100962.22,34,381.22,1,Risque Critique,242505.5
+INC-0531,Contrefaçons Électroniques,5.66,Libya,Maritime,430114.3,18,75991.93,0,Risque Modéré,251847.38
+INC-0532,Œuvres d'art,136.05,Libya,Maritime,340085.69,18,2499.71,0,Risque Modéré,255182.04
+INC-0533,Contrefaçons Électroniques,39.21,Libya,Aérien,419764.65,18,10705.55,0,Risque Modéré,242418.31
+INC-0534,Contrefaçons Électroniques,19.27,Turkey,Routier,430088.32,34,22319.06,2,Risque Faible,251769.61
+INC-0535,Produits Chimiques Régulés,12.01,Libya,Routier,375436.15,18,31260.3,0,Risque Modéré,270721.66
+INC-0536,Tabac de contrebande,178.75,China,Maritime,222409.25,45,1244.25,2,Risque Faible,250165.96
+INC-0537,Œuvres d'art,62.3,Tunisia,Routier,307220.64,40,4931.31,2,Risque Faible,255622.53
+INC-0538,Produits Chimiques Régulés,193.52,Tunisia,Maritime,84380.88,40,436.03,2,Risque Faible,255175.23
+INC-0539,Contrefaçons Électroniques,10.14,Libya,Routier,338454.48,18,33378.15,0,Risque Modéré,256503.41
+INC-0540,Tabac de contrebande,56.81,Tunisia,Aérien,93730.36,40,1649.89,2,Risque Faible,246072.2
+INC-0541,Produits Chimiques Régulés,116.31,Turkey,Maritime,348505.05,34,2996.35,2,Risque Faible,258814.43
+INC-0542,Tabac de contrebande,234.61,Turkey,Maritime,118651.09,34,505.74,2,Risque Faible,251850.71
+INC-0543,Produits Chimiques Régulés,57.57,Tunisia,Aérien,63187.89,40,1097.58,2,Risque Faible,250028.15
+INC-0544,Tabac de contrebande,147.48,Turkey,Maritime,86815.82,34,588.66,2,Risque Faible,254051.83
+INC-0545,Contrefaçons Électroniques,325.7,Tunisia,Routier,5986.11,40,18.38,1,Risque Critique,242339.73
+INC-0546,Œuvres d'art,143.51,Tunisia,Routier,360776.11,40,2513.94,2,Risque Faible,253570.96
+INC-0547,Contrefaçons Électroniques,39.78,Tunisia,Maritime,367538.52,40,9239.28,2,Risque Faible,244793.6
+INC-0548,Œuvres d'art,3.71,Libya,Routier,259892.01,18,70051.75,0,Risque Modéré,263294.49
+INC-0549,Tabac de contrebande,306.15,Tunisia,Maritime,84874.59,40,277.23,1,Risque Critique,248354.74
+INC-0550,Produits Chimiques Régulés,3.22,Libya,Aérien,46359.4,18,14397.33,0,Risque Modéré,257593.0
+INC-0551,Contrefaçons Électroniques,311.56,Tunisia,Maritime,14468.84,40,46.44,1,Risque Critique,237927.74
+INC-0552,Œuvres d'art,112.91,Tunisia,Aérien,87045.35,40,770.93,2,Risque Faible,240993.28
+INC-0553,Contrefaçons Électroniques,419.7,Tunisia,Routier,445973.49,40,1062.6,1,Risque Critique,239965.04
+INC-0554,Œuvres d'art,240.51,Turkey,Aérien,124560.74,34,517.9,2,Risque Faible,239458.45
+INC-0555,Contrefaçons Électroniques,927.33,Libya,Routier,180364.31,18,194.5,1,Risque Critique,233332.83
+INC-0556,Œuvres d'art,64.78,Libya,Maritime,57146.01,18,882.16,0,Risque Modéré,256982.51
+INC-0557,Œuvres d'art,218.63,Tunisia,Routier,115068.85,40,526.32,2,Risque Faible,251673.24
+INC-0558,Tabac de contrebande,77.11,Tunisia,Maritime,262016.16,40,3397.95,2,Risque Faible,254140.88
+INC-0559,Œuvres d'art,98.05,Turkey,Maritime,305837.58,34,3119.2,2,Risque Faible,251638.88
+INC-0560,Tabac de contrebande,148.13,Turkey,Aérien,126449.4,34,853.64,2,Risque Faible,245453.9
+INC-0561,Œuvres d'art,310.34,Turkey,Aérien,33577.42,34,108.2,1,Risque Critique,237694.37
+INC-0562,Produits Chimiques Régulés,621.06,Libya,Aérien,198561.27,18,319.71,1,Risque Critique,241984.77
+INC-0563,Produits Chimiques Régulés,219.33,Libya,Aérien,120930.67,18,551.36,0,Risque Modéré,252133.51
+INC-0564,Produits Chimiques Régulés,81.13,Libya,Routier,113679.19,18,1401.2,0,Risque Modéré,268975.51
+INC-0565,Œuvres d'art,82.06,Tunisia,Routier,480132.09,40,5850.99,2,Risque Faible,255123.35
+INC-0566,Tabac de contrebande,200.67,Libya,Routier,310068.74,18,1545.17,0,Risque Modéré,261980.46
+INC-0567,Tabac de contrebande,40.92,China,Maritime,280654.83,45,6858.62,2,Risque Faible,253647.9
+INC-0568,Œuvres d'art,17.56,China,Routier,210808.68,45,12005.05,2,Risque Faible,255345.55
+INC-0569,Produits Chimiques Régulés,65.69,Turkey,Routier,217327.45,34,3308.38,2,Risque Faible,264862.42
+INC-0570,Produits Chimiques Régulés,50.79,Libya,Routier,272747.98,18,5370.11,0,Risque Modéré,269741.98
+INC-0571,Tabac de contrebande,52.71,China,Aérien,349732.75,45,6635.04,2,Risque Faible,244768.54
+INC-0572,Produits Chimiques Régulés,39.91,Turkey,Routier,352562.32,34,8833.93,2,Risque Faible,265513.69
+INC-0573,Contrefaçons Électroniques,6.45,Libya,Maritime,89988.48,18,13951.7,0,Risque Modéré,251827.43
+INC-0574,Tabac de contrebande,2.71,Tunisia,Aérien,252555.81,40,93194.03,2,Risque Faible,247438.9
+INC-0575,Produits Chimiques Régulés,660.0,China,Maritime,208919.26,45,316.54,1,Risque Critique,241983.51
+INC-0576,Tabac de contrebande,83.73,Tunisia,Routier,435910.85,40,5206.15,2,Risque Faible,258742.84
+INC-0577,Contrefaçons Électroniques,72.76,Libya,Aérien,317552.37,18,4364.38,0,Risque Modéré,241570.75
+INC-0578,Tabac de contrebande,170.75,China,Maritime,268589.51,45,1573.0,2,Risque Faible,250368.06
+INC-0579,Tabac de contrebande,36.93,Libya,Routier,62120.35,18,1682.11,0,Risque Modéré,266116.96
+INC-0580,Tabac de contrebande,449.24,Tunisia,Maritime,304790.76,40,678.46,1,Risque Critique,244739.92
+INC-0581,Tabac de contrebande,231.51,China,Maritime,63015.93,45,272.2,2,Risque Faible,248833.11
+INC-0582,Contrefaçons Électroniques,14.05,Tunisia,Maritime,171917.25,40,12236.1,2,Risque Faible,245443.61
+INC-0583,Œuvres d'art,81.08,Libya,Routier,75706.77,18,933.73,0,Risque Modéré,261339.93
+INC-0584,Tabac de contrebande,316.94,Libya,Routier,347576.46,18,1096.66,0,Risque Modéré,259043.18
+INC-0585,Tabac de contrebande,434.33,Tunisia,Maritime,107094.8,40,246.57,1,Risque Critique,245116.59
+INC-0586,Produits Chimiques Régulés,94.5,China,Aérien,198970.39,45,2105.51,2,Risque Faible,247687.97
+INC-0587,Tabac de contrebande,142.56,Tunisia,Aérien,448359.01,40,3145.05,2,Risque Faible,243905.93
+INC-0588,Produits Chimiques Régulés,27.41,Libya,Routier,106136.61,18,3872.19,0,Risque Modéré,270332.61
+INC-0589,Œuvres d'art,709.42,Tunisia,Routier,256363.51,40,361.37,1,Risque Critique,239274.62
+INC-0590,Contrefaçons Électroniques,39.53,Libya,Routier,212539.47,18,5376.66,0,Risque Modéré,255760.94
+INC-0591,Contrefaçons Électroniques,429.0,Tunisia,Routier,13971.4,40,32.57,1,Risque Critique,239730.1
+INC-0592,Œuvres d'art,157.32,China,Routier,397415.27,45,2526.16,2,Risque Faible,251814.85
+INC-0593,Contrefaçons Électroniques,140.37,China,Aérien,39177.72,45,279.1,2,Risque Faible,232263.69
+INC-0594,Œuvres d'art,107.83,Tunisia,Routier,239756.24,40,2223.47,2,Risque Faible,254472.33
+INC-0595,Œuvres d'art,39.34,Tunisia,Maritime,282535.76,40,7181.9,2,Risque Faible,251433.36
+INC-0596,Œuvres d'art,29.13,China,Maritime,316071.1,45,10850.36,2,Risque Faible,250284.06
+INC-0597,Contrefaçons Électroniques,37.36,Libya,Aérien,345872.66,18,9257.83,0,Risque Modéré,242465.04
+INC-0598,Produits Chimiques Régulés,30.95,China,Maritime,130369.83,45,4212.27,2,Risque Faible,257874.93
+INC-0599,Œuvres d'art,226.84,Libya,Aérien,9939.49,18,43.82,0,Risque Modéré,244306.94
+INC-0600,Tabac de contrebande,64.65,Tunisia,Aérien,363104.61,40,5616.47,2,Risque Faible,245874.14
+INC-0601,Contrefaçons Électroniques,8.94,Tunisia,Maritime,270150.02,40,30218.12,2,Risque Faible,245572.7
+INC-0602,Œuvres d'art,521.56,Libya,Routier,418878.26,18,803.13,1,Risque Critique,250212.27
+INC-0603,Œuvres d'art,322.85,Tunisia,Maritime,411587.24,40,1274.86,1,Risque Critique,244271.17
+INC-0604,Tabac de contrebande,394.15,Libya,Maritime,422446.45,18,1071.79,0,Risque Modéré,252323.46
+INC-0605,Produits Chimiques Régulés,792.01,Turkey,Aérien,245121.86,34,309.49,1,Risque Critique,233162.99
+INC-0606,Produits Chimiques Régulés,28.66,China,Maritime,170146.06,45,5936.71,2,Risque Faible,257932.78
+INC-0607,Produits Chimiques Régulés,75.69,Turkey,Aérien,396821.31,34,5242.72,2,Risque Faible,251259.08
+INC-0608,Œuvres d'art,212.97,Libya,Routier,228390.59,18,1072.41,0,Risque Modéré,258008.05
+INC-0609,Œuvres d'art,178.62,China,Routier,95803.89,45,536.36,2,Risque Faible,251276.76
+INC-0610,Œuvres d'art,25.07,Libya,Routier,428212.14,18,17080.66,0,Risque Modéré,262754.88
+INC-0611,Contrefaçons Électroniques,253.79,China,Maritime,441867.14,45,1741.07,2,Risque Faible,237979.93
+INC-0612,Tabac de contrebande,38.13,China,Aérien,235823.33,45,6184.72,2,Risque Faible,245136.87
+INC-0613,Œuvres d'art,38.01,China,Routier,42471.37,45,1117.37,2,Risque Faible,254828.93
+INC-0614,Tabac de contrebande,115.5,China,Aérien,196973.91,45,1705.4,2,Risque Faible,243182.3
+INC-0615,Tabac de contrebande,134.82,Libya,Aérien,402751.14,18,2987.32,0,Risque Modéré,250293.29
+INC-0616,Produits Chimiques Régulés,130.16,China,Routier,451378.14,45,3467.87,2,Risque Faible,260137.83
+INC-0617,Contrefaçons Électroniques,14.39,China,Routier,105719.01,45,7346.7,2,Risque Faible,248796.98
+INC-0618,Œuvres d'art,314.9,Turkey,Aérien,38151.94,34,121.16,1,Risque Critique,237579.17
+INC-0619,Produits Chimiques Régulés,46.31,Tunisia,Routier,439288.47,40,9485.82,2,Risque Faible,263663.33
+INC-0620,Produits Chimiques Régulés,20.81,Tunisia,Aérien,197755.44,40,9502.9,2,Risque Faible,250956.81
+INC-0621,Œuvres d'art,329.39,Turkey,Aérien,273171.68,34,829.33,1,Risque Critique,237213.12
+INC-0622,Tabac de contrebande,467.35,Turkey,Routier,484192.58,34,1036.04,1,Risque Critique,250740.3
+INC-0623,Produits Chimiques Régulés,297.21,Libya,Maritime,37949.54,18,127.69,0,Risque Modéré,258747.57
+INC-0624,Tabac de contrebande,248.73,Libya,Routier,325917.41,18,1310.33,0,Risque Modéré,260766.34
+INC-0625,Contrefaçons Électroniques,159.74,Libya,Maritime,41682.18,18,260.94,0,Risque Modéré,247954.93
+INC-0626,Tabac de contrebande,120.06,Turkey,Aérien,190857.12,34,1589.68,2,Risque Faible,246163.02
+INC-0627,Contrefaçons Électroniques,13.65,Turkey,Aérien,402888.2,34,29515.62,2,Risque Faible,238560.87
+INC-0628,Tabac de contrebande,78.75,China,Maritime,219568.76,45,2788.17,2,Risque Faible,252692.22
+INC-0629,Produits Chimiques Régulés,69.95,Libya,Aérien,498605.27,18,7128.02,0,Risque Modéré,255907.23
+INC-0630,Produits Chimiques Régulés,45.12,Libya,Maritime,281734.35,18,6244.11,0,Risque Modéré,265116.01
+INC-0631,Contrefaçons Électroniques,192.79,Libya,Maritime,163975.27,18,850.54,0,Risque Modéré,247120.0
+INC-0632,Œuvres d'art,102.74,Tunisia,Aérien,113955.11,40,1109.16,2,Risque Faible,241250.2
+INC-0633,Contrefaçons Électroniques,12.68,China,Maritime,178507.66,45,14077.89,2,Risque Faible,244070.98
+INC-0634,Contrefaçons Électroniques,37.3,Libya,Routier,189403.97,18,5077.85,0,Risque Modéré,255817.28
+INC-0635,Tabac de contrebande,172.45,Libya,Routier,39013.27,18,226.23,0,Risque Modéré,262693.37
+INC-0636,Tabac de contrebande,11.88,Libya,Aérien,187939.23,18,15819.8,0,Risque Modéré,253399.07
+INC-0637,Contrefaçons Électroniques,285.78,Tunisia,Aérien,234798.07,40,821.6,1,Risque Critique,229997.49
+INC-0638,Produits Chimiques Régulés,102.52,Tunisia,Maritime,362755.19,40,3538.38,2,Risque Faible,257474.12
+INC-0639,Tabac de contrebande,98.26,Turkey,Maritime,330081.09,34,3359.26,2,Risque Faible,255295.26
+INC-0640,Œuvres d'art,134.62,China,Maritime,355839.0,45,2643.28,2,Risque Faible,247619.11
+INC-0641,Tabac de contrebande,261.17,Turkey,Maritime,9140.02,34,35.0,1,Risque Critique,251179.73
+INC-0642,Tabac de contrebande,64.11,China,Routier,112745.36,45,1758.62,2,Risque Faible,257831.26
+INC-0643,Œuvres d'art,169.99,Tunisia,Routier,332533.72,40,1956.2,2,Risque Faible,252902.01
+INC-0644,Contrefaçons Électroniques,125.11,Libya,Aérien,244574.74,18,1954.88,0,Risque Modéré,240248.25
+INC-0645,Œuvres d'art,46.6,Turkey,Maritime,7630.17,34,163.74,2,Risque Faible,252938.64
+INC-0646,Contrefaçons Électroniques,316.34,Libya,Maritime,403224.85,18,1274.66,0,Risque Modéré,243998.81
+INC-0647,Contrefaçons Électroniques,239.5,Turkey,Aérien,387540.74,34,1618.12,2,Risque Faible,232855.32
+INC-0648,Contrefaçons Électroniques,161.14,Tunisia,Maritime,276467.49,40,1715.7,2,Risque Faible,241727.73
+INC-0649,Œuvres d'art,285.15,Tunisia,Maritime,37899.35,40,132.91,1,Risque Critique,245223.57
+INC-0650,Contrefaçons Électroniques,302.94,Tunisia,Maritime,384424.95,40,1268.98,1,Risque Critique,238145.5
+INC-0651,Produits Chimiques Régulés,184.84,Turkey,Maritime,293938.23,34,1590.23,2,Risque Faible,257083.18
+INC-0652,Œuvres d'art,272.11,China,Maritime,392070.19,45,1440.85,1,Risque Critique,244145.76
+INC-0653,Produits Chimiques Régulés,179.34,Turkey,Aérien,377114.76,34,2102.79,2,Risque Faible,248640.61
+INC-0654,Contrefaçons Électroniques,170.98,China,Maritime,402486.03,45,2353.99,2,Risque Faible,240071.92
+INC-0655,Tabac de contrebande,144.59,Turkey,Aérien,261413.99,34,1807.97,2,Risque Faible,245543.33
+INC-0656,Contrefaçons Électroniques,209.58,Turkey,Maritime,74460.64,34,355.29,2,Risque Faible,242192.7
+INC-0657,Produits Chimiques Régulés,25.9,Tunisia,Routier,337222.95,40,13020.19,2,Risque Faible,264178.94
+INC-0658,Produits Chimiques Régulés,319.13,Libya,Routier,312134.52,18,978.08,0,Risque Modéré,262963.02
+INC-0659,Œuvres d'art,308.18,Libya,Routier,372415.33,18,1208.43,0,Risque Modéré,255602.8
+INC-0660,Tabac de contrebande,4.45,China,Routier,89091.1,45,20020.47,2,Risque Faible,259338.43
+INC-0661,Œuvres d'art,262.15,Libya,Aérien,101512.72,18,387.23,0,Risque Modéré,243414.92
+INC-0662,Produits Chimiques Régulés,20.69,Turkey,Aérien,445752.71,34,21544.36,2,Risque Faible,252648.52
+INC-0663,Contrefaçons Électroniques,61.22,Turkey,Maritime,376239.01,34,6145.69,2,Risque Faible,245940.65
+INC-0664,Tabac de contrebande,204.1,Tunisia,Routier,454573.1,40,2227.21,2,Risque Faible,255701.99
+INC-0665,Contrefaçons Électroniques,26.29,Tunisia,Aérien,380564.08,40,14475.62,2,Risque Faible,236552.87
+INC-0666,Contrefaçons Électroniques,255.54,Libya,Maritime,300591.88,18,1176.3,0,Risque Modéré,245534.77
+INC-0667,Tabac de contrebande,267.69,China,Maritime,328795.7,45,1228.27,1,Risque Critique,247919.11
+INC-0668,Œuvres d'art,106.23,Libya,Aérien,445118.32,18,4190.14,0,Risque Modéré,247353.86
+INC-0669,Contrefaçons Électroniques,0.96,Libya,Routier,291509.34,18,303655.56,0,Risque Modéré,256735.32
+INC-0670,Produits Chimiques Régulés,50.75,Libya,Maritime,318033.71,18,6266.67,0,Risque Modéré,264973.79
+INC-0671,Contrefaçons Électroniques,143.93,Libya,Routier,82455.97,18,572.89,0,Risque Modéré,253123.53
+INC-0672,Tabac de contrebande,595.97,Turkey,Routier,239591.0,34,402.02,1,Risque Critique,247491.02
+INC-0673,Tabac de contrebande,149.87,China,Routier,359616.57,45,2399.52,2,Risque Faible,255664.74
+INC-0674,Tabac de contrebande,45.13,Turkey,Maritime,139116.64,34,3082.58,2,Risque Faible,256637.46
+INC-0675,Œuvres d'art,150.77,China,Routier,105115.82,45,697.19,2,Risque Faible,251980.32
+INC-0676,Contrefaçons Électroniques,116.47,Tunisia,Maritime,160344.27,40,1376.7,2,Risque Faible,242856.21
+INC-0677,Œuvres d'art,227.01,Libya,Routier,124542.81,18,548.62,0,Risque Modéré,257653.36
+INC-0678,Œuvres d'art,16.97,Turkey,Maritime,111381.76,34,6563.45,2,Risque Faible,253687.17
+INC-0679,Tabac de contrebande,214.71,China,Routier,215301.17,45,1002.75,2,Risque Faible,254026.72
+INC-0680,Tabac de contrebande,116.89,Tunisia,Aérien,454380.06,40,3887.24,2,Risque Faible,244554.42
+INC-0681,Œuvres d'art,494.49,Tunisia,Routier,255994.53,40,517.69,1,Risque Critique,244704.3
+INC-0682,Contrefaçons Électroniques,62.75,Libya,Routier,98020.59,18,1562.08,0,Risque Modéré,255174.34
+INC-0683,Produits Chimiques Régulés,150.2,China,Maritime,43100.98,45,286.96,2,Risque Faible,254862.37
+INC-0684,Œuvres d'art,403.3,Turkey,Maritime,349597.29,34,866.84,1,Risque Critique,243927.48
+INC-0685,Contrefaçons Électroniques,16.22,Libya,Routier,194485.39,18,11990.47,0,Risque Modéré,256349.81
+INC-0686,Tabac de contrebande,415.24,Turkey,Aérien,411806.32,34,991.73,1,Risque Critique,238706.01
+INC-0687,Tabac de contrebande,174.66,Tunisia,Aérien,331457.83,40,1897.73,2,Risque Faible,243095.0
+INC-0688,Contrefaçons Électroniques,10.54,Turkey,Maritime,399139.52,34,37869.02,2,Risque Faible,247220.96
+INC-0689,Produits Chimiques Régulés,53.71,Turkey,Aérien,139613.29,34,2599.39,2,Risque Faible,251814.35
+INC-0690,Tabac de contrebande,184.74,Libya,Routier,347717.67,18,1882.2,0,Risque Modéré,262382.9
+INC-0691,Tabac de contrebande,10.46,Turkey,Maritime,135710.68,34,12974.25,2,Risque Faible,257513.31
+INC-0692,Tabac de contrebande,130.9,Libya,Routier,469838.9,18,3589.3,0,Risque Modéré,263743.03
+INC-0693,Contrefaçons Électroniques,63.67,Tunisia,Maritime,320005.27,40,5026.0,2,Risque Faible,244190.08
+INC-0694,Œuvres d'art,145.5,Libya,Maritime,165633.34,18,1138.37,0,Risque Modéré,254943.31
+INC-0695,Tabac de contrebande,7.02,Libya,Maritime,138408.37,18,19716.29,0,Risque Modéré,262103.36
+INC-0696,Œuvres d'art,307.82,China,Maritime,99508.66,45,323.27,1,Risque Critique,243243.63
+INC-0697,Produits Chimiques Régulés,544.53,Turkey,Aérien,348847.27,34,640.64,1,Risque Critique,239414.97
+INC-0698,Tabac de contrebande,520.48,Tunisia,Routier,113264.23,40,217.61,1,Risque Critique,247709.42
+INC-0699,Tabac de contrebande,207.74,Libya,Routier,299675.12,18,1442.55,0,Risque Modéré,261801.86
+INC-0700,Produits Chimiques Régulés,20.9,Tunisia,Routier,135994.34,40,6506.91,2,Risque Faible,264305.25
+INC-0701,Tabac de contrebande,212.99,China,Maritime,332674.63,45,1561.93,2,Risque Faible,249300.97
+INC-0702,Œuvres d'art,3.73,Turkey,Aérien,408395.17,34,109489.32,2,Risque Faible,245440.12
+INC-0703,Contrefaçons Électroniques,3.36,Libya,Routier,390122.5,18,116107.89,0,Risque Modéré,256674.69
+INC-0704,Œuvres d'art,58.65,Turkey,Aérien,381621.41,34,6506.76,2,Risque Faible,244052.7
+INC-0705,Contrefaçons Électroniques,100.6,China,Maritime,97922.59,45,973.39,2,Risque Faible,241849.9
+INC-0706,Contrefaçons Électroniques,220.72,China,Routier,48750.55,45,220.87,2,Risque Faible,243584.56
+INC-0707,Œuvres d'art,172.47,Tunisia,Aérien,350979.67,40,2035.02,2,Risque Faible,239488.64
+INC-0708,Œuvres d'art,88.56,Libya,Maritime,187331.87,18,2115.31,0,Risque Modéré,256381.76
+INC-0709,Œuvres d'art,47.95,Tunisia,Aérien,219011.38,40,4567.49,2,Risque Faible,242634.33
+INC-0710,Œuvres d'art,877.73,China,Routier,20418.8,45,23.26,1,Risque Critique,233615.44
+INC-0711,Produits Chimiques Régulés,83.32,Turkey,Routier,133490.34,34,1602.14,2,Risque Faible,264417.04
+INC-0712,Tabac de contrebande,90.05,Tunisia,Maritime,21669.82,40,240.64,2,Risque Faible,253813.98
+INC-0713,Contrefaçons Électroniques,26.8,Tunisia,Maritime,440196.96,40,16425.26,2,Risque Faible,245121.51
+INC-0714,Œuvres d'art,237.57,Turkey,Maritime,125481.36,34,528.19,2,Risque Faible,248114.24
+INC-0715,Œuvres d'art,177.47,Tunisia,Aérien,280881.9,40,1582.7,2,Risque Faible,239362.33
+INC-0716,Œuvres d'art,37.42,Turkey,Aérien,24294.76,34,649.25,2,Risque Faible,244589.03
+INC-0717,Produits Chimiques Régulés,12.9,Libya,Aérien,335089.46,18,25975.93,0,Risque Modéré,257348.46
+INC-0718,Œuvres d'art,171.15,Turkey,Maritime,164898.54,34,963.47,2,Risque Faible,249792.18
+INC-0719,Œuvres d'art,159.42,Libya,Routier,449470.0,18,2819.41,0,Risque Modéré,259360.86
+INC-0720,Œuvres d'art,47.88,Turkey,Routier,444618.5,34,9286.1,2,Risque Faible,257675.5
+INC-0721,Tabac de contrebande,451.97,China,Aérien,166018.86,45,367.32,1,Risque Critique,234682.21
+INC-0722,Produits Chimiques Régulés,24.56,China,Aérien,450975.64,45,18362.2,2,Risque Faible,249454.84
+INC-0723,Œuvres d'art,84.93,Libya,Routier,498098.05,18,5864.81,0,Risque Modéré,261242.67
+INC-0724,Contrefaçons Électroniques,431.34,Libya,Routier,413580.75,18,958.83,1,Risque Critique,245862.81
+INC-0725,Contrefaçons Électroniques,81.64,China,Aérien,423211.32,45,5183.87,2,Risque Faible,233747.36
+INC-0726,Contrefaçons Électroniques,152.63,Libya,Aérien,128259.32,18,840.33,0,Risque Modéré,239553.03
+INC-0727,Produits Chimiques Régulés,76.02,Turkey,Routier,290467.69,34,3820.94,2,Risque Faible,264601.46
+INC-0728,Produits Chimiques Régulés,48.08,Turkey,Maritime,38291.68,34,796.42,2,Risque Faible,260538.09
+INC-0729,Contrefaçons Électroniques,620.07,China,Aérien,51984.38,45,83.84,1,Risque Critique,220145.23
+INC-0730,Œuvres d'art,78.98,Tunisia,Routier,499451.84,40,6323.78,2,Risque Faible,255201.15
+INC-0731,Produits Chimiques Régulés,336.79,Turkey,Routier,166686.43,34,494.93,1,Risque Critique,258013.74
+INC-0732,Contrefaçons Électroniques,39.2,Libya,Routier,375351.04,18,9575.28,0,Risque Modéré,255769.28
+INC-0733,Contrefaçons Électroniques,35.95,Tunisia,Routier,404299.2,40,11246.15,2,Risque Faible,249659.56
+INC-0734,Œuvres d'art,4.74,Tunisia,Maritime,429721.52,40,90658.55,2,Risque Faible,252307.45
+INC-0735,Tabac de contrebande,158.19,Turkey,Routier,498826.01,34,3153.33,2,Risque Faible,258550.47
+INC-0736,Produits Chimiques Régulés,68.95,Turkey,Aérien,124540.76,34,1806.25,2,Risque Faible,251429.35
+INC-0737,Œuvres d'art,299.66,Tunisia,Maritime,24973.66,40,83.34,1,Risque Critique,244857.01
+INC-0738,Contrefaçons Électroniques,96.14,Tunisia,Routier,208539.8,40,2169.13,2,Risque Faible,248139.0
+INC-0739,Contrefaçons Électroniques,517.21,China,Maritime,69389.93,45,134.16,1,Risque Critique,231325.26
+INC-0740,Œuvres d'art,30.78,Libya,Aérien,16100.82,18,523.09,0,Risque Modéré,249259.92
+INC-0741,Produits Chimiques Régulés,304.45,China,Routier,183411.28,45,602.43,1,Risque Critique,255734.82
+INC-0742,Tabac de contrebande,224.82,Turkey,Aérien,392950.43,34,1747.84,2,Risque Faible,243516.51
+INC-0743,Tabac de contrebande,221.05,China,Routier,285259.44,45,1290.47,2,Risque Faible,253866.56
+INC-0744,Contrefaçons Électroniques,279.44,China,Routier,159825.1,45,571.95,1,Risque Critique,242101.14
+INC-0745,Produits Chimiques Régulés,214.71,China,Routier,328899.29,45,1531.83,2,Risque Faible,258001.88
+INC-0746,Tabac de contrebande,147.61,China,Routier,119849.0,45,811.93,2,Risque Faible,255721.84
+INC-0747,Produits Chimiques Régulés,21.1,Libya,Routier,12118.82,18,574.35,0,Risque Modéré,270492.02
+INC-0748,Produits Chimiques Régulés,4.96,Libya,Maritime,383354.93,18,77289.3,0,Risque Modéré,266130.56
+INC-0749,Contrefaçons Électroniques,380.46,Tunisia,Routier,313752.83,40,824.67,1,Risque Critique,240956.35
+INC-0750,Tabac de contrebande,143.82,Turkey,Routier,382339.8,34,2658.46,2,Risque Faible,258913.5
+INC-0751,Œuvres d'art,238.84,China,Maritime,24274.32,45,101.63,2,Risque Faible,244986.25
+INC-0752,Contrefaçons Électroniques,98.53,Tunisia,Maritime,419374.22,40,4256.31,2,Risque Faible,243309.42
+INC-0753,Tabac de contrebande,18.72,Tunisia,Maritime,311665.47,40,16648.8,2,Risque Faible,255615.96
+INC-0754,Tabac de contrebande,20.06,Tunisia,Maritime,283880.7,40,14151.58,2,Risque Faible,255582.11
+INC-0755,Tabac de contrebande,173.55,Libya,Maritime,314183.95,18,1810.34,0,Risque Modéré,257896.38
+INC-0756,Tabac de contrebande,84.4,China,Maritime,432894.46,45,5129.08,2,Risque Faible,252549.49
+INC-0757,Tabac de contrebande,33.57,China,Routier,295533.57,45,8803.5,2,Risque Faible,258602.78
+INC-0758,Produits Chimiques Régulés,101.47,Turkey,Routier,292570.44,34,2883.32,2,Risque Faible,263958.52
+INC-0759,Contrefaçons Électroniques,9.95,China,Aérien,495386.18,45,49787.56,2,Risque Faible,235558.43
+INC-0760,Produits Chimiques Régulés,130.83,China,Routier,379581.43,45,2901.33,2,Risque Faible,260120.9
+INC-0761,Œuvres d'art,47.0,Tunisia,Routier,223935.43,40,4764.58,2,Risque Faible,256009.05
+INC-0762,Tabac de contrebande,239.6,Turkey,Maritime,355161.52,34,1482.31,2,Risque Faible,251724.65
+INC-0763,Contrefaçons Électroniques,55.74,China,Maritime,197669.08,45,3546.27,2,Risque Faible,242983.18
+INC-0764,Tabac de contrebande,91.11,Libya,Routier,118293.35,18,1298.36,0,Risque Modéré,264748.23
+INC-0765,Contrefaçons Électroniques,1.75,China,Aérien,300441.68,45,171680.96,2,Risque Faible,235765.59
+INC-0766,Produits Chimiques Régulés,11.28,Tunisia,Maritime,464450.14,40,41174.66,2,Risque Faible,259779.08
+INC-0767,Contrefaçons Électroniques,74.76,Libya,Routier,464924.06,18,6218.89,0,Risque Modéré,254870.94
+INC-0768,Œuvres d'art,98.07,Tunisia,Routier,174243.11,40,1776.72,2,Risque Faible,254718.89
+INC-0769,Œuvres d'art,137.45,China,Aérien,266200.35,45,1936.71,2,Risque Faible,238966.1
+INC-0770,Contrefaçons Électroniques,51.73,Libya,Aérien,109759.77,18,2121.78,0,Risque Modéré,242102.02
+INC-0771,Contrefaçons Électroniques,178.11,Turkey,Maritime,497837.4,34,2795.11,2,Risque Faible,242987.71
+INC-0772,Contrefaçons Électroniques,295.05,Turkey,Aérien,490653.36,34,1662.95,1,Risque Critique,231451.99
+INC-0773,Contrefaçons Électroniques,227.02,Libya,Routier,326506.92,18,1438.23,0,Risque Modéré,251024.46
+INC-0774,Œuvres d'art,6.06,Libya,Routier,403184.96,18,66532.17,0,Risque Modéré,263235.12
+INC-0775,Tabac de contrebande,98.24,Tunisia,Aérien,358974.58,40,3654.06,2,Risque Faible,245025.57
+INC-0776,Contrefaçons Électroniques,16.63,Libya,Aérien,298613.32,18,17956.3,0,Risque Modéré,242988.74
+INC-0777,Contrefaçons Électroniques,41.57,Tunisia,Aérien,31407.26,40,755.53,2,Risque Faible,236166.86
+INC-0778,Œuvres d'art,647.58,China,Aérien,230108.35,45,355.34,1,Risque Critique,226078.91
+INC-0779,Œuvres d'art,23.06,Tunisia,Maritime,339019.22,40,14701.61,2,Risque Faible,251844.64
+INC-0780,Produits Chimiques Régulés,103.64,Libya,Aérien,340378.15,18,3284.24,0,Risque Modéré,255056.13
+INC-0781,Contrefaçons Électroniques,144.41,Libya,Maritime,189695.7,18,1313.59,0,Risque Modéré,248342.2
+INC-0782,Produits Chimiques Régulés,181.83,China,Routier,471137.53,45,2591.09,2,Risque Faible,258832.51
+INC-0783,Œuvres d'art,123.03,Libya,Aérien,87841.73,18,713.99,0,Risque Modéré,246929.44
+INC-0784,Œuvres d'art,1.47,Libya,Maritime,252677.93,18,171889.75,0,Risque Modéré,258581.88
+INC-0785,Tabac de contrebande,59.28,Turkey,Aérien,346987.57,34,5853.37,2,Risque Faible,247698.48
+INC-0786,Contrefaçons Électroniques,109.38,Turkey,Routier,350082.22,34,3200.61,2,Risque Faible,249493.2
+INC-0787,Produits Chimiques Régulés,13.8,China,Routier,326076.28,45,23628.72,2,Risque Faible,263077.38
+INC-0788,Œuvres d'art,64.76,Tunisia,Routier,141267.67,40,2181.4,2,Risque Faible,255560.39
+INC-0789,Œuvres d'art,5.07,Turkey,Aérien,82322.25,34,16237.13,2,Risque Faible,245406.27
+INC-0790,Produits Chimiques Régulés,12.28,Tunisia,Aérien,319790.46,40,26041.57,2,Risque Faible,251172.3
+INC-0791,Tabac de contrebande,75.86,Libya,Maritime,301654.55,18,3976.46,0,Risque Modéré,260364.28
+INC-0792,Œuvres d'art,21.36,Turkey,Routier,93781.23,34,4390.51,2,Risque Faible,258345.46
+INC-0793,Contrefaçons Électroniques,125.74,China,Aérien,354043.88,45,2815.68,2,Risque Faible,232633.28
+INC-0794,Œuvres d'art,175.42,China,Routier,230310.14,45,1312.91,2,Risque Faible,251357.6
+INC-0795,Contrefaçons Électroniques,241.86,China,Routier,335541.49,45,1387.34,2,Risque Faible,243050.51
+INC-0796,Produits Chimiques Régulés,33.5,Turkey,Maritime,419496.7,34,12522.29,2,Risque Faible,260906.42
+INC-0797,Contrefaçons Électroniques,27.5,Tunisia,Maritime,89015.57,40,3236.93,2,Risque Faible,245103.82
+INC-0798,Produits Chimiques Régulés,16.57,Libya,Maritime,14476.71,18,873.67,0,Risque Modéré,265837.26
+INC-0799,Contrefaçons Électroniques,151.77,Tunisia,Maritime,390655.78,40,2574.0,2,Risque Faible,241964.45
+INC-0800,Produits Chimiques Régulés,183.87,Tunisia,Routier,306800.23,40,1668.57,2,Risque Faible,260188.21
+INC-0801,Contrefaçons Électroniques,4.81,Libya,Maritime,351321.59,18,73039.83,0,Risque Modéré,251868.86
+INC-0802,Tabac de contrebande,412.83,Libya,Maritime,419886.71,18,1017.09,0,Risque Modéré,251851.56
+INC-0803,Contrefaçons Électroniques,8.01,Turkey,Maritime,402391.41,34,50236.13,2,Risque Faible,247284.87
+INC-0804,Contrefaçons Électroniques,116.9,Turkey,Maritime,480655.47,34,4111.68,2,Risque Faible,244534.03
+INC-0805,Tabac de contrebande,185.2,Turkey,Routier,270287.86,34,1459.44,2,Risque Faible,257868.13
+INC-0806,Œuvres d'art,307.16,Turkey,Maritime,246805.34,34,803.51,1,Risque Critique,246356.22
+INC-0807,Œuvres d'art,187.81,Turkey,Routier,203934.16,34,1085.85,2,Risque Faible,254140.51
+INC-0808,Contrefaçons Électroniques,242.72,Libya,Aérien,81077.07,18,334.04,0,Risque Modéré,237277.12
+INC-0809,Tabac de contrebande,62.2,Tunisia,Routier,288440.58,40,4637.31,2,Risque Faible,259286.75
+INC-0810,Contrefaçons Électroniques,252.97,Turkey,Routier,142121.2,34,561.81,1,Risque Critique,245865.75
+INC-0811,Produits Chimiques Régulés,12.53,Turkey,Maritime,461047.22,34,36795.47,2,Risque Faible,261436.18
+INC-0812,Produits Chimiques Régulés,337.81,Tunisia,Aérien,293679.45,40,869.36,1,Risque Critique,242948.57
+INC-0813,Contrefaçons Électroniques,118.98,Turkey,Aérien,298455.89,34,2508.45,2,Risque Faible,235899.97
+INC-0814,Œuvres d'art,254.98,Tunisia,Aérien,180687.71,40,708.63,2,Risque Faible,237404.22
+INC-0815,Œuvres d'art,90.31,Tunisia,Aérien,30734.73,40,340.32,2,Risque Faible,241564.21
+INC-0816,Contrefaçons Électroniques,154.75,Libya,Routier,20713.16,18,133.85,0,Risque Modéré,252850.19
+INC-0817,Contrefaçons Électroniques,112.11,China,Aérien,214550.9,45,1913.75,2,Risque Faible,232977.61
+INC-0818,Produits Chimiques Régulés,197.29,Libya,Routier,46859.86,18,237.52,0,Risque Modéré,266041.01
+INC-0819,Œuvres d'art,12.77,China,Routier,305389.24,45,23914.58,2,Risque Faible,255466.56
+INC-0820,Contrefaçons Électroniques,9.34,China,Routier,441081.64,45,47225.01,2,Risque Faible,248924.56
+INC-0821,Produits Chimiques Régulés,42.57,China,Aérien,442042.83,45,10383.9,2,Risque Faible,248999.86
+INC-0822,Œuvres d'art,26.07,Turkey,Maritime,331227.48,34,12705.31,2,Risque Faible,253457.28
+INC-0823,Tabac de contrebande,308.11,Libya,Maritime,109559.76,18,355.59,0,Risque Modéré,254497.05
+INC-0824,Produits Chimiques Régulés,37.12,China,Aérien,432183.43,45,11642.87,2,Risque Faible,249137.54
+INC-0825,Œuvres d'art,558.62,Tunisia,Maritime,443616.25,40,794.13,1,Risque Critique,238315.02
+INC-0826,Œuvres d'art,61.62,Turkey,Maritime,102343.52,34,1660.88,2,Risque Faible,252559.19
+INC-0827,Produits Chimiques Régulés,30.16,Libya,Routier,370025.91,18,12268.76,0,Risque Modéré,270263.14
+INC-0828,Tabac de contrebande,233.88,China,Routier,146827.18,45,627.79,2,Risque Faible,253542.44
+INC-0829,Produits Chimiques Régulés,161.25,Tunisia,Aérien,402306.95,40,2494.93,2,Risque Faible,247408.93
+INC-0830,Œuvres d'art,103.43,Libya,Aérien,498632.76,18,4820.97,0,Risque Modéré,247424.59
+INC-0831,Contrefaçons Électroniques,121.57,Libya,Maritime,19862.87,18,163.39,0,Risque Modéré,248919.2
+INC-0832,Contrefaçons Électroniques,190.52,Turkey,Routier,449196.1,34,2357.74,2,Risque Faible,247443.4
+INC-0833,Produits Chimiques Régulés,38.9,Libya,Aérien,313202.11,18,8051.47,0,Risque Modéré,256691.63
+INC-0834,Œuvres d'art,841.29,Turkey,Aérien,486824.4,34,578.66,1,Risque Critique,224281.21
+INC-0835,Contrefaçons Électroniques,552.1,China,Aérien,235179.71,45,425.97,1,Risque Critique,221862.33
+INC-0836,Œuvres d'art,157.61,Turkey,Aérien,424457.03,34,2693.08,2,Risque Faible,241552.72
+INC-0837,Produits Chimiques Régulés,33.39,Tunisia,Aérien,35885.06,40,1074.72,2,Risque Faible,250639.0
+INC-0838,Contrefaçons Électroniques,171.02,Turkey,Aérien,170963.13,34,999.67,2,Risque Faible,234585.3
+INC-0839,Œuvres d'art,11.24,Tunisia,Maritime,38173.19,40,3396.19,2,Risque Faible,252143.24
+INC-0840,Contrefaçons Électroniques,4.67,Turkey,Routier,487794.85,34,104452.86,2,Risque Faible,252138.45
+INC-0841,Produits Chimiques Régulés,44.7,Libya,Routier,409402.08,18,9158.88,0,Risque Modéré,269895.82
+INC-0842,Œuvres d'art,93.16,China,Aérien,427010.97,45,4583.63,2,Risque Faible,240084.98
+INC-0843,Contrefaçons Électroniques,304.05,Tunisia,Routier,469292.79,40,1543.47,1,Risque Critique,242886.66
+INC-0844,Produits Chimiques Régulés,194.84,Turkey,Routier,47126.23,34,241.87,2,Risque Faible,261599.76
+INC-0845,Contrefaçons Électroniques,203.63,Turkey,Routier,195870.81,34,961.9,2,Risque Faible,247112.21
+INC-0846,Contrefaçons Électroniques,83.14,Turkey,Aérien,40162.27,34,483.07,2,Risque Faible,236805.38
+INC-0847,Tabac de contrebande,63.68,Libya,Aérien,109342.59,18,1717.06,0,Risque Modéré,252090.47
+INC-0848,Tabac de contrebande,69.55,Libya,Routier,118536.06,18,1704.33,0,Risque Modéré,265292.89
+INC-0849,Produits Chimiques Régulés,659.11,Tunisia,Routier,237208.07,40,359.89,1,Risque Critique,248182.43
+INC-0850,Tabac de contrebande,6.14,Tunisia,Aérien,137938.27,40,22465.52,2,Risque Faible,247352.25
+INC-0851,Produits Chimiques Régulés,302.65,Libya,Maritime,54984.16,18,181.68,0,Risque Modéré,258610.15
+INC-0852,Tabac de contrebande,129.65,Tunisia,Routier,87908.09,40,678.04,2,Risque Faible,257582.79
+INC-0853,Contrefaçons Électroniques,86.6,China,Maritime,77901.4,45,899.55,2,Risque Faible,242203.57
+INC-0854,Produits Chimiques Régulés,193.79,China,Routier,486673.01,45,2511.34,2,Risque Faible,258530.37
+INC-0855,Produits Chimiques Régulés,100.03,Libya,Maritime,380849.79,18,3807.36,0,Risque Modéré,263728.85
+INC-0856,Contrefaçons Électroniques,310.04,Tunisia,Maritime,484041.93,40,1561.22,1,Risque Critique,237966.14
+INC-0857,Produits Chimiques Régulés,346.44,Turkey,Maritime,222671.54,34,642.74,1,Risque Critique,253000.75
+INC-0858,Produits Chimiques Régulés,82.15,China,Aérien,142792.4,45,1738.19,2,Risque Faible,247999.97
+INC-0859,Tabac de contrebande,48.62,Libya,Maritime,400155.13,18,8230.26,0,Risque Modéré,261052.44
+INC-0860,Produits Chimiques Régulés,134.6,Tunisia,Maritime,166495.69,40,1236.97,2,Risque Faible,256663.7
+INC-0861,Œuvres d'art,365.18,Libya,Maritime,153194.77,18,419.5,0,Risque Modéré,249393.63
+INC-0862,Contrefaçons Électroniques,35.48,Turkey,Routier,120090.47,34,3384.74,2,Risque Faible,251360.11
+INC-0863,Tabac de contrebande,146.31,China,Maritime,69191.09,45,472.91,2,Risque Faible,250985.48
+INC-0864,Tabac de contrebande,149.77,Libya,Routier,131949.22,18,881.01,0,Risque Modéré,263266.33
+INC-0865,Œuvres d'art,198.14,Libya,Maritime,180883.28,18,912.91,0,Risque Modéré,253613.49
+INC-0866,Contrefaçons Électroniques,21.16,Libya,Maritime,338627.13,18,16003.17,0,Risque Modéré,251455.81
+INC-0867,Contrefaçons Électroniques,188.72,Turkey,Aérien,35969.6,34,190.6,2,Risque Faible,234138.16
+INC-0868,Tabac de contrebande,359.59,Libya,Routier,109200.94,18,303.68,0,Risque Modéré,257965.74
+INC-0869,Produits Chimiques Régulés,29.71,Turkey,Maritime,405466.7,34,13647.48,2,Risque Faible,261002.17
+INC-0870,Tabac de contrebande,40.68,Turkey,Routier,77726.35,34,1910.68,2,Risque Faible,261519.08
+INC-0871,Contrefaçons Électroniques,533.13,Turkey,Routier,174609.35,34,327.52,1,Risque Critique,238788.19
+INC-0872,Œuvres d'art,29.95,China,Aérien,433006.17,45,14457.64,2,Risque Faible,241681.83
+INC-0873,Tabac de contrebande,289.02,China,Aérien,81688.03,45,282.64,1,Risque Critique,238798.74
+INC-0874,Contrefaçons Électroniques,101.67,Libya,Aérien,45954.73,18,452.0,0,Risque Modéré,240840.41
+INC-0875,Tabac de contrebande,42.6,Libya,Aérien,244846.31,18,5747.57,0,Risque Modéré,252623.0
+INC-0876,Produits Chimiques Régulés,306.9,China,Aérien,154697.66,45,504.07,1,Risque Critique,242322.21
+INC-0877,Tabac de contrebande,88.4,Tunisia,Aérien,283887.14,40,3211.39,2,Risque Faible,245274.15
+INC-0878,Tabac de contrebande,108.48,China,Aérien,402883.42,45,3713.9,2,Risque Faible,243359.65
+INC-0879,Contrefaçons Électroniques,66.76,Turkey,Aérien,72888.5,34,1091.8,2,Risque Faible,237219.18
+INC-0880,Contrefaçons Électroniques,134.82,China,Maritime,292446.05,45,2169.16,2,Risque Faible,240985.41
+INC-0881,Contrefaçons Électroniques,26.78,Turkey,Routier,255226.84,34,9530.5,2,Risque Faible,251579.89
+INC-0882,Tabac de contrebande,74.41,Libya,Aérien,76319.0,18,1025.66,0,Risque Modéré,251819.4
+INC-0883,Produits Chimiques Régulés,523.07,Tunisia,Aérien,313879.25,40,600.07,1,Risque Critique,238268.43
+INC-0884,Œuvres d'art,44.79,Libya,Routier,140452.01,18,3135.79,0,Risque Modéré,262256.71
+INC-0885,Œuvres d'art,160.39,Turkey,Maritime,246477.99,34,1536.74,2,Risque Faible,250064.01
+INC-0886,Contrefaçons Électroniques,59.0,Turkey,Routier,45724.8,34,775.0,2,Risque Faible,250765.93
+INC-0887,Contrefaçons Électroniques,222.73,Turkey,Routier,232494.11,34,1043.84,2,Risque Faible,246629.69
+INC-0888,Tabac de contrebande,21.04,Tunisia,Aérien,156699.42,40,7447.69,2,Risque Faible,246975.84
+INC-0889,Œuvres d'art,525.09,China,Routier,412078.7,45,784.78,1,Risque Critique,242524.04
+INC-0890,Contrefaçons Électroniques,90.71,Libya,Routier,33204.47,18,366.05,0,Risque Modéré,254468.0
+INC-0891,Produits Chimiques Régulés,40.39,Libya,Aérien,212210.6,18,5254.04,0,Risque Modéré,256653.99
+INC-0892,Produits Chimiques Régulés,11.45,China,Aérien,231923.55,45,20255.33,2,Risque Faible,249786.03
+INC-0893,Contrefaçons Électroniques,27.91,Libya,Aérien,363878.01,18,13037.55,0,Risque Modéré,242703.77
+INC-0894,Contrefaçons Électroniques,110.02,Tunisia,Aérien,289272.35,40,2629.27,2,Risque Faible,234437.64
+INC-0895,Œuvres d'art,61.65,Libya,Routier,335270.11,18,5438.28,0,Risque Modéré,261830.78
+INC-0896,Œuvres d'art,264.81,Turkey,Routier,389639.4,34,1471.39,1,Risque Critique,252195.29
+INC-0897,Tabac de contrebande,84.55,China,Maritime,431790.47,45,5106.92,2,Risque Faible,252545.7
+INC-0898,Œuvres d'art,42.9,Tunisia,Maritime,160368.37,40,3738.19,2,Risque Faible,251343.43
+INC-0899,Produits Chimiques Régulés,144.01,China,Routier,271321.24,45,1884.04,2,Risque Faible,259787.94
+INC-0900,Produits Chimiques Régulés,184.02,Tunisia,Maritime,420853.5,40,2287.0,2,Risque Faible,255415.22
+INC-0901,Contrefaçons Électroniques,27.42,Turkey,Routier,494778.31,34,18044.43,2,Risque Faible,251563.72
+INC-0902,Œuvres d'art,27.52,China,Maritime,445312.06,45,16181.4,2,Risque Faible,250324.73
+INC-0903,Tabac de contrebande,5.6,Libya,Aérien,188876.29,18,33727.91,0,Risque Modéré,253557.72
+INC-0904,Produits Chimiques Régulés,200.0,Tunisia,Maritime,101607.43,40,508.04,2,Risque Faible,255011.52
+INC-0905,Produits Chimiques Régulés,163.51,China,Aérien,247249.31,45,1512.14,2,Risque Faible,245944.6
+INC-0906,Tabac de contrebande,96.55,Libya,Aérien,372112.52,18,3854.09,0,Risque Modéré,251260.08
+INC-0907,Tabac de contrebande,278.85,China,Aérien,248821.69,45,892.31,1,Risque Critique,239055.66
+INC-0908,Produits Chimiques Régulés,245.73,China,Aérien,244174.53,45,993.67,2,Risque Faible,243867.52
+INC-0909,Produits Chimiques Régulés,132.05,China,Maritime,419924.06,45,3180.04,2,Risque Faible,255320.88
+INC-0910,Tabac de contrebande,304.05,Tunisia,Routier,183894.87,40,604.82,1,Risque Critique,253176.99
+INC-0911,Produits Chimiques Régulés,34.57,Libya,Aérien,430598.36,18,12455.84,0,Risque Modéré,256801.02
+INC-0912,Contrefaçons Électroniques,17.8,Turkey,Maritime,206368.38,34,11593.73,2,Risque Faible,247037.55
+INC-0913,Contrefaçons Électroniques,47.16,Tunisia,Aérien,167475.39,40,3551.22,2,Risque Faible,236025.65
+INC-0914,Tabac de contrebande,8.82,Tunisia,Maritime,229725.01,40,26045.92,2,Risque Faible,255866.06
+INC-0915,Œuvres d'art,113.63,Tunisia,Maritime,382411.24,40,3365.41,2,Risque Faible,249556.61
+INC-0916,Tabac de contrebande,413.76,Turkey,Maritime,67371.0,34,162.83,1,Risque Critique,247324.92
+INC-0917,Tabac de contrebande,6.02,Libya,Routier,102227.51,18,16981.31,0,Risque Modéré,266897.82
+INC-0918,Œuvres d'art,19.54,Libya,Maritime,475965.19,18,24358.51,0,Risque Modéré,258125.39
+INC-0919,Œuvres d'art,90.28,Libya,Maritime,91868.36,18,1017.59,0,Risque Modéré,256338.31
+INC-0920,Œuvres d'art,407.43,China,Routier,286025.02,45,702.02,1,Risque Critique,245496.43
+INC-0921,Contrefaçons Électroniques,57.0,China,Routier,291760.66,45,5118.61,2,Risque Faible,247720.55
+INC-0922,Produits Chimiques Régulés,106.16,China,Maritime,247364.11,45,2330.11,2,Risque Faible,255974.93
+INC-0923,Contrefaçons Électroniques,6.37,Turkey,Routier,324148.9,34,50886.8,2,Risque Faible,252095.5
+INC-0924,Produits Chimiques Régulés,24.09,China,Aérien,118764.23,45,4930.02,2,Risque Faible,249466.71
+INC-0925,Contrefaçons Électroniques,647.21,Turkey,Aérien,278567.82,34,430.41,1,Risque Critique,222555.52
+INC-0926,Produits Chimiques Régulés,503.37,Libya,Routier,189225.76,18,375.92,1,Risque Critique,258308.64
+INC-0927,Contrefaçons Électroniques,0.74,China,Routier,332525.29,45,449358.5,2,Risque Faible,249141.82
+INC-0928,Œuvres d'art,454.9,China,Maritime,74905.65,45,164.66,1,Risque Critique,239528.02
+INC-0929,Tabac de contrebande,152.88,Tunisia,Routier,287584.32,40,1881.11,2,Risque Faible,256995.94
+INC-0930,Contrefaçons Électroniques,303.65,Turkey,Maritime,96708.83,34,318.49,1,Risque Critique,239816.25
+INC-0931,Produits Chimiques Régulés,90.97,Libya,Aérien,142928.32,18,1571.16,0,Risque Modéré,255376.21
+INC-0932,Œuvres d'art,108.73,Tunisia,Routier,113261.35,40,1041.68,2,Risque Faible,254449.59
+INC-0933,Contrefaçons Électroniques,100.66,Tunisia,Maritime,95504.7,40,948.79,2,Risque Faible,243255.62
+INC-0934,Contrefaçons Électroniques,164.88,Libya,Maritime,413726.92,18,2509.26,0,Risque Modéré,247825.08
+INC-0935,Œuvres d'art,22.56,Tunisia,Aérien,146425.25,40,6490.48,2,Risque Faible,243275.75
+INC-0936,Contrefaçons Électroniques,4.56,Turkey,Routier,463926.27,34,101738.22,2,Risque Faible,252141.23
+INC-0937,Tabac de contrebande,55.21,Turkey,Aérien,485113.63,34,8786.7,2,Risque Faible,247801.29
+INC-0938,Contrefaçons Électroniques,182.95,China,Maritime,287773.93,45,1572.96,2,Risque Faible,239769.53
+INC-0939,Tabac de contrebande,33.82,Tunisia,Maritime,75785.56,40,2240.85,2,Risque Faible,255234.5
+INC-0940,Tabac de contrebande,167.87,China,Routier,190401.38,45,1134.22,2,Risque Faible,255210.02
+INC-0941,Œuvres d'art,525.54,Tunisia,Maritime,399877.47,40,760.89,1,Risque Critique,239150.7
+INC-0942,Contrefaçons Électroniques,14.79,Turkey,Routier,186858.41,34,12634.1,2,Risque Faible,251882.79
+INC-0943,Œuvres d'art,167.49,Turkey,Aérien,48073.52,34,287.02,2,Risque Faible,241303.13
+INC-0944,Contrefaçons Électroniques,87.98,Turkey,Routier,280608.53,34,3189.46,2,Risque Faible,250033.82
+INC-0945,Contrefaçons Électroniques,303.9,Tunisia,Routier,423334.82,40,1393.01,1,Risque Critique,242890.45
+INC-0946,Produits Chimiques Régulés,29.25,Turkey,Maritime,398983.56,34,13640.46,2,Risque Faible,261013.79
+INC-0947,Contrefaçons Électroniques,176.95,Tunisia,Maritime,91685.95,40,518.15,2,Risque Faible,241328.33
+INC-0948,Œuvres d'art,273.13,China,Routier,338018.48,45,1237.57,1,Risque Critique,248889.19
+INC-0949,Tabac de contrebande,434.01,Tunisia,Maritime,114149.61,40,263.01,1,Risque Critique,245124.67
+INC-0950,Contrefaçons Électroniques,172.45,China,Maritime,113012.73,45,655.34,2,Risque Faible,240034.78
+INC-0951,Produits Chimiques Régulés,103.13,Tunisia,Maritime,437665.53,40,4243.82,2,Risque Faible,257458.71
+INC-0952,Œuvres d'art,144.29,China,Routier,128586.13,45,891.16,2,Risque Faible,252144.02
+INC-0953,Contrefaçons Électroniques,304.77,Turkey,Maritime,135307.44,34,443.97,1,Risque Critique,239787.95
+INC-0954,Œuvres d'art,126.81,China,Routier,5323.43,45,41.98,2,Risque Faible,252585.61
+INC-0955,Produits Chimiques Régulés,4.63,Turkey,Maritime,435981.17,34,94164.4,2,Risque Faible,261635.75
+INC-0956,Produits Chimiques Régulés,400.94,Turkey,Aérien,397334.43,34,991.01,1,Risque Critique,243042.43
+INC-0957,Œuvres d'art,175.45,China,Maritime,315527.82,45,1798.39,2,Risque Faible,246587.64
+INC-0958,Contrefaçons Électroniques,169.29,Tunisia,Maritime,376381.55,40,2223.29,2,Risque Faible,241521.84
+INC-0959,Tabac de contrebande,36.44,Tunisia,Routier,80264.04,40,2202.64,2,Risque Faible,259937.51
+INC-0960,Produits Chimiques Régulés,161.33,Libya,Routier,231870.18,18,1437.24,0,Risque Modéré,266949.45
+INC-0961,Contrefaçons Électroniques,75.1,Tunisia,Maritime,178853.6,40,2381.54,2,Risque Faible,243901.33
+INC-0962,Contrefaçons Électroniques,158.0,Libya,Aérien,51419.38,18,325.44,0,Risque Modéré,239417.37
+INC-0963,Tabac de contrebande,16.91,Tunisia,Maritime,245634.59,40,14526.0,2,Risque Faible,255661.69
+INC-0964,Produits Chimiques Régulés,160.87,Tunisia,Maritime,460766.13,40,2864.21,2,Risque Faible,256000.05
+INC-0965,Produits Chimiques Régulés,1116.26,Turkey,Aérien,24829.26,34,22.24,1,Risque Critique,224971.6
+INC-0966,Contrefaçons Électroniques,7.41,Libya,Routier,149273.15,18,20144.82,0,Risque Modéré,256572.37
+INC-0967,Contrefaçons Électroniques,566.98,Tunisia,Maritime,107732.76,40,190.01,1,Risque Critique,231475.17
+INC-0968,Tabac de contrebande,78.36,Libya,Routier,122882.59,18,1568.18,0,Risque Modéré,265070.33
+INC-0969,Tabac de contrebande,306.91,Turkey,Routier,454675.1,34,1481.46,1,Risque Critique,254793.42
+INC-0970,Produits Chimiques Régulés,228.75,Turkey,Aérien,236694.18,34,1034.73,2,Risque Faible,247392.39
+INC-0971,Œuvres d'art,125.56,Libya,Aérien,235818.21,18,1878.13,0,Risque Modéré,246865.53
+INC-0972,Produits Chimiques Régulés,201.17,Turkey,Routier,381484.94,34,1896.33,2,Risque Faible,261439.85
+INC-0973,Contrefaçons Électroniques,316.2,China,Maritime,81473.64,45,257.66,1,Risque Critique,236403.29
+INC-0974,Produits Chimiques Régulés,77.66,China,Routier,246196.35,45,3170.18,2,Risque Faible,261464.11
+INC-0975,Œuvres d'art,59.41,Turkey,Maritime,217842.68,34,3666.77,2,Risque Faible,252615.02
+INC-0976,Tabac de contrebande,165.21,China,Maritime,300470.79,45,1818.72,2,Risque Faible,250508.02
+INC-0977,Œuvres d'art,247.42,Tunisia,Aérien,499781.06,40,2019.97,2,Risque Faible,237595.21
+INC-0978,Œuvres d'art,215.5,Libya,Maritime,385877.2,18,1790.61,0,Risque Modéré,253174.93
+INC-0979,Œuvres d'art,239.78,Tunisia,Maritime,201943.52,40,842.2,2,Risque Faible,246369.73
+INC-0980,Tabac de contrebande,85.79,Libya,Routier,414638.76,18,4833.18,0,Risque Modéré,264882.63
+INC-0981,Œuvres d'art,255.43,Turkey,Aérien,89500.64,34,350.39,1,Risque Critique,239081.54
+INC-0982,Œuvres d'art,19.21,Tunisia,Maritime,20079.52,40,1045.26,2,Risque Faible,251941.9
+INC-0983,Œuvres d'art,117.95,Turkey,Maritime,106201.94,34,900.4,2,Risque Faible,251136.15
+INC-0984,Contrefaçons Électroniques,0.87,Turkey,Aérien,173503.72,34,199429.56,2,Risque Faible,238883.73
+INC-0985,Œuvres d'art,58.86,Libya,Routier,257737.47,18,4378.82,0,Risque Modéré,261901.26
+INC-0986,Tabac de contrebande,68.47,Libya,Aérien,309488.92,18,4520.07,0,Risque Modéré,251969.46
+INC-0987,Œuvres d'art,75.67,Libya,Aérien,455749.83,18,6022.86,0,Risque Modéré,248125.88
+INC-0988,Œuvres d'art,178.35,Tunisia,Maritime,257377.73,40,1443.1,2,Risque Faible,247921.61
+INC-0989,Tabac de contrebande,73.79,China,Maritime,253131.44,45,3430.43,2,Risque Faible,252817.52
+INC-0990,Œuvres d'art,89.32,Libya,Routier,29870.29,18,334.42,0,Risque Modéré,261131.76
+INC-0991,Tabac de contrebande,40.68,Libya,Maritime,22281.22,18,547.72,0,Risque Modéré,261253.02
+INC-0992,Œuvres d'art,70.08,Tunisia,Maritime,277824.18,40,3964.39,2,Risque Faible,250656.79
+INC-0993,Tabac de contrebande,38.67,Libya,Aérien,221898.41,18,5738.26,0,Risque Modéré,252722.28
+INC-0994,Œuvres d'art,11.4,Tunisia,Maritime,420394.3,40,36876.69,2,Risque Faible,252139.2
+INC-0995,Œuvres d'art,138.74,Turkey,Routier,84536.39,34,609.32,2,Risque Faible,255380.14
+INC-0996,Contrefaçons Électroniques,165.49,Libya,Aérien,17360.97,18,104.91,0,Risque Modéré,239228.15
+INC-0997,Contrefaçons Électroniques,144.94,Libya,Routier,227274.19,18,1568.06,0,Risque Modéré,253098.01
+INC-0998,Œuvres d'art,93.4,Turkey,Aérien,122551.89,34,1312.12,2,Risque Faible,243174.83
+INC-0999,Œuvres d'art,71.65,Turkey,Maritime,29559.11,34,412.55,2,Risque Faible,252305.81
+INC-1000,Produits Chimiques Régulés,298.53,Turkey,Aérien,363676.15,34,1218.22,1,Risque Critique,245629.56

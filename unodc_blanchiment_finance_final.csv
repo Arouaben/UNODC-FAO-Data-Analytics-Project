@@ -1,0 +1,1201 @@
+Transaction_ID,Date_Transaction,Type_Canal,Montant_USD,Pays_Emetteur,Pays_Recepteur,FSI_Score_2026,Statut_Transaction,Montant_Predit_USD
+TX-00001,2026-01-01 00:00:00,Espèces,32170.16,Tunisia,Austria,45,Flux Hautement Suspect,48215.7
+TX-00002,2026-01-01 00:01:00,Espèces,41362.75,Panama,Germany,78,Flux Opaque,52762.69
+TX-00003,2026-01-01 00:02:00,Crypto-actifs,31455.62,Luxembourg,Austria,60,Flux Hautement Suspect,48278.6
+TX-00004,2026-01-01 00:03:00,Société Écran,61916.66,Luxembourg,Austria,60,Flux Hautement Suspect,47778.62
+TX-00005,2026-01-01 00:04:00,Espèces,23564.34,Cayman islands,Germany,82,Flux Opaque,53313.84
+TX-00006,2026-01-01 00:05:00,Espèces,48320.34,Panama,Austria,78,Flux Opaque,52762.69
+TX-00007,2026-01-01 00:06:00,Crypto-actifs,69991.83,Tunisia,Austria,45,Flux Hautement Suspect,46211.79
+TX-00008,2026-01-01 00:07:00,Espèces,124604.59,Luxembourg,Austria,60,Flux Standard,50282.52
+TX-00009,2026-01-01 00:08:00,Espèces,14867.43,Cayman islands,Germany,82,Flux Opaque,53313.84
+TX-00010,2026-01-01 00:09:00,Crypto-actifs,5387.61,Luxembourg,Austria,60,Flux Hautement Suspect,48278.6
+TX-00011,2026-01-01 00:10:00,Crypto-actifs,307529.62,Switzerland,Austria,65,Flux Standard,48967.54
+TX-00012,2026-01-01 00:11:00,Virement Bancaire,34290.49,Tunisia,France,45,Flux Hautement Suspect,46953.52
+TX-00013,2026-01-01 00:12:00,Virement Bancaire,188236.27,Cayman islands,Austria,82,Flux Standard,52051.66
+TX-00014,2026-01-01 00:13:00,Espèces,141188.65,Cayman islands,France,82,Flux Standard,53313.84
+TX-00015,2026-01-01 00:14:00,Virement Bancaire,27716.92,Switzerland,Austria,65,Flux Hautement Suspect,49709.27
+TX-00016,2026-01-01 00:15:00,Crypto-actifs,24535.35,Cayman islands,Austria,82,Flux Opaque,51309.93
+TX-00017,2026-01-01 00:16:00,Virement Bancaire,29326.21,Switzerland,France,65,Flux Hautement Suspect,49709.27
+TX-00018,2026-01-01 00:17:00,Virement Bancaire,32889.14,Tunisia,Germany,45,Flux Hautement Suspect,46953.52
+TX-00019,2026-01-01 00:18:00,Virement Bancaire,49382.46,Cayman islands,France,82,Flux Opaque,52051.66
+TX-00020,2026-01-01 00:19:00,Société Écran,15256.95,Luxembourg,France,60,Flux Hautement Suspect,47778.62
+TX-00021,2026-01-01 00:20:00,Crypto-actifs,213765.29,Switzerland,France,65,Flux Standard,48967.54
+TX-00022,2026-01-01 00:21:00,Virement Bancaire,2117.89,Cayman islands,Austria,82,Flux Opaque,52051.66
+TX-00023,2026-01-01 00:22:00,Crypto-actifs,6818.88,Panama,Austria,78,Flux Opaque,50758.78
+TX-00024,2026-01-01 00:23:00,Virement Bancaire,48760.18,Switzerland,Austria,65,Flux Hautement Suspect,49709.27
+TX-00025,2026-01-01 00:24:00,Crypto-actifs,103121.35,Tunisia,Germany,45,Flux Hautement Suspect,46211.79
+TX-00026,2026-01-01 00:25:00,Espèces,245401.3,Switzerland,Germany,65,Flux Standard,50971.45
+TX-00027,2026-01-01 00:26:00,Espèces,34304.83,Switzerland,Germany,65,Flux Hautement Suspect,50971.45
+TX-00028,2026-01-01 00:27:00,Société Écran,115450.92,Panama,France,78,Flux Standard,50258.8
+TX-00029,2026-01-01 00:28:00,Virement Bancaire,60240.88,Tunisia,Germany,45,Flux Hautement Suspect,46953.52
+TX-00030,2026-01-01 00:29:00,Espèces,11017.4,Panama,Germany,78,Flux Opaque,52762.69
+TX-00031,2026-01-01 00:30:00,Crypto-actifs,129433.29,Luxembourg,France,60,Flux Standard,48278.6
+TX-00032,2026-01-01 00:31:00,Espèces,4753.06,Switzerland,Austria,65,Flux Hautement Suspect,50971.45
+TX-00033,2026-01-01 00:32:00,Espèces,27270.39,Switzerland,Austria,65,Flux Hautement Suspect,50971.45
+TX-00034,2026-01-01 00:33:00,Société Écran,80191.3,Panama,Austria,78,Flux Opaque,50258.8
+TX-00035,2026-01-01 00:34:00,Virement Bancaire,53559.69,Luxembourg,France,60,Flux Hautement Suspect,49020.34
+TX-00036,2026-01-01 00:35:00,Virement Bancaire,113627.41,Luxembourg,Austria,60,Flux Standard,49020.34
+TX-00037,2026-01-01 00:36:00,Crypto-actifs,10117.57,Luxembourg,Germany,60,Flux Hautement Suspect,48278.6
+TX-00038,2026-01-01 00:37:00,Espèces,43595.71,Cayman islands,Austria,82,Flux Opaque,53313.84
+TX-00039,2026-01-01 00:38:00,Société Écran,22014.94,Panama,Austria,78,Flux Opaque,50258.8
+TX-00040,2026-01-01 00:39:00,Société Écran,19574.82,Luxembourg,Austria,60,Flux Hautement Suspect,47778.62
+TX-00041,2026-01-01 00:40:00,Virement Bancaire,25198.22,Panama,Germany,78,Flux Opaque,51500.51
+TX-00042,2026-01-01 00:41:00,Espèces,186594.41,Panama,Germany,78,Flux Standard,52762.69
+TX-00043,2026-01-01 00:42:00,Espèces,86423.82,Cayman islands,Germany,82,Flux Opaque,53313.84
+TX-00044,2026-01-01 00:43:00,Espèces,30167.16,Luxembourg,France,60,Flux Hautement Suspect,50282.52
+TX-00045,2026-01-01 00:44:00,Virement Bancaire,26575.09,Switzerland,Austria,65,Flux Hautement Suspect,49709.27
+TX-00046,2026-01-01 00:45:00,Crypto-actifs,42332.67,Switzerland,Germany,65,Flux Hautement Suspect,48967.54
+TX-00047,2026-01-01 00:46:00,Espèces,31590.05,Tunisia,France,45,Flux Hautement Suspect,48215.7
+TX-00048,2026-01-01 00:47:00,Crypto-actifs,21870.63,Panama,Austria,78,Flux Opaque,50758.78
+TX-00049,2026-01-01 00:48:00,Espèces,94491.37,Cayman islands,France,82,Flux Opaque,53313.84
+TX-00050,2026-01-01 00:49:00,Virement Bancaire,72296.81,Cayman islands,Austria,82,Flux Opaque,52051.66
+TX-00051,2026-01-01 00:50:00,Société Écran,21105.84,Luxembourg,France,60,Flux Hautement Suspect,47778.62
+TX-00052,2026-01-01 00:51:00,Virement Bancaire,32722.54,Panama,Germany,78,Flux Opaque,51500.51
+TX-00053,2026-01-01 00:52:00,Espèces,28760.26,Switzerland,Germany,65,Flux Hautement Suspect,50971.45
+TX-00054,2026-01-01 00:53:00,Espèces,55387.94,Switzerland,France,65,Flux Hautement Suspect,50971.45
+TX-00055,2026-01-01 00:54:00,Virement Bancaire,37559.9,Cayman islands,Austria,82,Flux Opaque,52051.66
+TX-00056,2026-01-01 00:55:00,Espèces,204754.04,Tunisia,Germany,45,Flux Standard,48215.7
+TX-00057,2026-01-01 00:56:00,Espèces,91896.87,Luxembourg,Germany,60,Flux Standard,50282.52
+TX-00058,2026-01-01 00:57:00,Société Écran,25448.63,Switzerland,France,65,Flux Hautement Suspect,48467.56
+TX-00059,2026-01-01 00:58:00,Virement Bancaire,21306.05,Panama,Germany,78,Flux Opaque,51500.51
+TX-00060,2026-01-01 00:59:00,Virement Bancaire,51289.05,Luxembourg,Germany,60,Flux Hautement Suspect,49020.34
+TX-00061,2026-01-01 01:00:00,Espèces,32612.09,Tunisia,France,45,Flux Hautement Suspect,48215.7
+TX-00062,2026-01-01 01:01:00,Société Écran,27104.09,Luxembourg,Germany,60,Flux Hautement Suspect,47778.62
+TX-00063,2026-01-01 01:02:00,Société Écran,80363.18,Tunisia,Germany,45,Flux Hautement Suspect,45711.81
+TX-00064,2026-01-01 01:03:00,Crypto-actifs,102022.5,Panama,Austria,78,Flux Standard,50758.78
+TX-00065,2026-01-01 01:04:00,Virement Bancaire,89981.76,Panama,France,78,Flux Opaque,51500.51
+TX-00066,2026-01-01 01:05:00,Société Écran,46549.6,Luxembourg,Germany,60,Flux Hautement Suspect,47778.62
+TX-00067,2026-01-01 01:06:00,Espèces,21928.11,Tunisia,Austria,45,Flux Hautement Suspect,48215.7
+TX-00068,2026-01-01 01:07:00,Espèces,90423.45,Cayman islands,Germany,82,Flux Opaque,53313.84
+TX-00069,2026-01-01 01:08:00,Espèces,23243.74,Tunisia,France,45,Flux Hautement Suspect,48215.7
+TX-00070,2026-01-01 01:09:00,Espèces,15558.77,Cayman islands,Austria,82,Flux Opaque,53313.84
+TX-00071,2026-01-01 01:10:00,Virement Bancaire,20920.75,Cayman islands,Austria,82,Flux Opaque,52051.66
+TX-00072,2026-01-01 01:11:00,Virement Bancaire,72241.74,Cayman islands,Germany,82,Flux Opaque,52051.66
+TX-00073,2026-01-01 01:12:00,Virement Bancaire,178177.93,Switzerland,France,65,Flux Standard,49709.27
+TX-00074,2026-01-01 01:13:00,Société Écran,4995.4,Luxembourg,France,60,Flux Hautement Suspect,47778.62
+TX-00075,2026-01-01 01:14:00,Virement Bancaire,54560.68,Cayman islands,France,82,Flux Opaque,52051.66
+TX-00076,2026-01-01 01:15:00,Crypto-actifs,74888.68,Cayman islands,France,82,Flux Opaque,51309.93
+TX-00077,2026-01-01 01:16:00,Virement Bancaire,34581.03,Cayman islands,France,82,Flux Opaque,52051.66
+TX-00078,2026-01-01 01:17:00,Espèces,52926.56,Luxembourg,Germany,60,Flux Hautement Suspect,50282.52
+TX-00079,2026-01-01 01:18:00,Espèces,37758.78,Switzerland,Austria,65,Flux Hautement Suspect,50971.45
+TX-00080,2026-01-01 01:19:00,Espèces,31294.63,Panama,Austria,78,Flux Opaque,52762.69
+TX-00081,2026-01-01 01:20:00,Crypto-actifs,972.7,Panama,France,78,Flux Opaque,50758.78
+TX-00082,2026-01-01 01:21:00,Crypto-actifs,49668.02,Tunisia,Germany,45,Flux Hautement Suspect,46211.79
+TX-00083,2026-01-01 01:22:00,Virement Bancaire,28268.11,Cayman islands,Austria,82,Flux Opaque,52051.66
+TX-00084,2026-01-01 01:23:00,Virement Bancaire,75891.04,Luxembourg,Austria,60,Flux Hautement Suspect,49020.34
+TX-00085,2026-01-01 01:24:00,Virement Bancaire,24418.05,Cayman islands,Austria,82,Flux Opaque,52051.66
+TX-00086,2026-01-01 01:25:00,Espèces,8407.75,Cayman islands,France,82,Flux Opaque,53313.84
+TX-00087,2026-01-01 01:26:00,Espèces,14533.12,Panama,Austria,78,Flux Opaque,52762.69
+TX-00088,2026-01-01 01:27:00,Société Écran,100552.5,Tunisia,France,45,Flux Hautement Suspect,45711.81
+TX-00089,2026-01-01 01:28:00,Espèces,27182.24,Luxembourg,France,60,Flux Hautement Suspect,50282.52
+TX-00090,2026-01-01 01:29:00,Société Écran,52660.89,Panama,France,78,Flux Opaque,50258.8
+TX-00091,2026-01-01 01:30:00,Société Écran,15644.94,Tunisia,France,45,Flux Hautement Suspect,45711.81
+TX-00092,2026-01-01 01:31:00,Espèces,23015.8,Tunisia,Germany,45,Flux Hautement Suspect,48215.7
+TX-00093,2026-01-01 01:32:00,Virement Bancaire,41362.67,Luxembourg,France,60,Flux Hautement Suspect,49020.34
+TX-00094,2026-01-01 01:33:00,Espèces,42124.35,Panama,Germany,78,Flux Opaque,52762.69
+TX-00095,2026-01-01 01:34:00,Virement Bancaire,6029.98,Cayman islands,Germany,82,Flux Opaque,52051.66
+TX-00096,2026-01-01 01:35:00,Espèces,4373.91,Switzerland,Austria,65,Flux Hautement Suspect,50971.45
+TX-00097,2026-01-01 01:36:00,Virement Bancaire,6427.63,Panama,Germany,78,Flux Opaque,51500.51
+TX-00098,2026-01-01 01:37:00,Société Écran,23176.5,Switzerland,Germany,65,Flux Hautement Suspect,48467.56
+TX-00099,2026-01-01 01:38:00,Société Écran,43747.83,Panama,Germany,78,Flux Opaque,50258.8
+TX-00100,2026-01-01 01:39:00,Société Écran,25337.15,Panama,Germany,78,Flux Opaque,50258.8
+TX-00101,2026-01-01 01:40:00,Espèces,78677.38,Cayman islands,Austria,82,Flux Opaque,53313.84
+TX-00102,2026-01-01 01:41:00,Espèces,76724.28,Cayman islands,France,82,Flux Opaque,53313.84
+TX-00103,2026-01-01 01:42:00,Société Écran,85279.32,Switzerland,France,65,Flux Standard,48467.56
+TX-00104,2026-01-01 01:43:00,Espèces,25585.75,Tunisia,Germany,45,Flux Hautement Suspect,48215.7
+TX-00105,2026-01-01 01:44:00,Société Écran,8236.91,Switzerland,Germany,65,Flux Hautement Suspect,48467.56
+TX-00106,2026-01-01 01:45:00,Crypto-actifs,35375.23,Tunisia,France,45,Flux Hautement Suspect,46211.79
+TX-00107,2026-01-01 01:46:00,Société Écran,47066.83,Panama,Germany,78,Flux Opaque,50258.8
+TX-00108,2026-01-01 01:47:00,Crypto-actifs,6241.75,Tunisia,Austria,45,Flux Hautement Suspect,46211.79
+TX-00109,2026-01-01 01:48:00,Crypto-actifs,46235.22,Tunisia,Germany,45,Flux Hautement Suspect,46211.79
+TX-00110,2026-01-01 01:49:00,Crypto-actifs,13056.39,Panama,Germany,78,Flux Opaque,50758.78
+TX-00111,2026-01-01 01:50:00,Société Écran,20099.51,Switzerland,Germany,65,Flux Hautement Suspect,48467.56
+TX-00112,2026-01-01 01:51:00,Société Écran,9049.29,Cayman islands,Austria,82,Flux Opaque,50809.95
+TX-00113,2026-01-01 01:52:00,Société Écran,15262.56,Cayman islands,Germany,82,Flux Opaque,50809.95
+TX-00114,2026-01-01 01:53:00,Espèces,6149.26,Panama,Austria,78,Flux Opaque,52762.69
+TX-00115,2026-01-01 01:54:00,Virement Bancaire,12581.13,Tunisia,France,45,Flux Hautement Suspect,46953.52
+TX-00116,2026-01-01 01:55:00,Espèces,46809.01,Switzerland,France,65,Flux Hautement Suspect,50971.45
+TX-00117,2026-01-01 01:56:00,Espèces,14747.04,Luxembourg,Austria,60,Flux Hautement Suspect,50282.52
+TX-00118,2026-01-01 01:57:00,Société Écran,24000.96,Panama,Austria,78,Flux Opaque,50258.8
+TX-00119,2026-01-01 01:58:00,Crypto-actifs,10017.12,Switzerland,Germany,65,Flux Hautement Suspect,48967.54
+TX-00120,2026-01-01 01:59:00,Société Écran,20425.42,Panama,Austria,78,Flux Opaque,50258.8
+TX-00121,2026-01-01 02:00:00,Espèces,154919.8,Tunisia,France,45,Flux Standard,48215.7
+TX-00122,2026-01-01 02:01:00,Virement Bancaire,50176.1,Switzerland,France,65,Flux Hautement Suspect,49709.27
+TX-00123,2026-01-01 02:02:00,Espèces,30307.12,Switzerland,Germany,65,Flux Hautement Suspect,50971.45
+TX-00124,2026-01-01 02:03:00,Espèces,56772.48,Switzerland,Austria,65,Flux Hautement Suspect,50971.45
+TX-00125,2026-01-01 02:04:00,Virement Bancaire,24368.75,Cayman islands,Austria,82,Flux Opaque,52051.66
+TX-00126,2026-01-01 02:05:00,Espèces,74010.73,Tunisia,Germany,45,Flux Hautement Suspect,48215.7
+TX-00127,2026-01-01 02:06:00,Société Écran,73352.38,Luxembourg,France,60,Flux Hautement Suspect,47778.62
+TX-00128,2026-01-01 02:07:00,Société Écran,11214.15,Switzerland,Germany,65,Flux Hautement Suspect,48467.56
+TX-00129,2026-01-01 02:08:00,Crypto-actifs,61906.74,Tunisia,France,45,Flux Hautement Suspect,46211.79
+TX-00130,2026-01-01 02:09:00,Crypto-actifs,59426.65,Tunisia,Austria,45,Flux Hautement Suspect,46211.79
+TX-00131,2026-01-01 02:10:00,Virement Bancaire,49281.78,Switzerland,Germany,65,Flux Hautement Suspect,49709.27
+TX-00132,2026-01-01 02:11:00,Crypto-actifs,148146.9,Panama,Germany,78,Flux Standard,50758.78
+TX-00133,2026-01-01 02:12:00,Virement Bancaire,29198.94,Panama,Germany,78,Flux Opaque,51500.51
+TX-00134,2026-01-01 02:13:00,Espèces,61394.5,Cayman islands,Germany,82,Flux Opaque,53313.84
+TX-00135,2026-01-01 02:14:00,Société Écran,16182.28,Switzerland,Austria,65,Flux Hautement Suspect,48467.56
+TX-00136,2026-01-01 02:15:00,Virement Bancaire,11243.87,Tunisia,Germany,45,Flux Hautement Suspect,46953.52
+TX-00137,2026-01-01 02:16:00,Espèces,22714.61,Panama,Austria,78,Flux Opaque,52762.69
+TX-00138,2026-01-01 02:17:00,Espèces,13980.4,Tunisia,Austria,45,Flux Hautement Suspect,48215.7
+TX-00139,2026-01-01 02:18:00,Crypto-actifs,25762.36,Cayman islands,Germany,82,Flux Opaque,51309.93
+TX-00140,2026-01-01 02:19:00,Société Écran,45142.32,Tunisia,Austria,45,Flux Hautement Suspect,45711.81
+TX-00141,2026-01-01 02:20:00,Espèces,26925.9,Panama,Germany,78,Flux Opaque,52762.69
+TX-00142,2026-01-01 02:21:00,Crypto-actifs,45024.17,Switzerland,Austria,65,Flux Hautement Suspect,48967.54
+TX-00143,2026-01-01 02:22:00,Virement Bancaire,29675.51,Switzerland,France,65,Flux Hautement Suspect,49709.27
+TX-00144,2026-01-01 02:23:00,Virement Bancaire,36729.82,Panama,Austria,78,Flux Opaque,51500.51
+TX-00145,2026-01-01 02:24:00,Espèces,27522.51,Cayman islands,Austria,82,Flux Opaque,53313.84
+TX-00146,2026-01-01 02:25:00,Espèces,58722.86,Luxembourg,France,60,Flux Hautement Suspect,50282.52
+TX-00147,2026-01-01 02:26:00,Espèces,17495.03,Switzerland,Austria,65,Flux Hautement Suspect,50971.45
+TX-00148,2026-01-01 02:27:00,Société Écran,149936.54,Tunisia,Germany,45,Flux Standard,45711.81
+TX-00149,2026-01-01 02:28:00,Espèces,71316.84,Cayman islands,Austria,82,Flux Opaque,53313.84
+TX-00150,2026-01-01 02:29:00,Société Écran,29092.41,Cayman islands,Germany,82,Flux Opaque,50809.95
+TX-00151,2026-01-01 02:30:00,Crypto-actifs,32571.81,Luxembourg,Germany,60,Flux Hautement Suspect,48278.6
+TX-00152,2026-01-01 02:31:00,Crypto-actifs,103735.92,Luxembourg,France,60,Flux Standard,48278.6
+TX-00153,2026-01-01 02:32:00,Société Écran,91017.7,Panama,France,78,Flux Opaque,50258.8
+TX-00154,2026-01-01 02:33:00,Espèces,55086.0,Switzerland,Germany,65,Flux Hautement Suspect,50971.45
+TX-00155,2026-01-01 02:34:00,Société Écran,5791.46,Cayman islands,Austria,82,Flux Opaque,50809.95
+TX-00156,2026-01-01 02:35:00,Virement Bancaire,270843.11,Panama,Germany,78,Flux Standard,51500.51
+TX-00157,2026-01-01 02:36:00,Crypto-actifs,106938.18,Tunisia,Austria,45,Flux Hautement Suspect,46211.79
+TX-00158,2026-01-01 02:37:00,Société Écran,22635.06,Cayman islands,France,82,Flux Opaque,50809.95
+TX-00159,2026-01-01 02:38:00,Crypto-actifs,20079.17,Luxembourg,Austria,60,Flux Hautement Suspect,48278.6
+TX-00160,2026-01-01 02:39:00,Société Écran,80464.07,Switzerland,Austria,65,Flux Hautement Suspect,48467.56
+TX-00161,2026-01-01 02:40:00,Crypto-actifs,2989.33,Panama,Austria,78,Flux Opaque,50758.78
+TX-00162,2026-01-01 02:41:00,Société Écran,188131.94,Switzerland,Austria,65,Flux Standard,48467.56
+TX-00163,2026-01-01 02:42:00,Crypto-actifs,64468.06,Switzerland,France,65,Flux Hautement Suspect,48967.54
+TX-00164,2026-01-01 02:43:00,Crypto-actifs,1180.36,Switzerland,Austria,65,Flux Hautement Suspect,48967.54
+TX-00165,2026-01-01 02:44:00,Espèces,45475.55,Panama,Austria,78,Flux Opaque,52762.69
+TX-00166,2026-01-01 02:45:00,Espèces,9141.91,Tunisia,Austria,45,Flux Hautement Suspect,48215.7
+TX-00167,2026-01-01 02:46:00,Société Écran,162712.41,Cayman islands,France,82,Flux Standard,50809.95
+TX-00168,2026-01-01 02:47:00,Espèces,104203.71,Cayman islands,France,82,Flux Standard,53313.84
+TX-00169,2026-01-01 02:48:00,Société Écran,55363.19,Cayman islands,Austria,82,Flux Opaque,50809.95
+TX-00170,2026-01-01 02:49:00,Virement Bancaire,8042.46,Panama,France,78,Flux Opaque,51500.51
+TX-00171,2026-01-01 02:50:00,Espèces,13271.95,Cayman islands,Germany,82,Flux Opaque,53313.84
+TX-00172,2026-01-01 02:51:00,Virement Bancaire,2140.28,Panama,France,78,Flux Opaque,51500.51
+TX-00173,2026-01-01 02:52:00,Espèces,100248.21,Switzerland,France,65,Flux Standard,50971.45
+TX-00174,2026-01-01 02:53:00,Espèces,25459.33,Tunisia,Austria,45,Flux Hautement Suspect,48215.7
+TX-00175,2026-01-01 02:54:00,Crypto-actifs,48519.28,Panama,Austria,78,Flux Opaque,50758.78
+TX-00176,2026-01-01 02:55:00,Crypto-actifs,40191.82,Tunisia,Austria,45,Flux Hautement Suspect,46211.79
+TX-00177,2026-01-01 02:56:00,Société Écran,7325.09,Luxembourg,Austria,60,Flux Hautement Suspect,47778.62
+TX-00178,2026-01-01 02:57:00,Crypto-actifs,2414.95,Switzerland,Austria,65,Flux Hautement Suspect,48967.54
+TX-00179,2026-01-01 02:58:00,Espèces,48658.21,Cayman islands,Germany,82,Flux Opaque,53313.84
+TX-00180,2026-01-01 02:59:00,Société Écran,77392.22,Switzerland,Germany,65,Flux Hautement Suspect,48467.56
+TX-00181,2026-01-01 03:00:00,Crypto-actifs,11100.51,Tunisia,France,45,Flux Hautement Suspect,46211.79
+TX-00182,2026-01-01 03:01:00,Société Écran,19228.41,Panama,France,78,Flux Opaque,50258.8
+TX-00183,2026-01-01 03:02:00,Espèces,75187.81,Luxembourg,France,60,Flux Hautement Suspect,50282.52
+TX-00184,2026-01-01 03:03:00,Virement Bancaire,47290.25,Cayman islands,Austria,82,Flux Opaque,52051.66
+TX-00185,2026-01-01 03:04:00,Espèces,29127.22,Cayman islands,Germany,82,Flux Opaque,53313.84
+TX-00186,2026-01-01 03:05:00,Société Écran,116712.5,Cayman islands,France,82,Flux Standard,50809.95
+TX-00187,2026-01-01 03:06:00,Espèces,79695.05,Switzerland,Germany,65,Flux Hautement Suspect,50971.45
+TX-00188,2026-01-01 03:07:00,Crypto-actifs,22172.52,Switzerland,Germany,65,Flux Hautement Suspect,48967.54
+TX-00189,2026-01-01 03:08:00,Espèces,16517.76,Panama,France,78,Flux Opaque,52762.69
+TX-00190,2026-01-01 03:09:00,Virement Bancaire,37951.64,Panama,Germany,78,Flux Opaque,51500.51
+TX-00191,2026-01-01 03:10:00,Crypto-actifs,28543.36,Tunisia,Austria,45,Flux Hautement Suspect,46211.79
+TX-00192,2026-01-01 03:11:00,Crypto-actifs,39411.66,Luxembourg,France,60,Flux Hautement Suspect,48278.6
+TX-00193,2026-01-01 03:12:00,Espèces,8354.22,Switzerland,Austria,65,Flux Hautement Suspect,50971.45
+TX-00194,2026-01-01 03:13:00,Crypto-actifs,2282.99,Switzerland,France,65,Flux Hautement Suspect,48967.54
+TX-00195,2026-01-01 03:14:00,Virement Bancaire,109897.68,Tunisia,Germany,45,Flux Hautement Suspect,46953.52
+TX-00196,2026-01-01 03:15:00,Virement Bancaire,157501.31,Panama,Austria,78,Flux Standard,51500.51
+TX-00197,2026-01-01 03:16:00,Virement Bancaire,18506.77,Cayman islands,Germany,82,Flux Opaque,52051.66
+TX-00198,2026-01-01 03:17:00,Virement Bancaire,7232.57,Luxembourg,Germany,60,Flux Hautement Suspect,49020.34
+TX-00199,2026-01-01 03:18:00,Virement Bancaire,12355.69,Panama,France,78,Flux Opaque,51500.51
+TX-00200,2026-01-01 03:19:00,Espèces,84844.36,Cayman islands,Germany,82,Flux Opaque,53313.84
+TX-00201,2026-01-01 03:20:00,Société Écran,68540.17,Cayman islands,Austria,82,Flux Opaque,50809.95
+TX-00202,2026-01-01 03:21:00,Crypto-actifs,2903.72,Luxembourg,France,60,Flux Hautement Suspect,48278.6
+TX-00203,2026-01-01 03:22:00,Virement Bancaire,32728.91,Switzerland,Germany,65,Flux Hautement Suspect,49709.27
+TX-00204,2026-01-01 03:23:00,Crypto-actifs,2939.11,Luxembourg,Germany,60,Flux Hautement Suspect,48278.6
+TX-00205,2026-01-01 03:24:00,Espèces,1736.33,Switzerland,Germany,65,Flux Hautement Suspect,50971.45
+TX-00206,2026-01-01 03:25:00,Virement Bancaire,87352.86,Cayman islands,Austria,82,Flux Opaque,52051.66
+TX-00207,2026-01-01 03:26:00,Espèces,5854.85,Luxembourg,Austria,60,Flux Hautement Suspect,50282.52
+TX-00208,2026-01-01 03:27:00,Crypto-actifs,2286.56,Tunisia,France,45,Flux Hautement Suspect,46211.79
+TX-00209,2026-01-01 03:28:00,Crypto-actifs,25780.5,Tunisia,Germany,45,Flux Hautement Suspect,46211.79
+TX-00210,2026-01-01 03:29:00,Virement Bancaire,90193.64,Panama,Germany,78,Flux Opaque,51500.51
+TX-00211,2026-01-01 03:30:00,Virement Bancaire,102400.84,Switzerland,France,65,Flux Standard,49709.27
+TX-00212,2026-01-01 03:31:00,Société Écran,8942.53,Switzerland,France,65,Flux Hautement Suspect,48467.56
+TX-00213,2026-01-01 03:32:00,Société Écran,36728.89,Panama,Germany,78,Flux Opaque,50258.8
+TX-00214,2026-01-01 03:33:00,Crypto-actifs,53652.67,Luxembourg,France,60,Flux Hautement Suspect,48278.6
+TX-00215,2026-01-01 03:34:00,Crypto-actifs,11630.75,Switzerland,France,65,Flux Hautement Suspect,48967.54
+TX-00216,2026-01-01 03:35:00,Virement Bancaire,8680.62,Panama,Austria,78,Flux Opaque,51500.51
+TX-00217,2026-01-01 03:36:00,Espèces,76445.19,Luxembourg,France,60,Flux Hautement Suspect,50282.52
+TX-00218,2026-01-01 03:37:00,Espèces,12257.2,Switzerland,France,65,Flux Hautement Suspect,50971.45
+TX-00219,2026-01-01 03:38:00,Crypto-actifs,15164.11,Luxembourg,France,60,Flux Hautement Suspect,48278.6
+TX-00220,2026-01-01 03:39:00,Espèces,3952.45,Switzerland,Austria,65,Flux Hautement Suspect,50971.45
+TX-00221,2026-01-01 03:40:00,Virement Bancaire,57908.01,Panama,France,78,Flux Opaque,51500.51
+TX-00222,2026-01-01 03:41:00,Virement Bancaire,28573.65,Cayman islands,France,82,Flux Opaque,52051.66
+TX-00223,2026-01-01 03:42:00,Virement Bancaire,31373.39,Luxembourg,Germany,60,Flux Hautement Suspect,49020.34
+TX-00224,2026-01-01 03:43:00,Crypto-actifs,18413.44,Cayman islands,Austria,82,Flux Opaque,51309.93
+TX-00225,2026-01-01 03:44:00,Société Écran,101089.5,Cayman islands,Germany,82,Flux Opaque,50809.95
+TX-00226,2026-01-01 03:45:00,Espèces,6608.78,Tunisia,Germany,45,Flux Hautement Suspect,48215.7
+TX-00227,2026-01-01 03:46:00,Société Écran,80138.07,Panama,France,78,Flux Opaque,50258.8
+TX-00228,2026-01-01 03:47:00,Virement Bancaire,98916.83,Switzerland,Germany,65,Flux Standard,49709.27
+TX-00229,2026-01-01 03:48:00,Crypto-actifs,134586.95,Luxembourg,Germany,60,Flux Standard,48278.6
+TX-00230,2026-01-01 03:49:00,Espèces,37075.6,Cayman islands,Germany,82,Flux Opaque,53313.84
+TX-00231,2026-01-01 03:50:00,Société Écran,11076.76,Switzerland,France,65,Flux Hautement Suspect,48467.56
+TX-00232,2026-01-01 03:51:00,Virement Bancaire,107176.12,Luxembourg,France,60,Flux Standard,49020.34
+TX-00233,2026-01-01 03:52:00,Virement Bancaire,47717.41,Panama,Austria,78,Flux Opaque,51500.51
+TX-00234,2026-01-01 03:53:00,Société Écran,7978.89,Luxembourg,Austria,60,Flux Hautement Suspect,47778.62
+TX-00235,2026-01-01 03:54:00,Espèces,24181.48,Panama,France,78,Flux Opaque,52762.69
+TX-00236,2026-01-01 03:55:00,Virement Bancaire,28732.02,Switzerland,Germany,65,Flux Hautement Suspect,49709.27
+TX-00237,2026-01-01 03:56:00,Société Écran,25302.7,Switzerland,Germany,65,Flux Hautement Suspect,48467.56
+TX-00238,2026-01-01 03:57:00,Société Écran,103927.26,Cayman islands,Austria,82,Flux Standard,50809.95
+TX-00239,2026-01-01 03:58:00,Société Écran,19721.95,Luxembourg,Austria,60,Flux Hautement Suspect,47778.62
+TX-00240,2026-01-01 03:59:00,Virement Bancaire,3484.56,Panama,France,78,Flux Opaque,51500.51
+TX-00241,2026-01-01 04:00:00,Espèces,172210.86,Luxembourg,France,60,Flux Standard,50282.52
+TX-00242,2026-01-01 04:01:00,Société Écran,1127.3,Luxembourg,Germany,60,Flux Hautement Suspect,47778.62
+TX-00243,2026-01-01 04:02:00,Espèces,2815.94,Switzerland,Austria,65,Flux Hautement Suspect,50971.45
+TX-00244,2026-01-01 04:03:00,Société Écran,18399.19,Switzerland,Austria,65,Flux Hautement Suspect,48467.56
+TX-00245,2026-01-01 04:04:00,Espèces,47407.84,Tunisia,Germany,45,Flux Hautement Suspect,48215.7
+TX-00246,2026-01-01 04:05:00,Crypto-actifs,491871.68,Cayman islands,Germany,82,Flux Standard,51309.93
+TX-00247,2026-01-01 04:06:00,Crypto-actifs,109661.06,Tunisia,France,45,Flux Hautement Suspect,46211.79
+TX-00248,2026-01-01 04:07:00,Espèces,11398.57,Cayman islands,Austria,82,Flux Opaque,53313.84
+TX-00249,2026-01-01 04:08:00,Société Écran,149954.0,Cayman islands,Germany,82,Flux Standard,50809.95
+TX-00250,2026-01-01 04:09:00,Crypto-actifs,24647.22,Luxembourg,Austria,60,Flux Hautement Suspect,48278.6
+TX-00251,2026-01-01 04:10:00,Société Écran,37766.08,Tunisia,Germany,45,Flux Hautement Suspect,45711.81
+TX-00252,2026-01-01 04:11:00,Virement Bancaire,42845.02,Switzerland,Austria,65,Flux Hautement Suspect,49709.27
+TX-00253,2026-01-01 04:12:00,Société Écran,46494.36,Panama,Austria,78,Flux Opaque,50258.8
+TX-00254,2026-01-01 04:13:00,Virement Bancaire,158601.93,Cayman islands,France,82,Flux Standard,52051.66
+TX-00255,2026-01-01 04:14:00,Société Écran,101604.18,Tunisia,France,45,Flux Hautement Suspect,45711.81
+TX-00256,2026-01-01 04:15:00,Crypto-actifs,56385.09,Cayman islands,Austria,82,Flux Opaque,51309.93
+TX-00257,2026-01-01 04:16:00,Crypto-actifs,82900.49,Tunisia,Germany,45,Flux Hautement Suspect,46211.79
+TX-00258,2026-01-01 04:17:00,Crypto-actifs,48317.59,Panama,France,78,Flux Opaque,50758.78
+TX-00259,2026-01-01 04:18:00,Crypto-actifs,19027.07,Tunisia,Germany,45,Flux Hautement Suspect,46211.79
+TX-00260,2026-01-01 04:19:00,Société Écran,430.03,Cayman islands,Germany,82,Flux Opaque,50809.95
+TX-00261,2026-01-01 04:20:00,Virement Bancaire,28790.35,Luxembourg,Austria,60,Flux Hautement Suspect,49020.34
+TX-00262,2026-01-01 04:21:00,Société Écran,98773.2,Cayman islands,Austria,82,Flux Opaque,50809.95
+TX-00263,2026-01-01 04:22:00,Société Écran,4548.78,Tunisia,Germany,45,Flux Hautement Suspect,45711.81
+TX-00264,2026-01-01 04:23:00,Virement Bancaire,5518.36,Tunisia,Austria,45,Flux Hautement Suspect,46953.52
+TX-00265,2026-01-01 04:24:00,Espèces,87678.84,Tunisia,France,45,Flux Hautement Suspect,48215.7
+TX-00266,2026-01-01 04:25:00,Crypto-actifs,11072.72,Panama,Germany,78,Flux Opaque,50758.78
+TX-00267,2026-01-01 04:26:00,Crypto-actifs,48.45,Panama,Germany,78,Flux Opaque,50758.78
+TX-00268,2026-01-01 04:27:00,Société Écran,21067.56,Panama,Austria,78,Flux Opaque,50258.8
+TX-00269,2026-01-01 04:28:00,Virement Bancaire,25656.02,Panama,France,78,Flux Opaque,51500.51
+TX-00270,2026-01-01 04:29:00,Société Écran,53178.17,Panama,France,78,Flux Opaque,50258.8
+TX-00271,2026-01-01 04:30:00,Société Écran,29907.17,Panama,Austria,78,Flux Opaque,50258.8
+TX-00272,2026-01-01 04:31:00,Crypto-actifs,177822.9,Tunisia,France,45,Flux Standard,46211.79
+TX-00273,2026-01-01 04:32:00,Virement Bancaire,4771.51,Luxembourg,Austria,60,Flux Hautement Suspect,49020.34
+TX-00274,2026-01-01 04:33:00,Virement Bancaire,12899.32,Cayman islands,France,82,Flux Opaque,52051.66
+TX-00275,2026-01-01 04:34:00,Virement Bancaire,47599.62,Cayman islands,Austria,82,Flux Opaque,52051.66
+TX-00276,2026-01-01 04:35:00,Crypto-actifs,54740.82,Switzerland,Austria,65,Flux Hautement Suspect,48967.54
+TX-00277,2026-01-01 04:36:00,Espèces,2896.71,Cayman islands,Germany,82,Flux Opaque,53313.84
+TX-00278,2026-01-01 04:37:00,Crypto-actifs,51371.34,Panama,France,78,Flux Opaque,50758.78
+TX-00279,2026-01-01 04:38:00,Société Écran,51319.97,Luxembourg,Austria,60,Flux Hautement Suspect,47778.62
+TX-00280,2026-01-01 04:39:00,Société Écran,99121.33,Switzerland,France,65,Flux Standard,48467.56
+TX-00281,2026-01-01 04:40:00,Espèces,61624.44,Switzerland,France,65,Flux Hautement Suspect,50971.45
+TX-00282,2026-01-01 04:41:00,Espèces,158929.89,Switzerland,France,65,Flux Standard,50971.45
+TX-00283,2026-01-01 04:42:00,Virement Bancaire,10115.33,Switzerland,Austria,65,Flux Hautement Suspect,49709.27
+TX-00284,2026-01-01 04:43:00,Virement Bancaire,9221.72,Panama,Austria,78,Flux Opaque,51500.51
+TX-00285,2026-01-01 04:44:00,Crypto-actifs,14769.73,Tunisia,France,45,Flux Hautement Suspect,46211.79
+TX-00286,2026-01-01 04:45:00,Virement Bancaire,38806.6,Cayman islands,France,82,Flux Opaque,52051.66
+TX-00287,2026-01-01 04:46:00,Virement Bancaire,3513.94,Panama,France,78,Flux Opaque,51500.51
+TX-00288,2026-01-01 04:47:00,Espèces,15969.58,Panama,France,78,Flux Opaque,52762.69
+TX-00289,2026-01-01 04:48:00,Virement Bancaire,85416.71,Tunisia,France,45,Flux Hautement Suspect,46953.52
+TX-00290,2026-01-01 04:49:00,Espèces,14058.0,Switzerland,Germany,65,Flux Hautement Suspect,50971.45
+TX-00291,2026-01-01 04:50:00,Virement Bancaire,49546.58,Tunisia,Germany,45,Flux Hautement Suspect,46953.52
+TX-00292,2026-01-01 04:51:00,Société Écran,4875.2,Switzerland,Germany,65,Flux Hautement Suspect,48467.56
+TX-00293,2026-01-01 04:52:00,Crypto-actifs,9332.32,Luxembourg,Austria,60,Flux Hautement Suspect,48278.6
+TX-00294,2026-01-01 04:53:00,Espèces,9566.54,Switzerland,France,65,Flux Hautement Suspect,50971.45
+TX-00295,2026-01-01 04:54:00,Espèces,116581.54,Switzerland,France,65,Flux Standard,50971.45
+TX-00296,2026-01-01 04:55:00,Virement Bancaire,969.76,Luxembourg,Austria,60,Flux Hautement Suspect,49020.34
+TX-00297,2026-01-01 04:56:00,Espèces,41013.51,Cayman islands,Germany,82,Flux Opaque,53313.84
+TX-00298,2026-01-01 04:57:00,Crypto-actifs,33648.39,Panama,Austria,78,Flux Opaque,50758.78
+TX-00299,2026-01-01 04:58:00,Espèces,4363.65,Tunisia,France,45,Flux Hautement Suspect,48215.7
+TX-00300,2026-01-01 04:59:00,Espèces,40098.61,Switzerland,Austria,65,Flux Hautement Suspect,50971.45
+TX-00301,2026-01-01 05:00:00,Virement Bancaire,6989.81,Panama,Germany,78,Flux Opaque,51500.51
+TX-00302,2026-01-01 05:01:00,Espèces,826.34,Tunisia,Austria,45,Flux Hautement Suspect,48215.7
+TX-00303,2026-01-01 05:02:00,Virement Bancaire,25315.14,Cayman islands,Germany,82,Flux Opaque,52051.66
+TX-00304,2026-01-01 05:03:00,Espèces,24584.17,Cayman islands,Germany,82,Flux Opaque,53313.84
+TX-00305,2026-01-01 05:04:00,Crypto-actifs,20596.09,Cayman islands,Austria,82,Flux Opaque,51309.93
+TX-00306,2026-01-01 05:05:00,Espèces,9199.13,Luxembourg,Germany,60,Flux Hautement Suspect,50282.52
+TX-00307,2026-01-01 05:06:00,Société Écran,59086.53,Panama,France,78,Flux Opaque,50258.8
+TX-00308,2026-01-01 05:07:00,Espèces,163522.77,Tunisia,Germany,45,Flux Standard,48215.7
+TX-00309,2026-01-01 05:08:00,Société Écran,101475.08,Switzerland,France,65,Flux Standard,48467.56
+TX-00310,2026-01-01 05:09:00,Crypto-actifs,28092.63,Cayman islands,Austria,82,Flux Opaque,51309.93
+TX-00311,2026-01-01 05:10:00,Espèces,75883.55,Cayman islands,Austria,82,Flux Opaque,53313.84
+TX-00312,2026-01-01 05:11:00,Société Écran,7622.61,Panama,Germany,78,Flux Opaque,50258.8
+TX-00313,2026-01-01 05:12:00,Société Écran,155404.57,Cayman islands,France,82,Flux Standard,50809.95
+TX-00314,2026-01-01 05:13:00,Société Écran,32420.57,Luxembourg,France,60,Flux Hautement Suspect,47778.62
+TX-00315,2026-01-01 05:14:00,Société Écran,37620.06,Cayman islands,France,82,Flux Opaque,50809.95
+TX-00316,2026-01-01 05:15:00,Crypto-actifs,172003.61,Switzerland,Austria,65,Flux Standard,48967.54
+TX-00317,2026-01-01 05:16:00,Société Écran,58419.72,Cayman islands,France,82,Flux Opaque,50809.95
+TX-00318,2026-01-01 05:17:00,Crypto-actifs,33687.69,Cayman islands,Austria,82,Flux Opaque,51309.93
+TX-00319,2026-01-01 05:18:00,Crypto-actifs,7666.52,Switzerland,Austria,65,Flux Hautement Suspect,48967.54
+TX-00320,2026-01-01 05:19:00,Espèces,38163.45,Tunisia,France,45,Flux Hautement Suspect,48215.7
+TX-00321,2026-01-01 05:20:00,Société Écran,2607.15,Tunisia,France,45,Flux Hautement Suspect,45711.81
+TX-00322,2026-01-01 05:21:00,Espèces,111614.96,Switzerland,France,65,Flux Standard,50971.45
+TX-00323,2026-01-01 05:22:00,Crypto-actifs,68898.49,Tunisia,Austria,45,Flux Hautement Suspect,46211.79
+TX-00324,2026-01-01 05:23:00,Virement Bancaire,1244.32,Switzerland,France,65,Flux Hautement Suspect,49709.27
+TX-00325,2026-01-01 05:24:00,Société Écran,16763.29,Tunisia,Germany,45,Flux Hautement Suspect,45711.81
+TX-00326,2026-01-01 05:25:00,Virement Bancaire,27678.49,Luxembourg,France,60,Flux Hautement Suspect,49020.34
+TX-00327,2026-01-01 05:26:00,Crypto-actifs,185350.62,Tunisia,Austria,45,Flux Standard,46211.79
+TX-00328,2026-01-01 05:27:00,Espèces,1136.5,Switzerland,Austria,65,Flux Hautement Suspect,50971.45
+TX-00329,2026-01-01 05:28:00,Espèces,15064.9,Switzerland,Austria,65,Flux Hautement Suspect,50971.45
+TX-00330,2026-01-01 05:29:00,Crypto-actifs,25053.82,Switzerland,Germany,65,Flux Hautement Suspect,48967.54
+TX-00331,2026-01-01 05:30:00,Espèces,85668.29,Cayman islands,France,82,Flux Opaque,53313.84
+TX-00332,2026-01-01 05:31:00,Espèces,235195.1,Panama,Germany,78,Flux Standard,52762.69
+TX-00333,2026-01-01 05:32:00,Crypto-actifs,45731.51,Cayman islands,Germany,82,Flux Opaque,51309.93
+TX-00334,2026-01-01 05:33:00,Crypto-actifs,39423.5,Cayman islands,Germany,82,Flux Opaque,51309.93
+TX-00335,2026-01-01 05:34:00,Société Écran,5354.72,Switzerland,France,65,Flux Hautement Suspect,48467.56
+TX-00336,2026-01-01 05:35:00,Espèces,51669.96,Luxembourg,Austria,60,Flux Hautement Suspect,50282.52
+TX-00337,2026-01-01 05:36:00,Virement Bancaire,14428.18,Tunisia,Germany,45,Flux Hautement Suspect,46953.52
+TX-00338,2026-01-01 05:37:00,Société Écran,21898.51,Panama,France,78,Flux Opaque,50258.8
+TX-00339,2026-01-01 05:38:00,Virement Bancaire,29537.7,Cayman islands,Germany,82,Flux Opaque,52051.66
+TX-00340,2026-01-01 05:39:00,Société Écran,11306.66,Switzerland,France,65,Flux Hautement Suspect,48467.56
+TX-00341,2026-01-01 05:40:00,Espèces,22661.28,Tunisia,Germany,45,Flux Hautement Suspect,48215.7
+TX-00342,2026-01-01 05:41:00,Société Écran,93193.91,Switzerland,France,65,Flux Standard,48467.56
+TX-00343,2026-01-01 05:42:00,Crypto-actifs,5684.95,Luxembourg,Austria,60,Flux Hautement Suspect,48278.6
+TX-00344,2026-01-01 05:43:00,Crypto-actifs,134130.62,Cayman islands,Germany,82,Flux Standard,51309.93
+TX-00345,2026-01-01 05:44:00,Crypto-actifs,7029.29,Tunisia,Austria,45,Flux Hautement Suspect,46211.79
+TX-00346,2026-01-01 05:45:00,Espèces,150114.35,Luxembourg,Austria,60,Flux Standard,50282.52
+TX-00347,2026-01-01 05:46:00,Virement Bancaire,40680.41,Cayman islands,Germany,82,Flux Opaque,52051.66
+TX-00348,2026-01-01 05:47:00,Crypto-actifs,30108.05,Cayman islands,France,82,Flux Opaque,51309.93
+TX-00349,2026-01-01 05:48:00,Société Écran,317.63,Cayman islands,Germany,82,Flux Opaque,50809.95
+TX-00350,2026-01-01 05:49:00,Virement Bancaire,15719.92,Tunisia,Austria,45,Flux Hautement Suspect,46953.52
+TX-00351,2026-01-01 05:50:00,Espèces,40644.48,Tunisia,Germany,45,Flux Hautement Suspect,48215.7
+TX-00352,2026-01-01 05:51:00,Société Écran,19594.43,Tunisia,France,45,Flux Hautement Suspect,45711.81
+TX-00353,2026-01-01 05:52:00,Espèces,42653.61,Cayman islands,Germany,82,Flux Opaque,53313.84
+TX-00354,2026-01-01 05:53:00,Espèces,48093.94,Tunisia,France,45,Flux Hautement Suspect,48215.7
+TX-00355,2026-01-01 05:54:00,Virement Bancaire,21595.26,Panama,Germany,78,Flux Opaque,51500.51
+TX-00356,2026-01-01 05:55:00,Société Écran,41021.2,Luxembourg,Austria,60,Flux Hautement Suspect,47778.62
+TX-00357,2026-01-01 05:56:00,Espèces,14739.04,Switzerland,Germany,65,Flux Hautement Suspect,50971.45
+TX-00358,2026-01-01 05:57:00,Virement Bancaire,75804.67,Panama,France,78,Flux Opaque,51500.51
+TX-00359,2026-01-01 05:58:00,Espèces,11407.35,Switzerland,Germany,65,Flux Hautement Suspect,50971.45
+TX-00360,2026-01-01 05:59:00,Société Écran,34250.72,Panama,Germany,78,Flux Opaque,50258.8
+TX-00361,2026-01-01 06:00:00,Crypto-actifs,20421.48,Switzerland,France,65,Flux Hautement Suspect,48967.54
+TX-00362,2026-01-01 06:01:00,Espèces,17655.48,Tunisia,France,45,Flux Hautement Suspect,48215.7
+TX-00363,2026-01-01 06:02:00,Virement Bancaire,28166.79,Luxembourg,France,60,Flux Hautement Suspect,49020.34
+TX-00364,2026-01-01 06:03:00,Crypto-actifs,52032.66,Panama,France,78,Flux Opaque,50758.78
+TX-00365,2026-01-01 06:04:00,Crypto-actifs,28741.11,Luxembourg,Austria,60,Flux Hautement Suspect,48278.6
+TX-00366,2026-01-01 06:05:00,Crypto-actifs,31177.55,Tunisia,Germany,45,Flux Hautement Suspect,46211.79
+TX-00367,2026-01-01 06:06:00,Espèces,41942.87,Luxembourg,France,60,Flux Hautement Suspect,50282.52
+TX-00368,2026-01-01 06:07:00,Société Écran,57332.98,Luxembourg,Germany,60,Flux Hautement Suspect,47778.62
+TX-00369,2026-01-01 06:08:00,Société Écran,25447.46,Panama,France,78,Flux Opaque,50258.8
+TX-00370,2026-01-01 06:09:00,Crypto-actifs,32469.64,Panama,France,78,Flux Opaque,50758.78
+TX-00371,2026-01-01 06:10:00,Espèces,18625.82,Cayman islands,Austria,82,Flux Opaque,53313.84
+TX-00372,2026-01-01 06:11:00,Crypto-actifs,13914.01,Panama,France,78,Flux Opaque,50758.78
+TX-00373,2026-01-01 06:12:00,Virement Bancaire,78397.21,Tunisia,Germany,45,Flux Hautement Suspect,46953.52
+TX-00374,2026-01-01 06:13:00,Crypto-actifs,157061.99,Tunisia,France,45,Flux Standard,46211.79
+TX-00375,2026-01-01 06:14:00,Société Écran,29220.91,Luxembourg,Austria,60,Flux Hautement Suspect,47778.62
+TX-00376,2026-01-01 06:15:00,Virement Bancaire,49999.18,Luxembourg,France,60,Flux Hautement Suspect,49020.34
+TX-00377,2026-01-01 06:16:00,Société Écran,17898.27,Luxembourg,Germany,60,Flux Hautement Suspect,47778.62
+TX-00378,2026-01-01 06:17:00,Espèces,42915.26,Luxembourg,Germany,60,Flux Hautement Suspect,50282.52
+TX-00379,2026-01-01 06:18:00,Crypto-actifs,164.97,Switzerland,France,65,Flux Hautement Suspect,48967.54
+TX-00380,2026-01-01 06:19:00,Crypto-actifs,41953.08,Switzerland,Austria,65,Flux Hautement Suspect,48967.54
+TX-00381,2026-01-01 06:20:00,Espèces,157703.03,Panama,Germany,78,Flux Standard,52762.69
+TX-00382,2026-01-01 06:21:00,Virement Bancaire,7429.8,Cayman islands,France,82,Flux Opaque,52051.66
+TX-00383,2026-01-01 06:22:00,Société Écran,95622.17,Panama,Austria,78,Flux Standard,50258.8
+TX-00384,2026-01-01 06:23:00,Société Écran,23732.1,Panama,Germany,78,Flux Opaque,50258.8
+TX-00385,2026-01-01 06:24:00,Espèces,14389.43,Cayman islands,Germany,82,Flux Opaque,53313.84
+TX-00386,2026-01-01 06:25:00,Société Écran,24768.99,Cayman islands,France,82,Flux Opaque,50809.95
+TX-00387,2026-01-01 06:26:00,Crypto-actifs,1845.12,Tunisia,France,45,Flux Hautement Suspect,46211.79
+TX-00388,2026-01-01 06:27:00,Espèces,11619.31,Tunisia,Germany,45,Flux Hautement Suspect,48215.7
+TX-00389,2026-01-01 06:28:00,Virement Bancaire,68141.27,Tunisia,Austria,45,Flux Hautement Suspect,46953.52
+TX-00390,2026-01-01 06:29:00,Crypto-actifs,83801.74,Tunisia,Germany,45,Flux Hautement Suspect,46211.79
+TX-00391,2026-01-01 06:30:00,Espèces,92854.82,Tunisia,France,45,Flux Hautement Suspect,48215.7
+TX-00392,2026-01-01 06:31:00,Crypto-actifs,44740.27,Switzerland,France,65,Flux Hautement Suspect,48967.54
+TX-00393,2026-01-01 06:32:00,Espèces,76953.43,Switzerland,Austria,65,Flux Hautement Suspect,50971.45
+TX-00394,2026-01-01 06:33:00,Crypto-actifs,7777.0,Tunisia,Austria,45,Flux Hautement Suspect,46211.79
+TX-00395,2026-01-01 06:34:00,Société Écran,27086.3,Tunisia,France,45,Flux Hautement Suspect,45711.81
+TX-00396,2026-01-01 06:35:00,Société Écran,8209.78,Cayman islands,France,82,Flux Opaque,50809.95
+TX-00397,2026-01-01 06:36:00,Société Écran,21316.38,Cayman islands,France,82,Flux Opaque,50809.95
+TX-00398,2026-01-01 06:37:00,Crypto-actifs,35137.52,Luxembourg,Austria,60,Flux Hautement Suspect,48278.6
+TX-00399,2026-01-01 06:38:00,Crypto-actifs,82144.73,Tunisia,Austria,45,Flux Hautement Suspect,46211.79
+TX-00400,2026-01-01 06:39:00,Crypto-actifs,13618.08,Luxembourg,Austria,60,Flux Hautement Suspect,48278.6
+TX-00401,2026-01-01 06:40:00,Société Écran,73003.97,Cayman islands,Austria,82,Flux Opaque,50809.95
+TX-00402,2026-01-01 06:41:00,Société Écran,138492.63,Cayman islands,France,82,Flux Standard,50809.95
+TX-00403,2026-01-01 06:42:00,Espèces,25965.55,Luxembourg,Germany,60,Flux Hautement Suspect,50282.52
+TX-00404,2026-01-01 06:43:00,Espèces,16961.99,Luxembourg,France,60,Flux Hautement Suspect,50282.52
+TX-00405,2026-01-01 06:44:00,Virement Bancaire,206374.24,Luxembourg,Austria,60,Flux Standard,49020.34
+TX-00406,2026-01-01 06:45:00,Société Écran,1283.35,Cayman islands,Germany,82,Flux Opaque,50809.95
+TX-00407,2026-01-01 06:46:00,Espèces,39883.61,Panama,Austria,78,Flux Opaque,52762.69
+TX-00408,2026-01-01 06:47:00,Crypto-actifs,34835.8,Tunisia,France,45,Flux Hautement Suspect,46211.79
+TX-00409,2026-01-01 06:48:00,Crypto-actifs,19468.33,Switzerland,Germany,65,Flux Hautement Suspect,48967.54
+TX-00410,2026-01-01 06:49:00,Virement Bancaire,85367.48,Panama,Austria,78,Flux Opaque,51500.51
+TX-00411,2026-01-01 06:50:00,Société Écran,29142.06,Tunisia,France,45,Flux Hautement Suspect,45711.81
+TX-00412,2026-01-01 06:51:00,Espèces,14095.31,Panama,Austria,78,Flux Opaque,52762.69
+TX-00413,2026-01-01 06:52:00,Virement Bancaire,101869.54,Switzerland,Germany,65,Flux Standard,49709.27
+TX-00414,2026-01-01 06:53:00,Virement Bancaire,35755.39,Switzerland,Germany,65,Flux Hautement Suspect,49709.27
+TX-00415,2026-01-01 06:54:00,Espèces,88569.92,Cayman islands,Germany,82,Flux Opaque,53313.84
+TX-00416,2026-01-01 06:55:00,Société Écran,17235.04,Tunisia,Germany,45,Flux Hautement Suspect,45711.81
+TX-00417,2026-01-01 06:56:00,Virement Bancaire,27549.35,Panama,Germany,78,Flux Opaque,51500.51
+TX-00418,2026-01-01 06:57:00,Société Écran,96315.17,Tunisia,Germany,45,Flux Hautement Suspect,45711.81
+TX-00419,2026-01-01 06:58:00,Crypto-actifs,19562.02,Cayman islands,Germany,82,Flux Opaque,51309.93
+TX-00420,2026-01-01 06:59:00,Société Écran,104158.34,Switzerland,Germany,65,Flux Standard,48467.56
+TX-00421,2026-01-01 07:00:00,Société Écran,12393.56,Panama,Germany,78,Flux Opaque,50258.8
+TX-00422,2026-01-01 07:01:00,Virement Bancaire,35170.54,Panama,Austria,78,Flux Opaque,51500.51
+TX-00423,2026-01-01 07:02:00,Virement Bancaire,123079.09,Panama,France,78,Flux Standard,51500.51
+TX-00424,2026-01-01 07:03:00,Crypto-actifs,36933.83,Tunisia,France,45,Flux Hautement Suspect,46211.79
+TX-00425,2026-01-01 07:04:00,Société Écran,19758.23,Switzerland,France,65,Flux Hautement Suspect,48467.56
+TX-00426,2026-01-01 07:05:00,Crypto-actifs,125099.52,Luxembourg,Germany,60,Flux Standard,48278.6
+TX-00427,2026-01-01 07:06:00,Crypto-actifs,113415.6,Panama,Germany,78,Flux Standard,50758.78
+TX-00428,2026-01-01 07:07:00,Virement Bancaire,5496.62,Luxembourg,France,60,Flux Hautement Suspect,49020.34
+TX-00429,2026-01-01 07:08:00,Virement Bancaire,19349.89,Panama,Germany,78,Flux Opaque,51500.51
+TX-00430,2026-01-01 07:09:00,Société Écran,82101.64,Panama,France,78,Flux Opaque,50258.8
+TX-00431,2026-01-01 07:10:00,Espèces,10830.3,Switzerland,France,65,Flux Hautement Suspect,50971.45
+TX-00432,2026-01-01 07:11:00,Crypto-actifs,29747.32,Luxembourg,France,60,Flux Hautement Suspect,48278.6
+TX-00433,2026-01-01 07:12:00,Société Écran,15924.92,Tunisia,France,45,Flux Hautement Suspect,45711.81
+TX-00434,2026-01-01 07:13:00,Espèces,97961.48,Panama,Germany,78,Flux Standard,52762.69
+TX-00435,2026-01-01 07:14:00,Espèces,83245.33,Panama,France,78,Flux Opaque,52762.69
+TX-00436,2026-01-01 07:15:00,Société Écran,104768.21,Switzerland,Austria,65,Flux Standard,48467.56
+TX-00437,2026-01-01 07:16:00,Société Écran,16661.65,Tunisia,France,45,Flux Hautement Suspect,45711.81
+TX-00438,2026-01-01 07:17:00,Société Écran,278961.17,Tunisia,France,45,Flux Standard,45711.81
+TX-00439,2026-01-01 07:18:00,Société Écran,221865.86,Panama,France,78,Flux Standard,50258.8
+TX-00440,2026-01-01 07:19:00,Espèces,33923.71,Panama,France,78,Flux Opaque,52762.69
+TX-00441,2026-01-01 07:20:00,Espèces,29890.59,Cayman islands,Germany,82,Flux Opaque,53313.84
+TX-00442,2026-01-01 07:21:00,Virement Bancaire,133443.33,Luxembourg,Germany,60,Flux Standard,49020.34
+TX-00443,2026-01-01 07:22:00,Crypto-actifs,109681.32,Panama,Austria,78,Flux Standard,50758.78
+TX-00444,2026-01-01 07:23:00,Virement Bancaire,275907.65,Switzerland,Germany,65,Flux Standard,49709.27
+TX-00445,2026-01-01 07:24:00,Espèces,142889.25,Panama,Germany,78,Flux Standard,52762.69
+TX-00446,2026-01-01 07:25:00,Virement Bancaire,13459.29,Panama,Germany,78,Flux Opaque,51500.51
+TX-00447,2026-01-01 07:26:00,Espèces,101537.11,Cayman islands,Germany,82,Flux Standard,53313.84
+TX-00448,2026-01-01 07:27:00,Espèces,2921.6,Tunisia,France,45,Flux Hautement Suspect,48215.7
+TX-00449,2026-01-01 07:28:00,Société Écran,50771.3,Luxembourg,Germany,60,Flux Hautement Suspect,47778.62
+TX-00450,2026-01-01 07:29:00,Virement Bancaire,139265.8,Luxembourg,Austria,60,Flux Standard,49020.34
+TX-00451,2026-01-01 07:30:00,Espèces,137959.44,Switzerland,Germany,65,Flux Standard,50971.45
+TX-00452,2026-01-01 07:31:00,Virement Bancaire,109506.65,Switzerland,Germany,65,Flux Standard,49709.27
+TX-00453,2026-01-01 07:32:00,Société Écran,19676.27,Panama,France,78,Flux Opaque,50258.8
+TX-00454,2026-01-01 07:33:00,Espèces,124614.48,Tunisia,France,45,Flux Standard,48215.7
+TX-00455,2026-01-01 07:34:00,Crypto-actifs,56763.05,Luxembourg,France,60,Flux Hautement Suspect,48278.6
+TX-00456,2026-01-01 07:35:00,Espèces,79381.69,Cayman islands,Austria,82,Flux Opaque,53313.84
+TX-00457,2026-01-01 07:36:00,Société Écran,27354.72,Luxembourg,France,60,Flux Hautement Suspect,47778.62
+TX-00458,2026-01-01 07:37:00,Espèces,4811.24,Panama,France,78,Flux Opaque,52762.69
+TX-00459,2026-01-01 07:38:00,Espèces,19288.07,Switzerland,Germany,65,Flux Hautement Suspect,50971.45
+TX-00460,2026-01-01 07:39:00,Crypto-actifs,27655.81,Switzerland,Austria,65,Flux Hautement Suspect,48967.54
+TX-00461,2026-01-01 07:40:00,Espèces,84024.34,Switzerland,Austria,65,Flux Standard,50971.45
+TX-00462,2026-01-01 07:41:00,Virement Bancaire,29886.91,Luxembourg,Austria,60,Flux Hautement Suspect,49020.34
+TX-00463,2026-01-01 07:42:00,Société Écran,34075.84,Switzerland,France,65,Flux Hautement Suspect,48467.56
+TX-00464,2026-01-01 07:43:00,Virement Bancaire,144913.15,Luxembourg,France,60,Flux Standard,49020.34
+TX-00465,2026-01-01 07:44:00,Virement Bancaire,97927.36,Luxembourg,France,60,Flux Standard,49020.34
+TX-00466,2026-01-01 07:45:00,Crypto-actifs,65994.72,Cayman islands,Austria,82,Flux Opaque,51309.93
+TX-00467,2026-01-01 07:46:00,Espèces,54431.28,Panama,Austria,78,Flux Opaque,52762.69
+TX-00468,2026-01-01 07:47:00,Espèces,66827.34,Cayman islands,France,82,Flux Opaque,53313.84
+TX-00469,2026-01-01 07:48:00,Espèces,40450.41,Tunisia,Austria,45,Flux Hautement Suspect,48215.7
+TX-00470,2026-01-01 07:49:00,Espèces,45896.02,Panama,France,78,Flux Opaque,52762.69
+TX-00471,2026-01-01 07:50:00,Virement Bancaire,36486.5,Tunisia,Austria,45,Flux Hautement Suspect,46953.52
+TX-00472,2026-01-01 07:51:00,Crypto-actifs,15527.65,Cayman islands,Germany,82,Flux Opaque,51309.93
+TX-00473,2026-01-01 07:52:00,Crypto-actifs,4082.76,Switzerland,Austria,65,Flux Hautement Suspect,48967.54
+TX-00474,2026-01-01 07:53:00,Espèces,169045.01,Luxembourg,Austria,60,Flux Standard,50282.52
+TX-00475,2026-01-01 07:54:00,Virement Bancaire,27980.25,Switzerland,Germany,65,Flux Hautement Suspect,49709.27
+TX-00476,2026-01-01 07:55:00,Espèces,102359.73,Switzerland,Austria,65,Flux Standard,50971.45
+TX-00477,2026-01-01 07:56:00,Virement Bancaire,35541.86,Tunisia,France,45,Flux Hautement Suspect,46953.52
+TX-00478,2026-01-01 07:57:00,Société Écran,12954.67,Cayman islands,Austria,82,Flux Opaque,50809.95
+TX-00479,2026-01-01 07:58:00,Crypto-actifs,67990.2,Luxembourg,Austria,60,Flux Hautement Suspect,48278.6
+TX-00480,2026-01-01 07:59:00,Crypto-actifs,211365.75,Panama,Germany,78,Flux Standard,50758.78
+TX-00481,2026-01-01 08:00:00,Société Écran,121659.6,Cayman islands,France,82,Flux Standard,50809.95
+TX-00482,2026-01-01 08:01:00,Société Écran,95548.35,Cayman islands,France,82,Flux Opaque,50809.95
+TX-00483,2026-01-01 08:02:00,Crypto-actifs,175609.36,Tunisia,Germany,45,Flux Standard,46211.79
+TX-00484,2026-01-01 08:03:00,Crypto-actifs,3225.82,Panama,France,78,Flux Opaque,50758.78
+TX-00485,2026-01-01 08:04:00,Société Écran,23376.48,Cayman islands,Austria,82,Flux Opaque,50809.95
+TX-00486,2026-01-01 08:05:00,Crypto-actifs,31305.08,Luxembourg,Austria,60,Flux Hautement Suspect,48278.6
+TX-00487,2026-01-01 08:06:00,Crypto-actifs,101607.71,Panama,Austria,78,Flux Standard,50758.78
+TX-00488,2026-01-01 08:07:00,Virement Bancaire,30557.33,Tunisia,Austria,45,Flux Hautement Suspect,46953.52
+TX-00489,2026-01-01 08:08:00,Crypto-actifs,74130.72,Tunisia,Germany,45,Flux Hautement Suspect,46211.79
+TX-00490,2026-01-01 08:09:00,Virement Bancaire,74809.84,Cayman islands,France,82,Flux Opaque,52051.66
+TX-00491,2026-01-01 08:10:00,Virement Bancaire,6994.14,Panama,Austria,78,Flux Opaque,51500.51
+TX-00492,2026-01-01 08:11:00,Espèces,41046.49,Tunisia,France,45,Flux Hautement Suspect,48215.7
+TX-00493,2026-01-01 08:12:00,Société Écran,28990.21,Tunisia,France,45,Flux Hautement Suspect,45711.81
+TX-00494,2026-01-01 08:13:00,Crypto-actifs,89077.25,Luxembourg,France,60,Flux Hautement Suspect,48278.6
+TX-00495,2026-01-01 08:14:00,Espèces,50131.63,Cayman islands,France,82,Flux Opaque,53313.84
+TX-00496,2026-01-01 08:15:00,Société Écran,3504.04,Panama,Austria,78,Flux Opaque,50258.8
+TX-00497,2026-01-01 08:16:00,Virement Bancaire,41309.31,Tunisia,Germany,45,Flux Hautement Suspect,46953.52
+TX-00498,2026-01-01 08:17:00,Espèces,62064.94,Tunisia,France,45,Flux Hautement Suspect,48215.7
+TX-00499,2026-01-01 08:18:00,Espèces,7136.73,Tunisia,Austria,45,Flux Hautement Suspect,48215.7
+TX-00500,2026-01-01 08:19:00,Crypto-actifs,51726.74,Tunisia,Germany,45,Flux Hautement Suspect,46211.79
+TX-00501,2026-01-01 08:20:00,Société Écran,41671.06,Tunisia,Germany,45,Flux Hautement Suspect,45711.81
+TX-00502,2026-01-01 08:21:00,Espèces,51252.39,Tunisia,Germany,45,Flux Hautement Suspect,48215.7
+TX-00503,2026-01-01 08:22:00,Virement Bancaire,43446.48,Switzerland,Germany,65,Flux Hautement Suspect,49709.27
+TX-00504,2026-01-01 08:23:00,Société Écran,42386.92,Panama,France,78,Flux Opaque,50258.8
+TX-00505,2026-01-01 08:24:00,Société Écran,56012.32,Switzerland,Austria,65,Flux Hautement Suspect,48467.56
+TX-00506,2026-01-01 08:25:00,Virement Bancaire,15784.28,Switzerland,Germany,65,Flux Hautement Suspect,49709.27
+TX-00507,2026-01-01 08:26:00,Crypto-actifs,19872.32,Panama,Austria,78,Flux Opaque,50758.78
+TX-00508,2026-01-01 08:27:00,Virement Bancaire,42912.76,Luxembourg,Austria,60,Flux Hautement Suspect,49020.34
+TX-00509,2026-01-01 08:28:00,Virement Bancaire,7667.94,Cayman islands,Germany,82,Flux Opaque,52051.66
+TX-00510,2026-01-01 08:29:00,Société Écran,77608.21,Luxembourg,France,60,Flux Hautement Suspect,47778.62
+TX-00511,2026-01-01 08:30:00,Société Écran,40938.33,Luxembourg,France,60,Flux Hautement Suspect,47778.62
+TX-00512,2026-01-01 08:31:00,Virement Bancaire,21779.53,Panama,France,78,Flux Opaque,51500.51
+TX-00513,2026-01-01 08:32:00,Crypto-actifs,22386.47,Luxembourg,France,60,Flux Hautement Suspect,48278.6
+TX-00514,2026-01-01 08:33:00,Société Écran,1274.71,Cayman islands,Austria,82,Flux Opaque,50809.95
+TX-00515,2026-01-01 08:34:00,Espèces,39541.08,Switzerland,Austria,65,Flux Hautement Suspect,50971.45
+TX-00516,2026-01-01 08:35:00,Espèces,132622.84,Panama,France,78,Flux Standard,52762.69
+TX-00517,2026-01-01 08:36:00,Société Écran,11002.91,Switzerland,France,65,Flux Hautement Suspect,48467.56
+TX-00518,2026-01-01 08:37:00,Virement Bancaire,46999.17,Cayman islands,Austria,82,Flux Opaque,52051.66
+TX-00519,2026-01-01 08:38:00,Espèces,19932.4,Cayman islands,France,82,Flux Opaque,53313.84
+TX-00520,2026-01-01 08:39:00,Espèces,104566.19,Luxembourg,Germany,60,Flux Standard,50282.52
+TX-00521,2026-01-01 08:40:00,Espèces,23584.15,Tunisia,France,45,Flux Hautement Suspect,48215.7
+TX-00522,2026-01-01 08:41:00,Virement Bancaire,8071.44,Switzerland,Germany,65,Flux Hautement Suspect,49709.27
+TX-00523,2026-01-01 08:42:00,Crypto-actifs,16021.27,Panama,France,78,Flux Opaque,50758.78
+TX-00524,2026-01-01 08:43:00,Espèces,47934.55,Tunisia,Germany,45,Flux Hautement Suspect,48215.7
+TX-00525,2026-01-01 08:44:00,Virement Bancaire,17235.86,Luxembourg,Germany,60,Flux Hautement Suspect,49020.34
+TX-00526,2026-01-01 08:45:00,Virement Bancaire,103899.57,Cayman islands,Germany,82,Flux Standard,52051.66
+TX-00527,2026-01-01 08:46:00,Crypto-actifs,102756.13,Tunisia,Austria,45,Flux Hautement Suspect,46211.79
+TX-00528,2026-01-01 08:47:00,Virement Bancaire,6015.81,Panama,Germany,78,Flux Opaque,51500.51
+TX-00529,2026-01-01 08:48:00,Virement Bancaire,41723.92,Tunisia,France,45,Flux Hautement Suspect,46953.52
+TX-00530,2026-01-01 08:49:00,Espèces,55349.99,Cayman islands,France,82,Flux Opaque,53313.84
+TX-00531,2026-01-01 08:50:00,Crypto-actifs,6039.58,Luxembourg,Austria,60,Flux Hautement Suspect,48278.6
+TX-00532,2026-01-01 08:51:00,Société Écran,4692.81,Switzerland,Germany,65,Flux Hautement Suspect,48467.56
+TX-00533,2026-01-01 08:52:00,Société Écran,106751.4,Switzerland,Germany,65,Flux Standard,48467.56
+TX-00534,2026-01-01 08:53:00,Crypto-actifs,52937.75,Switzerland,Germany,65,Flux Hautement Suspect,48967.54
+TX-00535,2026-01-01 08:54:00,Virement Bancaire,80040.66,Switzerland,Austria,65,Flux Hautement Suspect,49709.27
+TX-00536,2026-01-01 08:55:00,Crypto-actifs,9612.65,Cayman islands,Austria,82,Flux Opaque,51309.93
+TX-00537,2026-01-01 08:56:00,Crypto-actifs,3465.54,Switzerland,Austria,65,Flux Hautement Suspect,48967.54
+TX-00538,2026-01-01 08:57:00,Crypto-actifs,21457.5,Luxembourg,Germany,60,Flux Hautement Suspect,48278.6
+TX-00539,2026-01-01 08:58:00,Crypto-actifs,16966.96,Switzerland,France,65,Flux Hautement Suspect,48967.54
+TX-00540,2026-01-01 08:59:00,Crypto-actifs,141903.54,Switzerland,Austria,65,Flux Standard,48967.54
+TX-00541,2026-01-01 09:00:00,Espèces,42168.33,Luxembourg,Germany,60,Flux Hautement Suspect,50282.52
+TX-00542,2026-01-01 09:01:00,Virement Bancaire,80616.62,Cayman islands,France,82,Flux Opaque,52051.66
+TX-00543,2026-01-01 09:02:00,Espèces,27252.48,Luxembourg,Germany,60,Flux Hautement Suspect,50282.52
+TX-00544,2026-01-01 09:03:00,Espèces,229.1,Switzerland,Germany,65,Flux Hautement Suspect,50971.45
+TX-00545,2026-01-01 09:04:00,Virement Bancaire,765.79,Luxembourg,Germany,60,Flux Hautement Suspect,49020.34
+TX-00546,2026-01-01 09:05:00,Société Écran,8427.71,Panama,France,78,Flux Opaque,50258.8
+TX-00547,2026-01-01 09:06:00,Espèces,110529.36,Tunisia,Germany,45,Flux Hautement Suspect,48215.7
+TX-00548,2026-01-01 09:07:00,Crypto-actifs,5356.1,Panama,Austria,78,Flux Opaque,50758.78
+TX-00549,2026-01-01 09:08:00,Société Écran,17015.11,Switzerland,Germany,65,Flux Hautement Suspect,48467.56
+TX-00550,2026-01-01 09:09:00,Espèces,135123.38,Tunisia,Germany,45,Flux Standard,48215.7
+TX-00551,2026-01-01 09:10:00,Espèces,24451.89,Luxembourg,France,60,Flux Hautement Suspect,50282.52
+TX-00552,2026-01-01 09:11:00,Crypto-actifs,43184.59,Cayman islands,Austria,82,Flux Opaque,51309.93
+TX-00553,2026-01-01 09:12:00,Crypto-actifs,27247.27,Luxembourg,France,60,Flux Hautement Suspect,48278.6
+TX-00554,2026-01-01 09:13:00,Virement Bancaire,23478.11,Luxembourg,France,60,Flux Hautement Suspect,49020.34
+TX-00555,2026-01-01 09:14:00,Espèces,102860.25,Luxembourg,Austria,60,Flux Standard,50282.52
+TX-00556,2026-01-01 09:15:00,Espèces,117874.41,Cayman islands,France,82,Flux Standard,53313.84
+TX-00557,2026-01-01 09:16:00,Société Écran,18793.19,Panama,France,78,Flux Opaque,50258.8
+TX-00558,2026-01-01 09:17:00,Crypto-actifs,34838.4,Cayman islands,Germany,82,Flux Opaque,51309.93
+TX-00559,2026-01-01 09:18:00,Espèces,164692.49,Luxembourg,France,60,Flux Standard,50282.52
+TX-00560,2026-01-01 09:19:00,Espèces,73244.94,Cayman islands,Austria,82,Flux Opaque,53313.84
+TX-00561,2026-01-01 09:20:00,Société Écran,57221.23,Tunisia,Germany,45,Flux Hautement Suspect,45711.81
+TX-00562,2026-01-01 09:21:00,Crypto-actifs,12320.23,Luxembourg,Germany,60,Flux Hautement Suspect,48278.6
+TX-00563,2026-01-01 09:22:00,Espèces,14078.55,Luxembourg,France,60,Flux Hautement Suspect,50282.52
+TX-00564,2026-01-01 09:23:00,Virement Bancaire,44946.28,Switzerland,Austria,65,Flux Hautement Suspect,49709.27
+TX-00565,2026-01-01 09:24:00,Virement Bancaire,63796.8,Cayman islands,Austria,82,Flux Opaque,52051.66
+TX-00566,2026-01-01 09:25:00,Espèces,45812.96,Tunisia,Germany,45,Flux Hautement Suspect,48215.7
+TX-00567,2026-01-01 09:26:00,Espèces,35946.8,Tunisia,France,45,Flux Hautement Suspect,48215.7
+TX-00568,2026-01-01 09:27:00,Crypto-actifs,53163.52,Tunisia,Austria,45,Flux Hautement Suspect,46211.79
+TX-00569,2026-01-01 09:28:00,Virement Bancaire,21068.38,Switzerland,France,65,Flux Hautement Suspect,49709.27
+TX-00570,2026-01-01 09:29:00,Crypto-actifs,163820.47,Switzerland,Austria,65,Flux Standard,48967.54
+TX-00571,2026-01-01 09:30:00,Virement Bancaire,41855.68,Switzerland,Austria,65,Flux Hautement Suspect,49709.27
+TX-00572,2026-01-01 09:31:00,Virement Bancaire,62844.79,Tunisia,Germany,45,Flux Hautement Suspect,46953.52
+TX-00573,2026-01-01 09:32:00,Crypto-actifs,64408.07,Cayman islands,Germany,82,Flux Opaque,51309.93
+TX-00574,2026-01-01 09:33:00,Espèces,14457.68,Panama,Germany,78,Flux Opaque,52762.69
+TX-00575,2026-01-01 09:34:00,Crypto-actifs,78117.76,Panama,France,78,Flux Opaque,50758.78
+TX-00576,2026-01-01 09:35:00,Crypto-actifs,11268.81,Luxembourg,Austria,60,Flux Hautement Suspect,48278.6
+TX-00577,2026-01-01 09:36:00,Crypto-actifs,31796.15,Panama,Germany,78,Flux Opaque,50758.78
+TX-00578,2026-01-01 09:37:00,Crypto-actifs,9297.95,Switzerland,Germany,65,Flux Hautement Suspect,48967.54
+TX-00579,2026-01-01 09:38:00,Espèces,31329.93,Tunisia,Germany,45,Flux Hautement Suspect,48215.7
+TX-00580,2026-01-01 09:39:00,Espèces,42235.67,Switzerland,France,65,Flux Hautement Suspect,50971.45
+TX-00581,2026-01-01 09:40:00,Société Écran,92589.41,Cayman islands,Austria,82,Flux Opaque,50809.95
+TX-00582,2026-01-01 09:41:00,Crypto-actifs,42174.96,Luxembourg,Austria,60,Flux Hautement Suspect,48278.6
+TX-00583,2026-01-01 09:42:00,Crypto-actifs,98208.03,Cayman islands,Austria,82,Flux Opaque,51309.93
+TX-00584,2026-01-01 09:43:00,Société Écran,27457.33,Tunisia,Austria,45,Flux Hautement Suspect,45711.81
+TX-00585,2026-01-01 09:44:00,Espèces,8712.62,Luxembourg,Austria,60,Flux Hautement Suspect,50282.52
+TX-00586,2026-01-01 09:45:00,Espèces,72095.88,Cayman islands,Germany,82,Flux Opaque,53313.84
+TX-00587,2026-01-01 09:46:00,Société Écran,46559.98,Switzerland,France,65,Flux Hautement Suspect,48467.56
+TX-00588,2026-01-01 09:47:00,Virement Bancaire,4720.85,Switzerland,Austria,65,Flux Hautement Suspect,49709.27
+TX-00589,2026-01-01 09:48:00,Crypto-actifs,26691.36,Tunisia,Germany,45,Flux Hautement Suspect,46211.79
+TX-00590,2026-01-01 09:49:00,Virement Bancaire,23844.17,Switzerland,Germany,65,Flux Hautement Suspect,49709.27
+TX-00591,2026-01-01 09:50:00,Espèces,8917.4,Switzerland,Germany,65,Flux Hautement Suspect,50971.45
+TX-00592,2026-01-01 09:51:00,Virement Bancaire,40434.15,Panama,France,78,Flux Opaque,51500.51
+TX-00593,2026-01-01 09:52:00,Virement Bancaire,9156.58,Cayman islands,France,82,Flux Opaque,52051.66
+TX-00594,2026-01-01 09:53:00,Espèces,28224.41,Luxembourg,Germany,60,Flux Hautement Suspect,50282.52
+TX-00595,2026-01-01 09:54:00,Crypto-actifs,54090.54,Panama,France,78,Flux Opaque,50758.78
+TX-00596,2026-01-01 09:55:00,Virement Bancaire,64279.5,Luxembourg,Austria,60,Flux Hautement Suspect,49020.34
+TX-00597,2026-01-01 09:56:00,Crypto-actifs,57453.59,Panama,Germany,78,Flux Opaque,50758.78
+TX-00598,2026-01-01 09:57:00,Espèces,135708.06,Cayman islands,Austria,82,Flux Standard,53313.84
+TX-00599,2026-01-01 09:58:00,Crypto-actifs,11042.36,Tunisia,Austria,45,Flux Hautement Suspect,46211.79
+TX-00600,2026-01-01 09:59:00,Virement Bancaire,22383.59,Cayman islands,Germany,82,Flux Opaque,52051.66
+TX-00601,2026-01-01 10:00:00,Espèces,8527.86,Switzerland,France,65,Flux Hautement Suspect,50971.45
+TX-00602,2026-01-01 10:01:00,Espèces,157431.18,Tunisia,Germany,45,Flux Standard,48215.7
+TX-00603,2026-01-01 10:02:00,Virement Bancaire,38918.55,Cayman islands,France,82,Flux Opaque,52051.66
+TX-00604,2026-01-01 10:03:00,Crypto-actifs,51148.72,Cayman islands,Germany,82,Flux Opaque,51309.93
+TX-00605,2026-01-01 10:04:00,Société Écran,22361.02,Panama,France,78,Flux Opaque,50258.8
+TX-00606,2026-01-01 10:05:00,Société Écran,411.28,Cayman islands,France,82,Flux Opaque,50809.95
+TX-00607,2026-01-01 10:06:00,Crypto-actifs,2739.22,Cayman islands,Germany,82,Flux Opaque,51309.93
+TX-00608,2026-01-01 10:07:00,Société Écran,143485.19,Switzerland,Germany,65,Flux Standard,48467.56
+TX-00609,2026-01-01 10:08:00,Société Écran,144232.86,Switzerland,Germany,65,Flux Standard,48467.56
+TX-00610,2026-01-01 10:09:00,Société Écran,20676.28,Tunisia,Austria,45,Flux Hautement Suspect,45711.81
+TX-00611,2026-01-01 10:10:00,Virement Bancaire,61549.11,Switzerland,Germany,65,Flux Hautement Suspect,49709.27
+TX-00612,2026-01-01 10:11:00,Société Écran,52799.08,Tunisia,Germany,45,Flux Hautement Suspect,45711.81
+TX-00613,2026-01-01 10:12:00,Société Écran,44072.7,Panama,Germany,78,Flux Opaque,50258.8
+TX-00614,2026-01-01 10:13:00,Crypto-actifs,59377.71,Tunisia,Germany,45,Flux Hautement Suspect,46211.79
+TX-00615,2026-01-01 10:14:00,Société Écran,39005.88,Switzerland,France,65,Flux Hautement Suspect,48467.56
+TX-00616,2026-01-01 10:15:00,Société Écran,4212.22,Cayman islands,Austria,82,Flux Opaque,50809.95
+TX-00617,2026-01-01 10:16:00,Espèces,27814.69,Switzerland,Germany,65,Flux Hautement Suspect,50971.45
+TX-00618,2026-01-01 10:17:00,Virement Bancaire,163516.54,Panama,France,78,Flux Standard,51500.51
+TX-00619,2026-01-01 10:18:00,Crypto-actifs,4588.67,Cayman islands,Austria,82,Flux Opaque,51309.93
+TX-00620,2026-01-01 10:19:00,Société Écran,229.93,Switzerland,Germany,65,Flux Hautement Suspect,48467.56
+TX-00621,2026-01-01 10:20:00,Société Écran,30316.72,Switzerland,Austria,65,Flux Hautement Suspect,48467.56
+TX-00622,2026-01-01 10:21:00,Société Écran,34782.85,Luxembourg,France,60,Flux Hautement Suspect,47778.62
+TX-00623,2026-01-01 10:22:00,Virement Bancaire,32399.14,Luxembourg,Austria,60,Flux Hautement Suspect,49020.34
+TX-00624,2026-01-01 10:23:00,Virement Bancaire,68004.9,Cayman islands,France,82,Flux Opaque,52051.66
+TX-00625,2026-01-01 10:24:00,Espèces,44720.84,Switzerland,Germany,65,Flux Hautement Suspect,50971.45
+TX-00626,2026-01-01 10:25:00,Virement Bancaire,54784.04,Switzerland,Germany,65,Flux Hautement Suspect,49709.27
+TX-00627,2026-01-01 10:26:00,Crypto-actifs,54609.96,Tunisia,Germany,45,Flux Hautement Suspect,46211.79
+TX-00628,2026-01-01 10:27:00,Crypto-actifs,38096.16,Panama,France,78,Flux Opaque,50758.78
+TX-00629,2026-01-01 10:28:00,Société Écran,41332.1,Tunisia,Germany,45,Flux Hautement Suspect,45711.81
+TX-00630,2026-01-01 10:29:00,Crypto-actifs,33120.15,Luxembourg,Austria,60,Flux Hautement Suspect,48278.6
+TX-00631,2026-01-01 10:30:00,Espèces,17184.1,Switzerland,France,65,Flux Hautement Suspect,50971.45
+TX-00632,2026-01-01 10:31:00,Société Écran,35754.88,Switzerland,Germany,65,Flux Hautement Suspect,48467.56
+TX-00633,2026-01-01 10:32:00,Virement Bancaire,42733.62,Switzerland,France,65,Flux Hautement Suspect,49709.27
+TX-00634,2026-01-01 10:33:00,Virement Bancaire,3480.55,Luxembourg,France,60,Flux Hautement Suspect,49020.34
+TX-00635,2026-01-01 10:34:00,Crypto-actifs,33052.5,Tunisia,France,45,Flux Hautement Suspect,46211.79
+TX-00636,2026-01-01 10:35:00,Crypto-actifs,16811.82,Cayman islands,Germany,82,Flux Opaque,51309.93
+TX-00637,2026-01-01 10:36:00,Espèces,79528.17,Switzerland,Germany,65,Flux Hautement Suspect,50971.45
+TX-00638,2026-01-01 10:37:00,Crypto-actifs,144948.64,Luxembourg,Austria,60,Flux Standard,48278.6
+TX-00639,2026-01-01 10:38:00,Société Écran,104983.19,Switzerland,Germany,65,Flux Standard,48467.56
+TX-00640,2026-01-01 10:39:00,Crypto-actifs,217900.88,Panama,France,78,Flux Standard,50758.78
+TX-00641,2026-01-01 10:40:00,Virement Bancaire,8143.31,Luxembourg,Austria,60,Flux Hautement Suspect,49020.34
+TX-00642,2026-01-01 10:41:00,Crypto-actifs,16017.53,Panama,France,78,Flux Opaque,50758.78
+TX-00643,2026-01-01 10:42:00,Société Écran,9768.9,Tunisia,France,45,Flux Hautement Suspect,45711.81
+TX-00644,2026-01-01 10:43:00,Espèces,15937.35,Switzerland,Germany,65,Flux Hautement Suspect,50971.45
+TX-00645,2026-01-01 10:44:00,Crypto-actifs,112573.21,Luxembourg,France,60,Flux Standard,48278.6
+TX-00646,2026-01-01 10:45:00,Virement Bancaire,76145.64,Tunisia,Austria,45,Flux Hautement Suspect,46953.52
+TX-00647,2026-01-01 10:46:00,Crypto-actifs,10398.75,Luxembourg,Germany,60,Flux Hautement Suspect,48278.6
+TX-00648,2026-01-01 10:47:00,Espèces,233866.3,Cayman islands,France,82,Flux Standard,53313.84
+TX-00649,2026-01-01 10:48:00,Société Écran,62363.29,Tunisia,Germany,45,Flux Hautement Suspect,45711.81
+TX-00650,2026-01-01 10:49:00,Crypto-actifs,2599.7,Switzerland,Austria,65,Flux Hautement Suspect,48967.54
+TX-00651,2026-01-01 10:50:00,Espèces,113021.25,Cayman islands,Austria,82,Flux Standard,53313.84
+TX-00652,2026-01-01 10:51:00,Virement Bancaire,62692.14,Cayman islands,Austria,82,Flux Opaque,52051.66
+TX-00653,2026-01-01 10:52:00,Virement Bancaire,60755.51,Panama,Germany,78,Flux Opaque,51500.51
+TX-00654,2026-01-01 10:53:00,Crypto-actifs,37191.33,Tunisia,Austria,45,Flux Hautement Suspect,46211.79
+TX-00655,2026-01-01 10:54:00,Espèces,26017.74,Tunisia,France,45,Flux Hautement Suspect,48215.7
+TX-00656,2026-01-01 10:55:00,Crypto-actifs,53155.64,Luxembourg,Germany,60,Flux Hautement Suspect,48278.6
+TX-00657,2026-01-01 10:56:00,Société Écran,17782.59,Luxembourg,Austria,60,Flux Hautement Suspect,47778.62
+TX-00658,2026-01-01 10:57:00,Espèces,17365.18,Cayman islands,Austria,82,Flux Opaque,53313.84
+TX-00659,2026-01-01 10:58:00,Société Écran,15033.19,Panama,Germany,78,Flux Opaque,50258.8
+TX-00660,2026-01-01 10:59:00,Espèces,83265.8,Panama,France,78,Flux Opaque,52762.69
+TX-00661,2026-01-01 11:00:00,Espèces,19730.19,Tunisia,France,45,Flux Hautement Suspect,48215.7
+TX-00662,2026-01-01 11:01:00,Espèces,64208.94,Luxembourg,Germany,60,Flux Hautement Suspect,50282.52
+TX-00663,2026-01-01 11:02:00,Espèces,24893.89,Luxembourg,Germany,60,Flux Hautement Suspect,50282.52
+TX-00664,2026-01-01 11:03:00,Crypto-actifs,26426.91,Luxembourg,Germany,60,Flux Hautement Suspect,48278.6
+TX-00665,2026-01-01 11:04:00,Crypto-actifs,29175.14,Switzerland,France,65,Flux Hautement Suspect,48967.54
+TX-00666,2026-01-01 11:05:00,Crypto-actifs,15646.91,Luxembourg,Germany,60,Flux Hautement Suspect,48278.6
+TX-00667,2026-01-01 11:06:00,Espèces,39981.03,Cayman islands,Germany,82,Flux Opaque,53313.84
+TX-00668,2026-01-01 11:07:00,Virement Bancaire,51605.47,Switzerland,France,65,Flux Hautement Suspect,49709.27
+TX-00669,2026-01-01 11:08:00,Espèces,5220.26,Panama,Austria,78,Flux Opaque,52762.69
+TX-00670,2026-01-01 11:09:00,Virement Bancaire,3263.66,Tunisia,Austria,45,Flux Hautement Suspect,46953.52
+TX-00671,2026-01-01 11:10:00,Société Écran,116396.95,Switzerland,Germany,65,Flux Standard,48467.56
+TX-00672,2026-01-01 11:11:00,Crypto-actifs,6636.07,Panama,Germany,78,Flux Opaque,50758.78
+TX-00673,2026-01-01 11:12:00,Espèces,3560.78,Cayman islands,France,82,Flux Opaque,53313.84
+TX-00674,2026-01-01 11:13:00,Crypto-actifs,43013.73,Panama,Germany,78,Flux Opaque,50758.78
+TX-00675,2026-01-01 11:14:00,Virement Bancaire,174832.22,Luxembourg,Austria,60,Flux Standard,49020.34
+TX-00676,2026-01-01 11:15:00,Espèces,14925.76,Luxembourg,Germany,60,Flux Hautement Suspect,50282.52
+TX-00677,2026-01-01 11:16:00,Société Écran,6247.51,Tunisia,Germany,45,Flux Hautement Suspect,45711.81
+TX-00678,2026-01-01 11:17:00,Société Écran,20464.75,Luxembourg,Germany,60,Flux Hautement Suspect,47778.62
+TX-00679,2026-01-01 11:18:00,Virement Bancaire,61822.78,Luxembourg,France,60,Flux Hautement Suspect,49020.34
+TX-00680,2026-01-01 11:19:00,Crypto-actifs,3811.67,Cayman islands,France,82,Flux Opaque,51309.93
+TX-00681,2026-01-01 11:20:00,Espèces,16932.5,Luxembourg,Germany,60,Flux Hautement Suspect,50282.52
+TX-00682,2026-01-01 11:21:00,Société Écran,106260.29,Panama,France,78,Flux Standard,50258.8
+TX-00683,2026-01-01 11:22:00,Espèces,29783.48,Cayman islands,France,82,Flux Opaque,53313.84
+TX-00684,2026-01-01 11:23:00,Virement Bancaire,146018.98,Luxembourg,Germany,60,Flux Standard,49020.34
+TX-00685,2026-01-01 11:24:00,Virement Bancaire,93225.02,Tunisia,France,45,Flux Hautement Suspect,46953.52
+TX-00686,2026-01-01 11:25:00,Espèces,10956.63,Tunisia,Germany,45,Flux Hautement Suspect,48215.7
+TX-00687,2026-01-01 11:26:00,Crypto-actifs,42856.66,Cayman islands,Germany,82,Flux Opaque,51309.93
+TX-00688,2026-01-01 11:27:00,Virement Bancaire,1954.3,Switzerland,Austria,65,Flux Hautement Suspect,49709.27
+TX-00689,2026-01-01 11:28:00,Virement Bancaire,105847.57,Switzerland,Austria,65,Flux Standard,49709.27
+TX-00690,2026-01-01 11:29:00,Espèces,33933.31,Luxembourg,Austria,60,Flux Hautement Suspect,50282.52
+TX-00691,2026-01-01 11:30:00,Espèces,178720.06,Switzerland,Austria,65,Flux Standard,50971.45
+TX-00692,2026-01-01 11:31:00,Virement Bancaire,25077.08,Cayman islands,France,82,Flux Opaque,52051.66
+TX-00693,2026-01-01 11:32:00,Espèces,27060.27,Switzerland,Austria,65,Flux Hautement Suspect,50971.45
+TX-00694,2026-01-01 11:33:00,Société Écran,6927.73,Tunisia,France,45,Flux Hautement Suspect,45711.81
+TX-00695,2026-01-01 11:34:00,Société Écran,52281.76,Cayman islands,France,82,Flux Opaque,50809.95
+TX-00696,2026-01-01 11:35:00,Crypto-actifs,51446.51,Tunisia,Germany,45,Flux Hautement Suspect,46211.79
+TX-00697,2026-01-01 11:36:00,Espèces,13974.47,Cayman islands,Austria,82,Flux Opaque,53313.84
+TX-00698,2026-01-01 11:37:00,Virement Bancaire,87092.39,Switzerland,Austria,65,Flux Standard,49709.27
+TX-00699,2026-01-01 11:38:00,Crypto-actifs,13934.39,Switzerland,France,65,Flux Hautement Suspect,48967.54
+TX-00700,2026-01-01 11:39:00,Crypto-actifs,14338.2,Cayman islands,Austria,82,Flux Opaque,51309.93
+TX-00701,2026-01-01 11:40:00,Crypto-actifs,68955.87,Tunisia,Germany,45,Flux Hautement Suspect,46211.79
+TX-00702,2026-01-01 11:41:00,Société Écran,6816.52,Cayman islands,France,82,Flux Opaque,50809.95
+TX-00703,2026-01-01 11:42:00,Espèces,12636.81,Panama,France,78,Flux Opaque,52762.69
+TX-00704,2026-01-01 11:43:00,Crypto-actifs,18321.09,Panama,Germany,78,Flux Opaque,50758.78
+TX-00705,2026-01-01 11:44:00,Espèces,59.78,Luxembourg,Germany,60,Flux Hautement Suspect,50282.52
+TX-00706,2026-01-01 11:45:00,Crypto-actifs,470.33,Panama,Austria,78,Flux Opaque,50758.78
+TX-00707,2026-01-01 11:46:00,Virement Bancaire,20673.89,Tunisia,Germany,45,Flux Hautement Suspect,46953.52
+TX-00708,2026-01-01 11:47:00,Espèces,13540.82,Switzerland,France,65,Flux Hautement Suspect,50971.45
+TX-00709,2026-01-01 11:48:00,Espèces,29307.53,Switzerland,Germany,65,Flux Hautement Suspect,50971.45
+TX-00710,2026-01-01 11:49:00,Société Écran,27436.26,Tunisia,Austria,45,Flux Hautement Suspect,45711.81
+TX-00711,2026-01-01 11:50:00,Crypto-actifs,23414.43,Panama,Austria,78,Flux Opaque,50758.78
+TX-00712,2026-01-01 11:51:00,Société Écran,7517.57,Switzerland,France,65,Flux Hautement Suspect,48467.56
+TX-00713,2026-01-01 11:52:00,Société Écran,45334.12,Switzerland,France,65,Flux Hautement Suspect,48467.56
+TX-00714,2026-01-01 11:53:00,Société Écran,60167.41,Panama,Germany,78,Flux Opaque,50258.8
+TX-00715,2026-01-01 11:54:00,Virement Bancaire,4632.7,Tunisia,Austria,45,Flux Hautement Suspect,46953.52
+TX-00716,2026-01-01 11:55:00,Société Écran,91048.03,Cayman islands,France,82,Flux Opaque,50809.95
+TX-00717,2026-01-01 11:56:00,Crypto-actifs,4792.69,Switzerland,Austria,65,Flux Hautement Suspect,48967.54
+TX-00718,2026-01-01 11:57:00,Espèces,8979.18,Panama,Austria,78,Flux Opaque,52762.69
+TX-00719,2026-01-01 11:58:00,Virement Bancaire,2342.9,Cayman islands,Germany,82,Flux Opaque,52051.66
+TX-00720,2026-01-01 11:59:00,Société Écran,14458.81,Panama,Austria,78,Flux Opaque,50258.8
+TX-00721,2026-01-01 12:00:00,Virement Bancaire,13794.44,Switzerland,Germany,65,Flux Hautement Suspect,49709.27
+TX-00722,2026-01-01 12:01:00,Virement Bancaire,38272.46,Switzerland,Germany,65,Flux Hautement Suspect,49709.27
+TX-00723,2026-01-01 12:02:00,Virement Bancaire,87958.73,Switzerland,France,65,Flux Standard,49709.27
+TX-00724,2026-01-01 12:03:00,Crypto-actifs,13310.43,Switzerland,Germany,65,Flux Hautement Suspect,48967.54
+TX-00725,2026-01-01 12:04:00,Virement Bancaire,27690.43,Switzerland,France,65,Flux Hautement Suspect,49709.27
+TX-00726,2026-01-01 12:05:00,Virement Bancaire,38929.74,Panama,Austria,78,Flux Opaque,51500.51
+TX-00727,2026-01-01 12:06:00,Virement Bancaire,30833.52,Tunisia,Austria,45,Flux Hautement Suspect,46953.52
+TX-00728,2026-01-01 12:07:00,Société Écran,82674.17,Tunisia,France,45,Flux Hautement Suspect,45711.81
+TX-00729,2026-01-01 12:08:00,Société Écran,84.55,Luxembourg,Germany,60,Flux Hautement Suspect,47778.62
+TX-00730,2026-01-01 12:09:00,Espèces,13215.61,Panama,Germany,78,Flux Opaque,52762.69
+TX-00731,2026-01-01 12:10:00,Crypto-actifs,17975.84,Tunisia,Germany,45,Flux Hautement Suspect,46211.79
+TX-00732,2026-01-01 12:11:00,Virement Bancaire,84776.23,Cayman islands,France,82,Flux Opaque,52051.66
+TX-00733,2026-01-01 12:12:00,Société Écran,8345.79,Tunisia,Austria,45,Flux Hautement Suspect,45711.81
+TX-00734,2026-01-01 12:13:00,Crypto-actifs,32995.41,Tunisia,Austria,45,Flux Hautement Suspect,46211.79
+TX-00735,2026-01-01 12:14:00,Virement Bancaire,74263.72,Luxembourg,Austria,60,Flux Hautement Suspect,49020.34
+TX-00736,2026-01-01 12:15:00,Société Écran,36261.18,Switzerland,France,65,Flux Hautement Suspect,48467.56
+TX-00737,2026-01-01 12:16:00,Espèces,51905.45,Tunisia,Germany,45,Flux Hautement Suspect,48215.7
+TX-00738,2026-01-01 12:17:00,Virement Bancaire,65648.38,Tunisia,Germany,45,Flux Hautement Suspect,46953.52
+TX-00739,2026-01-01 12:18:00,Espèces,23844.48,Luxembourg,Austria,60,Flux Hautement Suspect,50282.52
+TX-00740,2026-01-01 12:19:00,Espèces,5228.23,Switzerland,Germany,65,Flux Hautement Suspect,50971.45
+TX-00741,2026-01-01 12:20:00,Espèces,64544.29,Cayman islands,France,82,Flux Opaque,53313.84
+TX-00742,2026-01-01 12:21:00,Société Écran,6165.79,Tunisia,Austria,45,Flux Hautement Suspect,45711.81
+TX-00743,2026-01-01 12:22:00,Société Écran,16947.91,Panama,France,78,Flux Opaque,50258.8
+TX-00744,2026-01-01 12:23:00,Crypto-actifs,56463.51,Tunisia,Austria,45,Flux Hautement Suspect,46211.79
+TX-00745,2026-01-01 12:24:00,Crypto-actifs,86999.07,Switzerland,Austria,65,Flux Standard,48967.54
+TX-00746,2026-01-01 12:25:00,Société Écran,18755.47,Panama,France,78,Flux Opaque,50258.8
+TX-00747,2026-01-01 12:26:00,Société Écran,85003.14,Tunisia,France,45,Flux Hautement Suspect,45711.81
+TX-00748,2026-01-01 12:27:00,Société Écran,3615.71,Cayman islands,Germany,82,Flux Opaque,50809.95
+TX-00749,2026-01-01 12:28:00,Espèces,18655.74,Panama,Germany,78,Flux Opaque,52762.69
+TX-00750,2026-01-01 12:29:00,Espèces,55709.17,Panama,Austria,78,Flux Opaque,52762.69
+TX-00751,2026-01-01 12:30:00,Société Écran,91397.8,Cayman islands,Austria,82,Flux Opaque,50809.95
+TX-00752,2026-01-01 12:31:00,Société Écran,32538.88,Switzerland,France,65,Flux Hautement Suspect,48467.56
+TX-00753,2026-01-01 12:32:00,Virement Bancaire,26004.75,Switzerland,Germany,65,Flux Hautement Suspect,49709.27
+TX-00754,2026-01-01 12:33:00,Société Écran,84853.2,Panama,Austria,78,Flux Opaque,50258.8
+TX-00755,2026-01-01 12:34:00,Société Écran,4155.57,Cayman islands,Austria,82,Flux Opaque,50809.95
+TX-00756,2026-01-01 12:35:00,Espèces,94723.84,Luxembourg,France,60,Flux Standard,50282.52
+TX-00757,2026-01-01 12:36:00,Société Écran,47979.18,Switzerland,Germany,65,Flux Hautement Suspect,48467.56
+TX-00758,2026-01-01 12:37:00,Société Écran,92039.32,Switzerland,Germany,65,Flux Standard,48467.56
+TX-00759,2026-01-01 12:38:00,Virement Bancaire,59501.9,Tunisia,France,45,Flux Hautement Suspect,46953.52
+TX-00760,2026-01-01 12:39:00,Espèces,1815.03,Tunisia,Austria,45,Flux Hautement Suspect,48215.7
+TX-00761,2026-01-01 12:40:00,Crypto-actifs,55266.7,Tunisia,Austria,45,Flux Hautement Suspect,46211.79
+TX-00762,2026-01-01 12:41:00,Société Écran,25887.31,Switzerland,France,65,Flux Hautement Suspect,48467.56
+TX-00763,2026-01-01 12:42:00,Crypto-actifs,22880.51,Cayman islands,France,82,Flux Opaque,51309.93
+TX-00764,2026-01-01 12:43:00,Crypto-actifs,2103.78,Switzerland,Austria,65,Flux Hautement Suspect,48967.54
+TX-00765,2026-01-01 12:44:00,Société Écran,27638.07,Panama,France,78,Flux Opaque,50258.8
+TX-00766,2026-01-01 12:45:00,Espèces,15082.39,Luxembourg,Germany,60,Flux Hautement Suspect,50282.52
+TX-00767,2026-01-01 12:46:00,Virement Bancaire,5405.38,Luxembourg,France,60,Flux Hautement Suspect,49020.34
+TX-00768,2026-01-01 12:47:00,Société Écran,113186.57,Luxembourg,Austria,60,Flux Standard,47778.62
+TX-00769,2026-01-01 12:48:00,Crypto-actifs,18937.38,Luxembourg,France,60,Flux Hautement Suspect,48278.6
+TX-00770,2026-01-01 12:49:00,Virement Bancaire,27732.99,Panama,Austria,78,Flux Opaque,51500.51
+TX-00771,2026-01-01 12:50:00,Crypto-actifs,7626.19,Panama,Germany,78,Flux Opaque,50758.78
+TX-00772,2026-01-01 12:51:00,Espèces,63266.98,Tunisia,France,45,Flux Hautement Suspect,48215.7
+TX-00773,2026-01-01 12:52:00,Espèces,23783.92,Cayman islands,Germany,82,Flux Opaque,53313.84
+TX-00774,2026-01-01 12:53:00,Virement Bancaire,104089.52,Switzerland,France,65,Flux Standard,49709.27
+TX-00775,2026-01-01 12:54:00,Crypto-actifs,36444.54,Tunisia,Germany,45,Flux Hautement Suspect,46211.79
+TX-00776,2026-01-01 12:55:00,Société Écran,99233.98,Panama,Austria,78,Flux Standard,50258.8
+TX-00777,2026-01-01 12:56:00,Espèces,7714.28,Switzerland,Germany,65,Flux Hautement Suspect,50971.45
+TX-00778,2026-01-01 12:57:00,Virement Bancaire,8927.84,Panama,Austria,78,Flux Opaque,51500.51
+TX-00779,2026-01-01 12:58:00,Société Écran,17920.73,Switzerland,Austria,65,Flux Hautement Suspect,48467.56
+TX-00780,2026-01-01 12:59:00,Espèces,8799.79,Panama,Germany,78,Flux Opaque,52762.69
+TX-00781,2026-01-01 13:00:00,Virement Bancaire,69582.61,Luxembourg,France,60,Flux Hautement Suspect,49020.34
+TX-00782,2026-01-01 13:01:00,Virement Bancaire,70178.96,Panama,Austria,78,Flux Opaque,51500.51
+TX-00783,2026-01-01 13:02:00,Virement Bancaire,12555.91,Tunisia,France,45,Flux Hautement Suspect,46953.52
+TX-00784,2026-01-01 13:03:00,Société Écran,4615.01,Tunisia,Germany,45,Flux Hautement Suspect,45711.81
+TX-00785,2026-01-01 13:04:00,Crypto-actifs,25508.2,Luxembourg,Austria,60,Flux Hautement Suspect,48278.6
+TX-00786,2026-01-01 13:05:00,Crypto-actifs,12647.93,Panama,France,78,Flux Opaque,50758.78
+TX-00787,2026-01-01 13:06:00,Virement Bancaire,12538.23,Switzerland,France,65,Flux Hautement Suspect,49709.27
+TX-00788,2026-01-01 13:07:00,Espèces,24567.88,Panama,Germany,78,Flux Opaque,52762.69
+TX-00789,2026-01-01 13:08:00,Société Écran,29158.01,Tunisia,France,45,Flux Hautement Suspect,45711.81
+TX-00790,2026-01-01 13:09:00,Crypto-actifs,92131.86,Luxembourg,France,60,Flux Standard,48278.6
+TX-00791,2026-01-01 13:10:00,Virement Bancaire,128125.94,Switzerland,Germany,65,Flux Standard,49709.27
+TX-00792,2026-01-01 13:11:00,Société Écran,28318.29,Cayman islands,France,82,Flux Opaque,50809.95
+TX-00793,2026-01-01 13:12:00,Espèces,62639.12,Panama,France,78,Flux Opaque,52762.69
+TX-00794,2026-01-01 13:13:00,Société Écran,11832.48,Switzerland,Germany,65,Flux Hautement Suspect,48467.56
+TX-00795,2026-01-01 13:14:00,Virement Bancaire,31603.49,Tunisia,Germany,45,Flux Hautement Suspect,46953.52
+TX-00796,2026-01-01 13:15:00,Société Écran,23611.47,Switzerland,France,65,Flux Hautement Suspect,48467.56
+TX-00797,2026-01-01 13:16:00,Crypto-actifs,41615.86,Switzerland,Austria,65,Flux Hautement Suspect,48967.54
+TX-00798,2026-01-01 13:17:00,Crypto-actifs,25051.65,Switzerland,Germany,65,Flux Hautement Suspect,48967.54
+TX-00799,2026-01-01 13:18:00,Société Écran,13885.07,Switzerland,Germany,65,Flux Hautement Suspect,48467.56
+TX-00800,2026-01-01 13:19:00,Société Écran,79794.9,Switzerland,Germany,65,Flux Hautement Suspect,48467.56
+TX-00801,2026-01-01 13:20:00,Espèces,4335.56,Cayman islands,France,82,Flux Opaque,53313.84
+TX-00802,2026-01-01 13:21:00,Virement Bancaire,34921.34,Luxembourg,Germany,60,Flux Hautement Suspect,49020.34
+TX-00803,2026-01-01 13:22:00,Crypto-actifs,128077.68,Switzerland,France,65,Flux Standard,48967.54
+TX-00804,2026-01-01 13:23:00,Espèces,9998.51,Tunisia,Austria,45,Flux Hautement Suspect,48215.7
+TX-00805,2026-01-01 13:24:00,Société Écran,99803.44,Cayman islands,France,82,Flux Opaque,50809.95
+TX-00806,2026-01-01 13:25:00,Espèces,59235.88,Luxembourg,Germany,60,Flux Hautement Suspect,50282.52
+TX-00807,2026-01-01 13:26:00,Crypto-actifs,66273.64,Cayman islands,France,82,Flux Opaque,51309.93
+TX-00808,2026-01-01 13:27:00,Crypto-actifs,6905.04,Panama,France,78,Flux Opaque,50758.78
+TX-00809,2026-01-01 13:28:00,Virement Bancaire,3444.45,Cayman islands,France,82,Flux Opaque,52051.66
+TX-00810,2026-01-01 13:29:00,Virement Bancaire,14219.08,Switzerland,France,65,Flux Hautement Suspect,49709.27
+TX-00811,2026-01-01 13:30:00,Société Écran,21903.72,Switzerland,Austria,65,Flux Hautement Suspect,48467.56
+TX-00812,2026-01-01 13:31:00,Virement Bancaire,6481.58,Panama,France,78,Flux Opaque,51500.51
+TX-00813,2026-01-01 13:32:00,Société Écran,120517.29,Panama,Germany,78,Flux Standard,50258.8
+TX-00814,2026-01-01 13:33:00,Crypto-actifs,48075.25,Panama,Germany,78,Flux Opaque,50758.78
+TX-00815,2026-01-01 13:34:00,Société Écran,326400.06,Panama,Germany,78,Flux Standard,50258.8
+TX-00816,2026-01-01 13:35:00,Virement Bancaire,123792.07,Luxembourg,France,60,Flux Standard,49020.34
+TX-00817,2026-01-01 13:36:00,Espèces,27909.63,Cayman islands,Austria,82,Flux Opaque,53313.84
+TX-00818,2026-01-01 13:37:00,Virement Bancaire,3022.28,Switzerland,Germany,65,Flux Hautement Suspect,49709.27
+TX-00819,2026-01-01 13:38:00,Société Écran,95950.12,Luxembourg,Germany,60,Flux Standard,47778.62
+TX-00820,2026-01-01 13:39:00,Crypto-actifs,61387.07,Tunisia,Austria,45,Flux Hautement Suspect,46211.79
+TX-00821,2026-01-01 13:40:00,Virement Bancaire,31263.59,Panama,Germany,78,Flux Opaque,51500.51
+TX-00822,2026-01-01 13:41:00,Espèces,80842.0,Tunisia,France,45,Flux Hautement Suspect,48215.7
+TX-00823,2026-01-01 13:42:00,Crypto-actifs,20004.29,Panama,Austria,78,Flux Opaque,50758.78
+TX-00824,2026-01-01 13:43:00,Société Écran,194407.27,Luxembourg,Austria,60,Flux Standard,47778.62
+TX-00825,2026-01-01 13:44:00,Virement Bancaire,28647.08,Tunisia,Germany,45,Flux Hautement Suspect,46953.52
+TX-00826,2026-01-01 13:45:00,Société Écran,53273.05,Cayman islands,Germany,82,Flux Opaque,50809.95
+TX-00827,2026-01-01 13:46:00,Espèces,59023.36,Panama,France,78,Flux Opaque,52762.69
+TX-00828,2026-01-01 13:47:00,Société Écran,46079.11,Switzerland,Germany,65,Flux Hautement Suspect,48467.56
+TX-00829,2026-01-01 13:48:00,Espèces,33527.43,Panama,Germany,78,Flux Opaque,52762.69
+TX-00830,2026-01-01 13:49:00,Crypto-actifs,61644.34,Cayman islands,Austria,82,Flux Opaque,51309.93
+TX-00831,2026-01-01 13:50:00,Société Écran,19586.1,Tunisia,Austria,45,Flux Hautement Suspect,45711.81
+TX-00832,2026-01-01 13:51:00,Société Écran,23795.87,Tunisia,Austria,45,Flux Hautement Suspect,45711.81
+TX-00833,2026-01-01 13:52:00,Société Écran,17717.13,Cayman islands,Austria,82,Flux Opaque,50809.95
+TX-00834,2026-01-01 13:53:00,Virement Bancaire,30208.61,Switzerland,Austria,65,Flux Hautement Suspect,49709.27
+TX-00835,2026-01-01 13:54:00,Espèces,19776.48,Panama,France,78,Flux Opaque,52762.69
+TX-00836,2026-01-01 13:55:00,Espèces,27702.31,Cayman islands,Austria,82,Flux Opaque,53313.84
+TX-00837,2026-01-01 13:56:00,Virement Bancaire,91624.19,Luxembourg,Germany,60,Flux Standard,49020.34
+TX-00838,2026-01-01 13:57:00,Crypto-actifs,46287.22,Panama,Germany,78,Flux Opaque,50758.78
+TX-00839,2026-01-01 13:58:00,Virement Bancaire,145477.19,Tunisia,Austria,45,Flux Standard,46953.52
+TX-00840,2026-01-01 13:59:00,Crypto-actifs,5938.36,Cayman islands,France,82,Flux Opaque,51309.93
+TX-00841,2026-01-01 14:00:00,Société Écran,77829.23,Luxembourg,Germany,60,Flux Hautement Suspect,47778.62
+TX-00842,2026-01-01 14:01:00,Espèces,31723.35,Tunisia,France,45,Flux Hautement Suspect,48215.7
+TX-00843,2026-01-01 14:02:00,Crypto-actifs,109777.43,Panama,France,78,Flux Standard,50758.78
+TX-00844,2026-01-01 14:03:00,Virement Bancaire,17649.97,Luxembourg,Germany,60,Flux Hautement Suspect,49020.34
+TX-00845,2026-01-01 14:04:00,Virement Bancaire,45358.75,Cayman islands,France,82,Flux Opaque,52051.66
+TX-00846,2026-01-01 14:05:00,Virement Bancaire,6311.14,Switzerland,Germany,65,Flux Hautement Suspect,49709.27
+TX-00847,2026-01-01 14:06:00,Société Écran,54585.05,Cayman islands,France,82,Flux Opaque,50809.95
+TX-00848,2026-01-01 14:07:00,Espèces,103746.36,Cayman islands,Germany,82,Flux Standard,53313.84
+TX-00849,2026-01-01 14:08:00,Crypto-actifs,41079.05,Luxembourg,Germany,60,Flux Hautement Suspect,48278.6
+TX-00850,2026-01-01 14:09:00,Société Écran,102161.82,Cayman islands,Austria,82,Flux Standard,50809.95
+TX-00851,2026-01-01 14:10:00,Société Écran,134949.07,Switzerland,France,65,Flux Standard,48467.56
+TX-00852,2026-01-01 14:11:00,Société Écran,67164.41,Switzerland,Austria,65,Flux Hautement Suspect,48467.56
+TX-00853,2026-01-01 14:12:00,Crypto-actifs,46270.02,Tunisia,Austria,45,Flux Hautement Suspect,46211.79
+TX-00854,2026-01-01 14:13:00,Virement Bancaire,83574.76,Panama,France,78,Flux Opaque,51500.51
+TX-00855,2026-01-01 14:14:00,Virement Bancaire,59348.84,Cayman islands,Germany,82,Flux Opaque,52051.66
+TX-00856,2026-01-01 14:15:00,Crypto-actifs,128299.51,Cayman islands,Austria,82,Flux Standard,51309.93
+TX-00857,2026-01-01 14:16:00,Société Écran,86540.0,Switzerland,Germany,65,Flux Standard,48467.56
+TX-00858,2026-01-01 14:17:00,Espèces,4354.69,Cayman islands,Austria,82,Flux Opaque,53313.84
+TX-00859,2026-01-01 14:18:00,Société Écran,27315.58,Luxembourg,Germany,60,Flux Hautement Suspect,47778.62
+TX-00860,2026-01-01 14:19:00,Crypto-actifs,38878.12,Luxembourg,Germany,60,Flux Hautement Suspect,48278.6
+TX-00861,2026-01-01 14:20:00,Virement Bancaire,95954.75,Luxembourg,Germany,60,Flux Standard,49020.34
+TX-00862,2026-01-01 14:21:00,Société Écran,83.08,Tunisia,Germany,45,Flux Hautement Suspect,45711.81
+TX-00863,2026-01-01 14:22:00,Société Écran,39512.94,Switzerland,Germany,65,Flux Hautement Suspect,48467.56
+TX-00864,2026-01-01 14:23:00,Espèces,2479.74,Switzerland,Austria,65,Flux Hautement Suspect,50971.45
+TX-00865,2026-01-01 14:24:00,Société Écran,11969.62,Switzerland,France,65,Flux Hautement Suspect,48467.56
+TX-00866,2026-01-01 14:25:00,Société Écran,37628.23,Luxembourg,France,60,Flux Hautement Suspect,47778.62
+TX-00867,2026-01-01 14:26:00,Société Écran,38036.42,Cayman islands,France,82,Flux Opaque,50809.95
+TX-00868,2026-01-01 14:27:00,Virement Bancaire,72431.63,Switzerland,France,65,Flux Hautement Suspect,49709.27
+TX-00869,2026-01-01 14:28:00,Virement Bancaire,72086.96,Tunisia,Germany,45,Flux Hautement Suspect,46953.52
+TX-00870,2026-01-01 14:29:00,Société Écran,25584.43,Switzerland,Germany,65,Flux Hautement Suspect,48467.56
+TX-00871,2026-01-01 14:30:00,Crypto-actifs,18413.67,Panama,France,78,Flux Opaque,50758.78
+TX-00872,2026-01-01 14:31:00,Société Écran,49171.72,Panama,Austria,78,Flux Opaque,50258.8
+TX-00873,2026-01-01 14:32:00,Espèces,30266.32,Luxembourg,Germany,60,Flux Hautement Suspect,50282.52
+TX-00874,2026-01-01 14:33:00,Société Écran,24229.12,Tunisia,France,45,Flux Hautement Suspect,45711.81
+TX-00875,2026-01-01 14:34:00,Virement Bancaire,67171.46,Switzerland,Austria,65,Flux Hautement Suspect,49709.27
+TX-00876,2026-01-01 14:35:00,Société Écran,69165.43,Cayman islands,France,82,Flux Opaque,50809.95
+TX-00877,2026-01-01 14:36:00,Virement Bancaire,103784.38,Switzerland,France,65,Flux Standard,49709.27
+TX-00878,2026-01-01 14:37:00,Société Écran,53502.24,Cayman islands,France,82,Flux Opaque,50809.95
+TX-00879,2026-01-01 14:38:00,Société Écran,12448.23,Cayman islands,Austria,82,Flux Opaque,50809.95
+TX-00880,2026-01-01 14:39:00,Espèces,1548.93,Switzerland,Austria,65,Flux Hautement Suspect,50971.45
+TX-00881,2026-01-01 14:40:00,Espèces,5062.0,Tunisia,France,45,Flux Hautement Suspect,48215.7
+TX-00882,2026-01-01 14:41:00,Espèces,8618.89,Luxembourg,Germany,60,Flux Hautement Suspect,50282.52
+TX-00883,2026-01-01 14:42:00,Crypto-actifs,178584.73,Panama,France,78,Flux Standard,50758.78
+TX-00884,2026-01-01 14:43:00,Crypto-actifs,96118.08,Switzerland,Austria,65,Flux Standard,48967.54
+TX-00885,2026-01-01 14:44:00,Virement Bancaire,91320.74,Cayman islands,Austria,82,Flux Opaque,52051.66
+TX-00886,2026-01-01 14:45:00,Virement Bancaire,29673.42,Tunisia,France,45,Flux Hautement Suspect,46953.52
+TX-00887,2026-01-01 14:46:00,Société Écran,14852.15,Switzerland,Germany,65,Flux Hautement Suspect,48467.56
+TX-00888,2026-01-01 14:47:00,Crypto-actifs,66034.48,Panama,Austria,78,Flux Opaque,50758.78
+TX-00889,2026-01-01 14:48:00,Espèces,130727.43,Panama,Germany,78,Flux Standard,52762.69
+TX-00890,2026-01-01 14:49:00,Crypto-actifs,13858.36,Switzerland,Germany,65,Flux Hautement Suspect,48967.54
+TX-00891,2026-01-01 14:50:00,Virement Bancaire,90123.11,Luxembourg,France,60,Flux Standard,49020.34
+TX-00892,2026-01-01 14:51:00,Crypto-actifs,130723.23,Cayman islands,Austria,82,Flux Standard,51309.93
+TX-00893,2026-01-01 14:52:00,Espèces,14775.02,Switzerland,France,65,Flux Hautement Suspect,50971.45
+TX-00894,2026-01-01 14:53:00,Société Écran,64353.14,Luxembourg,France,60,Flux Hautement Suspect,47778.62
+TX-00895,2026-01-01 14:54:00,Espèces,155973.94,Switzerland,Germany,65,Flux Standard,50971.45
+TX-00896,2026-01-01 14:55:00,Virement Bancaire,29818.5,Switzerland,France,65,Flux Hautement Suspect,49709.27
+TX-00897,2026-01-01 14:56:00,Espèces,90337.8,Luxembourg,Germany,60,Flux Standard,50282.52
+TX-00898,2026-01-01 14:57:00,Crypto-actifs,19813.94,Tunisia,Austria,45,Flux Hautement Suspect,46211.79
+TX-00899,2026-01-01 14:58:00,Société Écran,15657.67,Panama,Austria,78,Flux Opaque,50258.8
+TX-00900,2026-01-01 14:59:00,Société Écran,85931.2,Luxembourg,Germany,60,Flux Hautement Suspect,47778.62
+TX-00901,2026-01-01 15:00:00,Société Écran,244557.63,Luxembourg,Germany,60,Flux Standard,47778.62
+TX-00902,2026-01-01 15:01:00,Société Écran,30576.02,Luxembourg,Germany,60,Flux Hautement Suspect,47778.62
+TX-00903,2026-01-01 15:02:00,Virement Bancaire,6661.18,Cayman islands,France,82,Flux Opaque,52051.66
+TX-00904,2026-01-01 15:03:00,Crypto-actifs,33989.56,Luxembourg,Austria,60,Flux Hautement Suspect,48278.6
+TX-00905,2026-01-01 15:04:00,Virement Bancaire,56814.23,Cayman islands,France,82,Flux Opaque,52051.66
+TX-00906,2026-01-01 15:05:00,Espèces,27483.63,Cayman islands,Germany,82,Flux Opaque,53313.84
+TX-00907,2026-01-01 15:06:00,Société Écran,94314.25,Cayman islands,Germany,82,Flux Opaque,50809.95
+TX-00908,2026-01-01 15:07:00,Espèces,12783.03,Cayman islands,Austria,82,Flux Opaque,53313.84
+TX-00909,2026-01-01 15:08:00,Espèces,19716.96,Cayman islands,Germany,82,Flux Opaque,53313.84
+TX-00910,2026-01-01 15:09:00,Crypto-actifs,30323.57,Panama,France,78,Flux Opaque,50758.78
+TX-00911,2026-01-01 15:10:00,Société Écran,29552.21,Panama,Germany,78,Flux Opaque,50258.8
+TX-00912,2026-01-01 15:11:00,Crypto-actifs,50052.54,Cayman islands,France,82,Flux Opaque,51309.93
+TX-00913,2026-01-01 15:12:00,Crypto-actifs,4645.53,Luxembourg,France,60,Flux Hautement Suspect,48278.6
+TX-00914,2026-01-01 15:13:00,Virement Bancaire,39176.94,Panama,Germany,78,Flux Opaque,51500.51
+TX-00915,2026-01-01 15:14:00,Société Écran,63272.52,Switzerland,Austria,65,Flux Hautement Suspect,48467.56
+TX-00916,2026-01-01 15:15:00,Espèces,186979.52,Switzerland,Germany,65,Flux Standard,50971.45
+TX-00917,2026-01-01 15:16:00,Crypto-actifs,1991.0,Cayman islands,Austria,82,Flux Opaque,51309.93
+TX-00918,2026-01-01 15:17:00,Crypto-actifs,99006.35,Tunisia,Germany,45,Flux Hautement Suspect,46211.79
+TX-00919,2026-01-01 15:18:00,Espèces,2716.08,Tunisia,Austria,45,Flux Hautement Suspect,48215.7
+TX-00920,2026-01-01 15:19:00,Virement Bancaire,5809.79,Panama,Austria,78,Flux Opaque,51500.51
+TX-00921,2026-01-01 15:20:00,Société Écran,24091.79,Switzerland,Germany,65,Flux Hautement Suspect,48467.56
+TX-00922,2026-01-01 15:21:00,Espèces,1958.63,Tunisia,Austria,45,Flux Hautement Suspect,48215.7
+TX-00923,2026-01-01 15:22:00,Société Écran,83865.35,Panama,Germany,78,Flux Opaque,50258.8
+TX-00924,2026-01-01 15:23:00,Espèces,9895.07,Panama,Germany,78,Flux Opaque,52762.69
+TX-00925,2026-01-01 15:24:00,Espèces,30191.27,Panama,Germany,78,Flux Opaque,52762.69
+TX-00926,2026-01-01 15:25:00,Société Écran,65244.09,Switzerland,Germany,65,Flux Hautement Suspect,48467.56
+TX-00927,2026-01-01 15:26:00,Virement Bancaire,13142.83,Cayman islands,France,82,Flux Opaque,52051.66
+TX-00928,2026-01-01 15:27:00,Virement Bancaire,1583.86,Cayman islands,Germany,82,Flux Opaque,52051.66
+TX-00929,2026-01-01 15:28:00,Virement Bancaire,22154.64,Luxembourg,France,60,Flux Hautement Suspect,49020.34
+TX-00930,2026-01-01 15:29:00,Espèces,74132.48,Luxembourg,Austria,60,Flux Hautement Suspect,50282.52
+TX-00931,2026-01-01 15:30:00,Crypto-actifs,7499.01,Tunisia,France,45,Flux Hautement Suspect,46211.79
+TX-00932,2026-01-01 15:31:00,Société Écran,69007.73,Panama,France,78,Flux Opaque,50258.8
+TX-00933,2026-01-01 15:32:00,Virement Bancaire,4750.46,Luxembourg,Germany,60,Flux Hautement Suspect,49020.34
+TX-00934,2026-01-01 15:33:00,Virement Bancaire,12048.28,Tunisia,Germany,45,Flux Hautement Suspect,46953.52
+TX-00935,2026-01-01 15:34:00,Crypto-actifs,50823.42,Panama,France,78,Flux Opaque,50758.78
+TX-00936,2026-01-01 15:35:00,Société Écran,70876.21,Tunisia,France,45,Flux Hautement Suspect,45711.81
+TX-00937,2026-01-01 15:36:00,Virement Bancaire,15225.21,Switzerland,Austria,65,Flux Hautement Suspect,49709.27
+TX-00938,2026-01-01 15:37:00,Espèces,113266.24,Switzerland,France,65,Flux Standard,50971.45
+TX-00939,2026-01-01 15:38:00,Société Écran,67109.24,Switzerland,Germany,65,Flux Hautement Suspect,48467.56
+TX-00940,2026-01-01 15:39:00,Société Écran,65951.62,Panama,Austria,78,Flux Opaque,50258.8
+TX-00941,2026-01-01 15:40:00,Espèces,74877.75,Switzerland,Austria,65,Flux Hautement Suspect,50971.45
+TX-00942,2026-01-01 15:41:00,Espèces,162447.25,Switzerland,Germany,65,Flux Standard,50971.45
+TX-00943,2026-01-01 15:42:00,Virement Bancaire,3518.57,Switzerland,Germany,65,Flux Hautement Suspect,49709.27
+TX-00944,2026-01-01 15:43:00,Espèces,53434.69,Panama,Germany,78,Flux Opaque,52762.69
+TX-00945,2026-01-01 15:44:00,Virement Bancaire,234035.99,Cayman islands,Germany,82,Flux Standard,52051.66
+TX-00946,2026-01-01 15:45:00,Virement Bancaire,23010.75,Switzerland,Germany,65,Flux Hautement Suspect,49709.27
+TX-00947,2026-01-01 15:46:00,Crypto-actifs,11266.18,Panama,Austria,78,Flux Opaque,50758.78
+TX-00948,2026-01-01 15:47:00,Virement Bancaire,40479.11,Tunisia,Austria,45,Flux Hautement Suspect,46953.52
+TX-00949,2026-01-01 15:48:00,Crypto-actifs,68635.71,Luxembourg,Austria,60,Flux Hautement Suspect,48278.6
+TX-00950,2026-01-01 15:49:00,Espèces,2708.97,Cayman islands,France,82,Flux Opaque,53313.84
+TX-00951,2026-01-01 15:50:00,Société Écran,23418.53,Switzerland,Austria,65,Flux Hautement Suspect,48467.56
+TX-00952,2026-01-01 15:51:00,Crypto-actifs,42075.04,Luxembourg,Germany,60,Flux Hautement Suspect,48278.6
+TX-00953,2026-01-01 15:52:00,Crypto-actifs,19879.37,Luxembourg,Germany,60,Flux Hautement Suspect,48278.6
+TX-00954,2026-01-01 15:53:00,Crypto-actifs,65233.74,Tunisia,Germany,45,Flux Hautement Suspect,46211.79
+TX-00955,2026-01-01 15:54:00,Virement Bancaire,5023.05,Tunisia,Germany,45,Flux Hautement Suspect,46953.52
+TX-00956,2026-01-01 15:55:00,Virement Bancaire,113411.75,Tunisia,France,45,Flux Standard,46953.52
+TX-00957,2026-01-01 15:56:00,Crypto-actifs,14923.47,Switzerland,Germany,65,Flux Hautement Suspect,48967.54
+TX-00958,2026-01-01 15:57:00,Virement Bancaire,7944.23,Tunisia,Germany,45,Flux Hautement Suspect,46953.52
+TX-00959,2026-01-01 15:58:00,Crypto-actifs,101888.0,Tunisia,Austria,45,Flux Hautement Suspect,46211.79
+TX-00960,2026-01-01 15:59:00,Crypto-actifs,8526.42,Cayman islands,Germany,82,Flux Opaque,51309.93
+TX-00961,2026-01-01 16:00:00,Crypto-actifs,185033.24,Cayman islands,Germany,82,Flux Standard,51309.93
+TX-00962,2026-01-01 16:01:00,Crypto-actifs,90034.66,Tunisia,France,45,Flux Hautement Suspect,46211.79
+TX-00963,2026-01-01 16:02:00,Virement Bancaire,14730.38,Switzerland,France,65,Flux Hautement Suspect,49709.27
+TX-00964,2026-01-01 16:03:00,Virement Bancaire,90803.16,Panama,Germany,78,Flux Opaque,51500.51
+TX-00965,2026-01-01 16:04:00,Société Écran,66492.84,Switzerland,Austria,65,Flux Hautement Suspect,48467.56
+TX-00966,2026-01-01 16:05:00,Crypto-actifs,58285.71,Cayman islands,Austria,82,Flux Opaque,51309.93
+TX-00967,2026-01-01 16:06:00,Virement Bancaire,78697.34,Tunisia,France,45,Flux Hautement Suspect,46953.52
+TX-00968,2026-01-01 16:07:00,Crypto-actifs,135021.38,Panama,France,78,Flux Standard,50758.78
+TX-00969,2026-01-01 16:08:00,Virement Bancaire,3870.13,Panama,Austria,78,Flux Opaque,51500.51
+TX-00970,2026-01-01 16:09:00,Espèces,1270.39,Cayman islands,Germany,82,Flux Opaque,53313.84
+TX-00971,2026-01-01 16:10:00,Crypto-actifs,16587.99,Tunisia,Austria,45,Flux Hautement Suspect,46211.79
+TX-00972,2026-01-01 16:11:00,Société Écran,63312.25,Luxembourg,Germany,60,Flux Hautement Suspect,47778.62
+TX-00973,2026-01-01 16:12:00,Virement Bancaire,23960.8,Tunisia,Germany,45,Flux Hautement Suspect,46953.52
+TX-00974,2026-01-01 16:13:00,Virement Bancaire,75051.61,Luxembourg,Austria,60,Flux Hautement Suspect,49020.34
+TX-00975,2026-01-01 16:14:00,Crypto-actifs,31867.58,Tunisia,Germany,45,Flux Hautement Suspect,46211.79
+TX-00976,2026-01-01 16:15:00,Crypto-actifs,51882.72,Cayman islands,Germany,82,Flux Opaque,51309.93
+TX-00977,2026-01-01 16:16:00,Virement Bancaire,39515.08,Switzerland,Austria,65,Flux Hautement Suspect,49709.27
+TX-00978,2026-01-01 16:17:00,Société Écran,25595.5,Tunisia,Austria,45,Flux Hautement Suspect,45711.81
+TX-00979,2026-01-01 16:18:00,Crypto-actifs,7666.62,Switzerland,Austria,65,Flux Hautement Suspect,48967.54
+TX-00980,2026-01-01 16:19:00,Société Écran,27885.77,Tunisia,Germany,45,Flux Hautement Suspect,45711.81
+TX-00981,2026-01-01 16:20:00,Espèces,54280.96,Panama,Austria,78,Flux Opaque,52762.69
+TX-00982,2026-01-01 16:21:00,Virement Bancaire,25688.04,Cayman islands,Austria,82,Flux Opaque,52051.66
+TX-00983,2026-01-01 16:22:00,Société Écran,3878.91,Panama,Germany,78,Flux Opaque,50258.8
+TX-00984,2026-01-01 16:23:00,Virement Bancaire,16350.49,Tunisia,Austria,45,Flux Hautement Suspect,46953.52
+TX-00985,2026-01-01 16:24:00,Espèces,137121.08,Switzerland,Germany,65,Flux Standard,50971.45
+TX-00986,2026-01-01 16:25:00,Espèces,55413.2,Cayman islands,France,82,Flux Opaque,53313.84
+TX-00987,2026-01-01 16:26:00,Crypto-actifs,42548.33,Panama,France,78,Flux Opaque,50758.78
+TX-00988,2026-01-01 16:27:00,Virement Bancaire,8787.1,Switzerland,France,65,Flux Hautement Suspect,49709.27
+TX-00989,2026-01-01 16:28:00,Société Écran,33496.52,Switzerland,Austria,65,Flux Hautement Suspect,48467.56
+TX-00990,2026-01-01 16:29:00,Crypto-actifs,3404.81,Luxembourg,France,60,Flux Hautement Suspect,48278.6
+TX-00991,2026-01-01 16:30:00,Espèces,2039.64,Switzerland,Germany,65,Flux Hautement Suspect,50971.45
+TX-00992,2026-01-01 16:31:00,Espèces,2793.81,Cayman islands,Germany,82,Flux Opaque,53313.84
+TX-00993,2026-01-01 16:32:00,Société Écran,38216.23,Cayman islands,France,82,Flux Opaque,50809.95
+TX-00994,2026-01-01 16:33:00,Espèces,34759.21,Luxembourg,France,60,Flux Hautement Suspect,50282.52
+TX-00995,2026-01-01 16:34:00,Virement Bancaire,38476.12,Tunisia,Germany,45,Flux Hautement Suspect,46953.52
+TX-00996,2026-01-01 16:35:00,Société Écran,36294.64,Cayman islands,France,82,Flux Opaque,50809.95
+TX-00997,2026-01-01 16:36:00,Société Écran,101129.41,Switzerland,France,65,Flux Standard,48467.56
+TX-00998,2026-01-01 16:37:00,Crypto-actifs,25342.27,Tunisia,Germany,45,Flux Hautement Suspect,46211.79
+TX-00999,2026-01-01 16:38:00,Crypto-actifs,73165.51,Cayman islands,France,82,Flux Opaque,51309.93
+TX-01000,2026-01-01 16:39:00,Société Écran,39202.83,Switzerland,France,65,Flux Hautement Suspect,48467.56
+TX-01001,2026-01-01 16:40:00,Espèces,28886.27,Panama,Austria,78,Flux Opaque,52762.69
+TX-01002,2026-01-01 16:41:00,Société Écran,26203.89,Tunisia,Germany,45,Flux Hautement Suspect,45711.81
+TX-01003,2026-01-01 16:42:00,Société Écran,44506.23,Switzerland,Austria,65,Flux Hautement Suspect,48467.56
+TX-01004,2026-01-01 16:43:00,Espèces,19709.36,Tunisia,France,45,Flux Hautement Suspect,48215.7
+TX-01005,2026-01-01 16:44:00,Espèces,52684.27,Panama,Austria,78,Flux Opaque,52762.69
+TX-01006,2026-01-01 16:45:00,Crypto-actifs,6413.12,Cayman islands,Austria,82,Flux Opaque,51309.93
+TX-01007,2026-01-01 16:46:00,Virement Bancaire,11409.57,Cayman islands,France,82,Flux Opaque,52051.66
+TX-01008,2026-01-01 16:47:00,Virement Bancaire,103645.62,Panama,Austria,78,Flux Standard,51500.51
+TX-01009,2026-01-01 16:48:00,Société Écran,26598.21,Switzerland,France,65,Flux Hautement Suspect,48467.56
+TX-01010,2026-01-01 16:49:00,Crypto-actifs,109384.47,Panama,Austria,78,Flux Standard,50758.78
+TX-01011,2026-01-01 16:50:00,Espèces,18777.78,Luxembourg,Austria,60,Flux Hautement Suspect,50282.52
+TX-01012,2026-01-01 16:51:00,Société Écran,78535.02,Cayman islands,France,82,Flux Opaque,50809.95
+TX-01013,2026-01-01 16:52:00,Virement Bancaire,223912.52,Panama,Germany,78,Flux Standard,51500.51
+TX-01014,2026-01-01 16:53:00,Espèces,143383.32,Panama,France,78,Flux Standard,52762.69
+TX-01015,2026-01-01 16:54:00,Crypto-actifs,92672.58,Cayman islands,France,82,Flux Opaque,51309.93
+TX-01016,2026-01-01 16:55:00,Société Écran,68779.67,Panama,France,78,Flux Opaque,50258.8
+TX-01017,2026-01-01 16:56:00,Société Écran,37333.49,Cayman islands,France,82,Flux Opaque,50809.95
+TX-01018,2026-01-01 16:57:00,Crypto-actifs,13153.53,Switzerland,France,65,Flux Hautement Suspect,48967.54
+TX-01019,2026-01-01 16:58:00,Crypto-actifs,6017.58,Luxembourg,Germany,60,Flux Hautement Suspect,48278.6
+TX-01020,2026-01-01 16:59:00,Crypto-actifs,20791.88,Cayman islands,Austria,82,Flux Opaque,51309.93
+TX-01021,2026-01-01 17:00:00,Virement Bancaire,37769.89,Luxembourg,France,60,Flux Hautement Suspect,49020.34
+TX-01022,2026-01-01 17:01:00,Crypto-actifs,43785.21,Luxembourg,Germany,60,Flux Hautement Suspect,48278.6
+TX-01023,2026-01-01 17:02:00,Crypto-actifs,49773.92,Cayman islands,France,82,Flux Opaque,51309.93
+TX-01024,2026-01-01 17:03:00,Crypto-actifs,43210.55,Panama,Austria,78,Flux Opaque,50758.78
+TX-01025,2026-01-01 17:04:00,Crypto-actifs,14297.26,Panama,Austria,78,Flux Opaque,50758.78
+TX-01026,2026-01-01 17:05:00,Virement Bancaire,86595.8,Switzerland,France,65,Flux Standard,49709.27
+TX-01027,2026-01-01 17:06:00,Société Écran,23381.31,Tunisia,Austria,45,Flux Hautement Suspect,45711.81
+TX-01028,2026-01-01 17:07:00,Société Écran,58781.27,Panama,Austria,78,Flux Opaque,50258.8
+TX-01029,2026-01-01 17:08:00,Crypto-actifs,45200.56,Switzerland,France,65,Flux Hautement Suspect,48967.54
+TX-01030,2026-01-01 17:09:00,Société Écran,9863.72,Switzerland,Germany,65,Flux Hautement Suspect,48467.56
+TX-01031,2026-01-01 17:10:00,Société Écran,12631.87,Luxembourg,Austria,60,Flux Hautement Suspect,47778.62
+TX-01032,2026-01-01 17:11:00,Crypto-actifs,75468.85,Panama,Germany,78,Flux Opaque,50758.78
+TX-01033,2026-01-01 17:12:00,Crypto-actifs,7593.28,Switzerland,Germany,65,Flux Hautement Suspect,48967.54
+TX-01034,2026-01-01 17:13:00,Virement Bancaire,16824.97,Panama,Austria,78,Flux Opaque,51500.51
+TX-01035,2026-01-01 17:14:00,Société Écran,388.68,Panama,Germany,78,Flux Opaque,50258.8
+TX-01036,2026-01-01 17:15:00,Virement Bancaire,13671.5,Cayman islands,France,82,Flux Opaque,52051.66
+TX-01037,2026-01-01 17:16:00,Virement Bancaire,32778.37,Switzerland,France,65,Flux Hautement Suspect,49709.27
+TX-01038,2026-01-01 17:17:00,Crypto-actifs,180401.11,Cayman islands,France,82,Flux Standard,51309.93
+TX-01039,2026-01-01 17:18:00,Virement Bancaire,155303.17,Cayman islands,Austria,82,Flux Standard,52051.66
+TX-01040,2026-01-01 17:19:00,Société Écran,4309.99,Cayman islands,France,82,Flux Opaque,50809.95
+TX-01041,2026-01-01 17:20:00,Crypto-actifs,25352.03,Cayman islands,Germany,82,Flux Opaque,51309.93
+TX-01042,2026-01-01 17:21:00,Virement Bancaire,1721.12,Switzerland,France,65,Flux Hautement Suspect,49709.27
+TX-01043,2026-01-01 17:22:00,Crypto-actifs,31487.81,Panama,Germany,78,Flux Opaque,50758.78
+TX-01044,2026-01-01 17:23:00,Société Écran,103299.56,Switzerland,Austria,65,Flux Standard,48467.56
+TX-01045,2026-01-01 17:24:00,Société Écran,2819.2,Panama,France,78,Flux Opaque,50258.8
+TX-01046,2026-01-01 17:25:00,Espèces,18592.79,Cayman islands,Germany,82,Flux Opaque,53313.84
+TX-01047,2026-01-01 17:26:00,Crypto-actifs,44029.45,Switzerland,Austria,65,Flux Hautement Suspect,48967.54
+TX-01048,2026-01-01 17:27:00,Société Écran,67182.49,Luxembourg,Germany,60,Flux Hautement Suspect,47778.62
+TX-01049,2026-01-01 17:28:00,Espèces,44116.23,Cayman islands,France,82,Flux Opaque,53313.84
+TX-01050,2026-01-01 17:29:00,Virement Bancaire,87479.63,Switzerland,France,65,Flux Standard,49709.27
+TX-01051,2026-01-01 17:30:00,Société Écran,28434.1,Luxembourg,France,60,Flux Hautement Suspect,47778.62
+TX-01052,2026-01-01 17:31:00,Crypto-actifs,14105.27,Switzerland,Austria,65,Flux Hautement Suspect,48967.54
+TX-01053,2026-01-01 17:32:00,Société Écran,73951.72,Tunisia,Austria,45,Flux Hautement Suspect,45711.81
+TX-01054,2026-01-01 17:33:00,Virement Bancaire,126446.11,Luxembourg,Germany,60,Flux Standard,49020.34
+TX-01055,2026-01-01 17:34:00,Société Écran,90281.85,Tunisia,Austria,45,Flux Hautement Suspect,45711.81
+TX-01056,2026-01-01 17:35:00,Virement Bancaire,39621.68,Cayman islands,Germany,82,Flux Opaque,52051.66
+TX-01057,2026-01-01 17:36:00,Espèces,37701.86,Tunisia,Germany,45,Flux Hautement Suspect,48215.7
+TX-01058,2026-01-01 17:37:00,Crypto-actifs,25312.66,Switzerland,Austria,65,Flux Hautement Suspect,48967.54
+TX-01059,2026-01-01 17:38:00,Virement Bancaire,19092.85,Luxembourg,France,60,Flux Hautement Suspect,49020.34
+TX-01060,2026-01-01 17:39:00,Société Écran,61604.89,Cayman islands,Germany,82,Flux Opaque,50809.95
+TX-01061,2026-01-01 17:40:00,Crypto-actifs,36919.99,Tunisia,Austria,45,Flux Hautement Suspect,46211.79
+TX-01062,2026-01-01 17:41:00,Société Écran,33613.1,Switzerland,Germany,65,Flux Hautement Suspect,48467.56
+TX-01063,2026-01-01 17:42:00,Espèces,3064.89,Luxembourg,Austria,60,Flux Hautement Suspect,50282.52
+TX-01064,2026-01-01 17:43:00,Virement Bancaire,33085.52,Luxembourg,Germany,60,Flux Hautement Suspect,49020.34
+TX-01065,2026-01-01 17:44:00,Société Écran,108388.67,Luxembourg,France,60,Flux Standard,47778.62
+TX-01066,2026-01-01 17:45:00,Crypto-actifs,40198.23,Switzerland,Austria,65,Flux Hautement Suspect,48967.54
+TX-01067,2026-01-01 17:46:00,Crypto-actifs,67385.69,Luxembourg,Austria,60,Flux Hautement Suspect,48278.6
+TX-01068,2026-01-01 17:47:00,Espèces,23227.46,Switzerland,France,65,Flux Hautement Suspect,50971.45
+TX-01069,2026-01-01 17:48:00,Espèces,32873.36,Cayman islands,France,82,Flux Opaque,53313.84
+TX-01070,2026-01-01 17:49:00,Société Écran,14342.56,Tunisia,Austria,45,Flux Hautement Suspect,45711.81
+TX-01071,2026-01-01 17:50:00,Société Écran,77811.7,Tunisia,Germany,45,Flux Hautement Suspect,45711.81
+TX-01072,2026-01-01 17:51:00,Crypto-actifs,35367.19,Tunisia,France,45,Flux Hautement Suspect,46211.79
+TX-01073,2026-01-01 17:52:00,Crypto-actifs,116.58,Luxembourg,Austria,60,Flux Hautement Suspect,48278.6
+TX-01074,2026-01-01 17:53:00,Espèces,54398.71,Luxembourg,Germany,60,Flux Hautement Suspect,50282.52
+TX-01075,2026-01-01 17:54:00,Espèces,246615.44,Cayman islands,Austria,82,Flux Standard,53313.84
+TX-01076,2026-01-01 17:55:00,Société Écran,53366.69,Tunisia,Germany,45,Flux Hautement Suspect,45711.81
+TX-01077,2026-01-01 17:56:00,Société Écran,10002.87,Tunisia,Austria,45,Flux Hautement Suspect,45711.81
+TX-01078,2026-01-01 17:57:00,Virement Bancaire,6387.48,Switzerland,France,65,Flux Hautement Suspect,49709.27
+TX-01079,2026-01-01 17:58:00,Virement Bancaire,164050.11,Switzerland,France,65,Flux Standard,49709.27
+TX-01080,2026-01-01 17:59:00,Crypto-actifs,68014.57,Tunisia,France,45,Flux Hautement Suspect,46211.79
+TX-01081,2026-01-01 18:00:00,Crypto-actifs,24667.02,Switzerland,Austria,65,Flux Hautement Suspect,48967.54
+TX-01082,2026-01-01 18:01:00,Virement Bancaire,33194.99,Panama,France,78,Flux Opaque,51500.51
+TX-01083,2026-01-01 18:02:00,Espèces,49623.54,Tunisia,Austria,45,Flux Hautement Suspect,48215.7
+TX-01084,2026-01-01 18:03:00,Espèces,31792.79,Tunisia,Germany,45,Flux Hautement Suspect,48215.7
+TX-01085,2026-01-01 18:04:00,Société Écran,126398.24,Cayman islands,Austria,82,Flux Standard,50809.95
+TX-01086,2026-01-01 18:05:00,Société Écran,26709.51,Panama,Germany,78,Flux Opaque,50258.8
+TX-01087,2026-01-01 18:06:00,Espèces,1942.91,Tunisia,France,45,Flux Hautement Suspect,48215.7
+TX-01088,2026-01-01 18:07:00,Espèces,63967.24,Panama,Austria,78,Flux Opaque,52762.69
+TX-01089,2026-01-01 18:08:00,Crypto-actifs,78437.21,Switzerland,France,65,Flux Hautement Suspect,48967.54
+TX-01090,2026-01-01 18:09:00,Virement Bancaire,6328.05,Tunisia,France,45,Flux Hautement Suspect,46953.52
+TX-01091,2026-01-01 18:10:00,Crypto-actifs,5624.81,Panama,Austria,78,Flux Opaque,50758.78
+TX-01092,2026-01-01 18:11:00,Virement Bancaire,23053.63,Cayman islands,France,82,Flux Opaque,52051.66
+TX-01093,2026-01-01 18:12:00,Espèces,7577.88,Tunisia,France,45,Flux Hautement Suspect,48215.7
+TX-01094,2026-01-01 18:13:00,Virement Bancaire,60158.87,Cayman islands,Germany,82,Flux Opaque,52051.66
+TX-01095,2026-01-01 18:14:00,Espèces,59742.21,Cayman islands,Germany,82,Flux Opaque,53313.84
+TX-01096,2026-01-01 18:15:00,Société Écran,77262.39,Panama,France,78,Flux Opaque,50258.8
+TX-01097,2026-01-01 18:16:00,Virement Bancaire,13930.92,Switzerland,France,65,Flux Hautement Suspect,49709.27
+TX-01098,2026-01-01 18:17:00,Virement Bancaire,13168.17,Cayman islands,Germany,82,Flux Opaque,52051.66
+TX-01099,2026-01-01 18:18:00,Crypto-actifs,55218.41,Switzerland,Austria,65,Flux Hautement Suspect,48967.54
+TX-01100,2026-01-01 18:19:00,Crypto-actifs,58881.66,Tunisia,France,45,Flux Hautement Suspect,46211.79
+TX-01101,2026-01-01 18:20:00,Crypto-actifs,17502.56,Panama,Austria,78,Flux Opaque,50758.78
+TX-01102,2026-01-01 18:21:00,Société Écran,3456.6,Luxembourg,Austria,60,Flux Hautement Suspect,47778.62
+TX-01103,2026-01-01 18:22:00,Espèces,106653.0,Cayman islands,Austria,82,Flux Standard,53313.84
+TX-01104,2026-01-01 18:23:00,Virement Bancaire,7961.98,Tunisia,France,45,Flux Hautement Suspect,46953.52
+TX-01105,2026-01-01 18:24:00,Virement Bancaire,79555.66,Luxembourg,Austria,60,Flux Hautement Suspect,49020.34
+TX-01106,2026-01-01 18:25:00,Société Écran,28489.34,Luxembourg,Germany,60,Flux Hautement Suspect,47778.62
+TX-01107,2026-01-01 18:26:00,Crypto-actifs,60975.42,Switzerland,France,65,Flux Hautement Suspect,48967.54
+TX-01108,2026-01-01 18:27:00,Société Écran,92495.33,Luxembourg,Germany,60,Flux Standard,47778.62
+TX-01109,2026-01-01 18:28:00,Virement Bancaire,15512.94,Panama,France,78,Flux Opaque,51500.51
+TX-01110,2026-01-01 18:29:00,Espèces,17763.21,Tunisia,Austria,45,Flux Hautement Suspect,48215.7
+TX-01111,2026-01-01 18:30:00,Espèces,56059.88,Tunisia,Austria,45,Flux Hautement Suspect,48215.7
+TX-01112,2026-01-01 18:31:00,Espèces,45559.81,Luxembourg,Austria,60,Flux Hautement Suspect,50282.52
+TX-01113,2026-01-01 18:32:00,Espèces,32623.3,Tunisia,France,45,Flux Hautement Suspect,48215.7
+TX-01114,2026-01-01 18:33:00,Crypto-actifs,31244.03,Switzerland,Austria,65,Flux Hautement Suspect,48967.54
+TX-01115,2026-01-01 18:34:00,Crypto-actifs,20864.93,Switzerland,Austria,65,Flux Hautement Suspect,48967.54
+TX-01116,2026-01-01 18:35:00,Espèces,123778.61,Cayman islands,Austria,82,Flux Standard,53313.84
+TX-01117,2026-01-01 18:36:00,Virement Bancaire,61506.56,Cayman islands,Germany,82,Flux Opaque,52051.66
+TX-01118,2026-01-01 18:37:00,Virement Bancaire,11812.99,Panama,France,78,Flux Opaque,51500.51
+TX-01119,2026-01-01 18:38:00,Espèces,52111.69,Tunisia,Germany,45,Flux Hautement Suspect,48215.7
+TX-01120,2026-01-01 18:39:00,Espèces,16653.07,Cayman islands,France,82,Flux Opaque,53313.84
+TX-01121,2026-01-01 18:40:00,Espèces,65867.19,Cayman islands,France,82,Flux Opaque,53313.84
+TX-01122,2026-01-01 18:41:00,Crypto-actifs,28866.2,Tunisia,France,45,Flux Hautement Suspect,46211.79
+TX-01123,2026-01-01 18:42:00,Espèces,106882.25,Cayman islands,Germany,82,Flux Standard,53313.84
+TX-01124,2026-01-01 18:43:00,Espèces,27205.18,Panama,Germany,78,Flux Opaque,52762.69
+TX-01125,2026-01-01 18:44:00,Société Écran,826.31,Luxembourg,France,60,Flux Hautement Suspect,47778.62
+TX-01126,2026-01-01 18:45:00,Crypto-actifs,11462.36,Cayman islands,Germany,82,Flux Opaque,51309.93
+TX-01127,2026-01-01 18:46:00,Société Écran,8796.07,Panama,Germany,78,Flux Opaque,50258.8
+TX-01128,2026-01-01 18:47:00,Virement Bancaire,20980.31,Switzerland,Germany,65,Flux Hautement Suspect,49709.27
+TX-01129,2026-01-01 18:48:00,Espèces,39488.46,Tunisia,Germany,45,Flux Hautement Suspect,48215.7
+TX-01130,2026-01-01 18:49:00,Société Écran,2333.82,Cayman islands,Austria,82,Flux Opaque,50809.95
+TX-01131,2026-01-01 18:50:00,Espèces,48297.83,Tunisia,Austria,45,Flux Hautement Suspect,48215.7
+TX-01132,2026-01-01 18:51:00,Virement Bancaire,20352.78,Tunisia,Austria,45,Flux Hautement Suspect,46953.52
+TX-01133,2026-01-01 18:52:00,Société Écran,4924.07,Switzerland,France,65,Flux Hautement Suspect,48467.56
+TX-01134,2026-01-01 18:53:00,Virement Bancaire,11681.28,Panama,Germany,78,Flux Opaque,51500.51
+TX-01135,2026-01-01 18:54:00,Crypto-actifs,23269.87,Panama,Germany,78,Flux Opaque,50758.78
+TX-01136,2026-01-01 18:55:00,Crypto-actifs,34498.2,Switzerland,Germany,65,Flux Hautement Suspect,48967.54
+TX-01137,2026-01-01 18:56:00,Espèces,23376.95,Panama,France,78,Flux Opaque,52762.69
+TX-01138,2026-01-01 18:57:00,Espèces,20417.96,Panama,Germany,78,Flux Opaque,52762.69
+TX-01139,2026-01-01 18:58:00,Espèces,1892.79,Tunisia,France,45,Flux Hautement Suspect,48215.7
+TX-01140,2026-01-01 18:59:00,Virement Bancaire,84419.31,Cayman islands,France,82,Flux Opaque,52051.66
+TX-01141,2026-01-01 19:00:00,Espèces,41104.42,Switzerland,France,65,Flux Hautement Suspect,50971.45
+TX-01142,2026-01-01 19:01:00,Crypto-actifs,7669.76,Tunisia,Austria,45,Flux Hautement Suspect,46211.79
+TX-01143,2026-01-01 19:02:00,Crypto-actifs,129931.56,Luxembourg,Germany,60,Flux Standard,48278.6
+TX-01144,2026-01-01 19:03:00,Espèces,16855.58,Tunisia,France,45,Flux Hautement Suspect,48215.7
+TX-01145,2026-01-01 19:04:00,Crypto-actifs,75456.57,Switzerland,Austria,65,Flux Hautement Suspect,48967.54
+TX-01146,2026-01-01 19:05:00,Espèces,17236.56,Cayman islands,Germany,82,Flux Opaque,53313.84
+TX-01147,2026-01-01 19:06:00,Société Écran,12168.05,Panama,Austria,78,Flux Opaque,50258.8
+TX-01148,2026-01-01 19:07:00,Crypto-actifs,14821.35,Cayman islands,Austria,82,Flux Opaque,51309.93
+TX-01149,2026-01-01 19:08:00,Société Écran,9124.95,Luxembourg,France,60,Flux Hautement Suspect,47778.62
+TX-01150,2026-01-01 19:09:00,Virement Bancaire,52759.22,Panama,Austria,78,Flux Opaque,51500.51
+TX-01151,2026-01-01 19:10:00,Crypto-actifs,99310.82,Switzerland,France,65,Flux Standard,48967.54
+TX-01152,2026-01-01 19:11:00,Virement Bancaire,209012.78,Luxembourg,Austria,60,Flux Standard,49020.34
+TX-01153,2026-01-01 19:12:00,Espèces,59419.27,Switzerland,France,65,Flux Hautement Suspect,50971.45
+TX-01154,2026-01-01 19:13:00,Société Écran,48166.86,Tunisia,Germany,45,Flux Hautement Suspect,45711.81
+TX-01155,2026-01-01 19:14:00,Société Écran,16431.18,Luxembourg,Austria,60,Flux Hautement Suspect,47778.62
+TX-01156,2026-01-01 19:15:00,Virement Bancaire,68901.43,Luxembourg,Austria,60,Flux Hautement Suspect,49020.34
+TX-01157,2026-01-01 19:16:00,Espèces,86196.86,Switzerland,Germany,65,Flux Standard,50971.45
+TX-01158,2026-01-01 19:17:00,Société Écran,12098.11,Luxembourg,France,60,Flux Hautement Suspect,47778.62
+TX-01159,2026-01-01 19:18:00,Virement Bancaire,81581.9,Luxembourg,France,60,Flux Hautement Suspect,49020.34
+TX-01160,2026-01-01 19:19:00,Crypto-actifs,30350.47,Cayman islands,Austria,82,Flux Opaque,51309.93
+TX-01161,2026-01-01 19:20:00,Crypto-actifs,51094.29,Switzerland,France,65,Flux Hautement Suspect,48967.54
+TX-01162,2026-01-01 19:21:00,Crypto-actifs,55891.72,Luxembourg,France,60,Flux Hautement Suspect,48278.6
+TX-01163,2026-01-01 19:22:00,Société Écran,117853.64,Switzerland,France,65,Flux Standard,48467.56
+TX-01164,2026-01-01 19:23:00,Espèces,210.31,Cayman islands,France,82,Flux Opaque,53313.84
+TX-01165,2026-01-01 19:24:00,Espèces,25510.31,Panama,Germany,78,Flux Opaque,52762.69
+TX-01166,2026-01-01 19:25:00,Espèces,59333.99,Cayman islands,Germany,82,Flux Opaque,53313.84
+TX-01167,2026-01-01 19:26:00,Espèces,76935.69,Panama,Germany,78,Flux Opaque,52762.69
+TX-01168,2026-01-01 19:27:00,Virement Bancaire,10857.04,Panama,France,78,Flux Opaque,51500.51
+TX-01169,2026-01-01 19:28:00,Espèces,156485.42,Switzerland,France,65,Flux Standard,50971.45
+TX-01170,2026-01-01 19:29:00,Virement Bancaire,116760.76,Panama,Germany,78,Flux Standard,51500.51
+TX-01171,2026-01-01 19:30:00,Société Écran,27172.8,Cayman islands,Germany,82,Flux Opaque,50809.95
+TX-01172,2026-01-01 19:31:00,Virement Bancaire,54125.91,Luxembourg,Austria,60,Flux Hautement Suspect,49020.34
+TX-01173,2026-01-01 19:32:00,Virement Bancaire,128319.11,Switzerland,Germany,65,Flux Standard,49709.27
+TX-01174,2026-01-01 19:33:00,Virement Bancaire,18538.7,Cayman islands,Austria,82,Flux Opaque,52051.66
+TX-01175,2026-01-01 19:34:00,Crypto-actifs,21545.23,Switzerland,Germany,65,Flux Hautement Suspect,48967.54
+TX-01176,2026-01-01 19:35:00,Virement Bancaire,33992.5,Tunisia,Germany,45,Flux Hautement Suspect,46953.52
+TX-01177,2026-01-01 19:36:00,Virement Bancaire,12508.68,Luxembourg,Austria,60,Flux Hautement Suspect,49020.34
+TX-01178,2026-01-01 19:37:00,Société Écran,8714.64,Switzerland,France,65,Flux Hautement Suspect,48467.56
+TX-01179,2026-01-01 19:38:00,Société Écran,8022.25,Tunisia,Austria,45,Flux Hautement Suspect,45711.81
+TX-01180,2026-01-01 19:39:00,Société Écran,23078.3,Luxembourg,France,60,Flux Hautement Suspect,47778.62
+TX-01181,2026-01-01 19:40:00,Crypto-actifs,21136.6,Cayman islands,France,82,Flux Opaque,51309.93
+TX-01182,2026-01-01 19:41:00,Société Écran,32884.91,Panama,France,78,Flux Opaque,50258.8
+TX-01183,2026-01-01 19:42:00,Crypto-actifs,18267.01,Switzerland,Germany,65,Flux Hautement Suspect,48967.54
+TX-01184,2026-01-01 19:43:00,Virement Bancaire,9885.09,Luxembourg,Austria,60,Flux Hautement Suspect,49020.34
+TX-01185,2026-01-01 19:44:00,Société Écran,133062.54,Tunisia,Austria,45,Flux Standard,45711.81
+TX-01186,2026-01-01 19:45:00,Crypto-actifs,31314.11,Switzerland,France,65,Flux Hautement Suspect,48967.54
+TX-01187,2026-01-01 19:46:00,Virement Bancaire,74452.49,Cayman islands,Germany,82,Flux Opaque,52051.66
+TX-01188,2026-01-01 19:47:00,Virement Bancaire,9424.24,Panama,Austria,78,Flux Opaque,51500.51
+TX-01189,2026-01-01 19:48:00,Crypto-actifs,11190.11,Switzerland,France,65,Flux Hautement Suspect,48967.54
+TX-01190,2026-01-01 19:49:00,Société Écran,28208.65,Luxembourg,France,60,Flux Hautement Suspect,47778.62
+TX-01191,2026-01-01 19:50:00,Espèces,149015.0,Cayman islands,Germany,82,Flux Standard,53313.84
+TX-01192,2026-01-01 19:51:00,Crypto-actifs,53094.57,Tunisia,Austria,45,Flux Hautement Suspect,46211.79
+TX-01193,2026-01-01 19:52:00,Société Écran,33143.21,Switzerland,Austria,65,Flux Hautement Suspect,48467.56
+TX-01194,2026-01-01 19:53:00,Espèces,79657.77,Luxembourg,France,60,Flux Hautement Suspect,50282.52
+TX-01195,2026-01-01 19:54:00,Crypto-actifs,92090.0,Cayman islands,Germany,82,Flux Opaque,51309.93
+TX-01196,2026-01-01 19:55:00,Crypto-actifs,45083.64,Tunisia,Austria,45,Flux Hautement Suspect,46211.79
+TX-01197,2026-01-01 19:56:00,Virement Bancaire,13279.19,Luxembourg,Germany,60,Flux Hautement Suspect,49020.34
+TX-01198,2026-01-01 19:57:00,Virement Bancaire,37812.72,Switzerland,Germany,65,Flux Hautement Suspect,49709.27
+TX-01199,2026-01-01 19:58:00,Virement Bancaire,78458.5,Tunisia,France,45,Flux Hautement Suspect,46953.52
+TX-01200,2026-01-01 19:59:00,Virement Bancaire,13440.76,Tunisia,France,45,Flux Hautement Suspect,46953.52
